@@ -1,91 +1,146 @@
 # WEEKLY PERFORMANCE AUDIT — JEFRY
-**Week: 30 Mar – 3 Apr 2026 | Focus: Google Ads**
-**Generated: 2026-04-03**
-
-## DATA COVERAGE
-- Mon 30 Mar: EOD provided ✅
-- Tue 31 Mar: No EOD provided ❌
-- Wed 1 Apr: EOD provided ✅
-- Thu 2 Apr: No EOD provided ❌
-- Fri 3 Apr: Leave confirmed ✅
-
-Audit proceeds on 2 days of data only. Missing EODs (31 Mar, 2 Apr) are treated as unaccounted time.
+**Period:** 30/03/2026 – 02/04/2026 (Mon–Thu | Friday 03/04 = Leave)
+**Auditor:** Claude Audit Bot
+**Generated:** 2026-04-03
 
 ---
 
-## SECTION A — PERFORMANCE AUDIT
+## SECTION A — WEEKLY PERFORMANCE AUDIT
+
+---
 
 ### 1. VALUE CREATED
-- New Google Ads campaign launched (30 Mar): Structure created, assets and product groups configured.
-- Google Ads analysis executed (30 Mar, ~1hr): Search terms reviewed, CPC patterns monitored.
-- B&Q 10 new listings completed (30 Mar, ~1.5hrs): Fully optimised — direct marketplace revenue channel expansion.
-- Collection page SEO optimised (1 Apr): Glass Pendant Lights titles, headings, metadata updated.
-- DC Pendant Lights blog published (1 Apr): Blog + collection synergy for internal linking.
-- Listing corrections applied (1 Apr): Product/listing data accuracy improved.
 
-### 2. OPPORTUNITY WASTED — COMPANY
-- Meta analysis with Ripsan consumed 2h 15min unplanned (30 Mar). ~30% of Monday's Google Ads capacity lost.
-- Fine-tuning NOT completed on 30 Mar — directly impacts Shopping Ads conversion rate.
-- New Google campaign + Meta troubleshooting on same day — attribution impossible, risk not flagged.
-- 31 Mar and 2 Apr: No EOD. ~40% of week unaccounted.
-- 1 Apr EOD is predominantly SEO work — Google Ads campaign monitoring absent entirely.
+- **B&Q Listings (28 total across 2 days):** 18 listings on 31/03 + additional on 30/03 — direct retail catalog expansion. Highest-volume provable output of the week.
+- **Supplemental Feed Exclusion (02/04):** Removed overlapping SKUs using supplemental feed. Prevented cannibalization, cleaned campaign structure — measurable budget protection action.
+- **Negative Keyword & Search Term Analysis (30/03):** Identified wasted spend sources in Google PMax. Contributed to ROAS stability signal reported across the week.
+- **New Google Ads Campaign Created (30/03):** New structured campaign launched with assets and product groups configured. Execution confirmed.
+- **Meta Deep Audit with Ripsan (30/03):** Diagnosed root cause of post-20th ROAS drop. Audience overlap in Sweden/Belgium campaigns surfaced — genuine value if actioned.
+- **New Website Listings (3 days running):** Listings 3620/3621 (31/03) and 3635/3636/3637 (02/04) added cleanly and feed-ready.
+- **Search AI Max Campaign Initiated (02/04):** Early adoption of Google's new campaign format. Incomplete but strategically correct timing.
 
-### 3. OPPORTUNITY WASTED — CAREER
-- Missing EODs on 31 Mar and 2 Apr signal accountability failure at specialist level.
-- Role-scope drift into SEO (1 Apr) without documented management directive.
-- Allowing 2h+ unplanned Meta session to derail Google Ads workflow — pattern risk.
-- New campaign launched with zero documented follow-up for rest of week.
+---
+
+### 2. OPPORTUNITY WASTED (COMPANY)
+
+- **Meta ROAS issue identified 30/03 — no structured correction plan delivered by 02/04.** 4 days of known structural audience failure with only "monitoring" documented. Minimum 3 days of continued inefficient Meta spend unaddressed.
+- **Search AI Max campaign not completed (02/04).** 2 hours invested, zero live output. Incomplete campaigns are zero-value until live.
+- **B&Q YOY sales data (02/04) consumed ~1hr via manual invoice-by-invoice review.** No evidence flagged for automation or delegation. Senior channel time on data entry.
+- **Finetuning skipped on 30/03.** Confirmed in own EOD. No catch-up evidence across remaining days.
+- **Meta unplanned 2h 15m session (30/03).** Self-identified. No corrective time-boxing in subsequent days — pattern risk remains live.
+
+---
+
+### 3. OPPORTUNITY WASTED (CAREER)
+
+- **Self-aware but non-corrective pattern:** EODs identify inefficiencies repeatedly but show no behavior change across the week. Awareness without ownership signals a ceiling.
+- **No ROAS numbers on 31/03, 01/04, or 02/04.** Only 30/03 has ROAS context. A dual-channel performance role without daily ROAS reporting is unauditable for revenue impact.
+- **Incomplete campaign left open (Search AI Max).** 2-hour investment with no stated completion deadline in subsequent EODs. Trust-eroding pattern.
+- **No formal escalation on Meta structural issue.** Surfaced 30/03, unresolved and undocumented as an escalation by 02/04. Issue identified but not owned.
+
+---
 
 ### 4. VALUE PER HOUR JUDGMENT
-**Rating: LOW–MEDIUM**
-Google Ads-specific high-leverage output amounts to ~2–3 hours of documented work across the week. Insufficient for a specialist role.
+
+**Rating: MEDIUM**
+
+Consistent daily activity across Google, Meta, website, and B&Q. Catalog expansion and feed hygiene are real outputs. However, the two highest-leverage activities of the week — Meta recovery and Search AI Max — were both left incomplete. Value is driven by execution volume, not strategic outcomes. Time leakage on Meta discussion and B&Q manual reporting is confirmed and unresolved.
+
+---
 
 ### 5. WEEKLY SCORE
-| Component | Weight | Score |
-|---|---|---|
-| Output Quality | 40% | 34/40 |
-| Focus & Prioritisation | 30% | 14/30 |
-| Opportunity Stewardship | 30% | 10/30 |
-| **TOTAL** | | **58 / 100** |
+
+| Component | Weight | Score | Weighted |
+|---|---|---|---|
+| Output Quality | 40% | 58 | 23.2 |
+| Focus & Prioritization | 30% | 50 | 15.0 |
+| Opportunity Stewardship | 30% | 52 | 15.6 |
+| **TOTAL** | | | **53.8 / 100** |
+
+**Score: 54 / 100**
+
+---
 
 ### 6. ONE-SENTENCE VERDICT
-"This week, Jefry was Amber–Red because two days of work are completely unaccounted for, fine-tuning was skipped, the new Google Ads campaign was never followed up after launch, and over two hours were surrendered to an unplanned off-channel task."
 
-### 7. TOP 3 CORRECTIONS — MANDATORY
-1. EOD is non-negotiable. Every working day requires a filed EOD. Two missing in one week = trust-breaking pattern.
-2. After launching any new campaign, day-2 monitoring is mandatory. First 48hrs requires: CTR check, search term review, spend pacing, documented next action.
-3. Protect Google Ads core tasks before accepting cross-channel requests. Fine-tuning and campaign monitoring first. Cross-channel support capped at 30 mins unless redirected by management.
+This week, Jefry was **Amber** because consistent execution volume across channels was undermined by two incomplete high-value actions (Meta recovery plan, Search AI Max campaign) and a recurring pattern of self-identified inefficiencies that went uncorrected.
+
+---
+
+### 7. TOP 3 CORRECTIONS (MANDATORY)
+
+1. **Complete before closing.** No campaign or action carries forward across EODs as "in progress" without a hard completion deadline in the same report. If blocked, escalate same day.
+2. **Report ROAS every day, both channels.** Google ROAS and Meta ROAS must appear in every EOD with a prior-day delta. No number = no evidence = no accountability.
+3. **Cap unplanned cross-team sessions at 30 minutes with a pre-defined agenda.** Prepare a 5-question agenda before any diagnostic call. Hard stop at 30 minutes. Actions documented in EOD same day.
+
+---
 
 ### 8. FAILURE ANALYSIS
-**High-value output:** B&Q 10 listings (strong execution), new Google Ads campaign creation, search term monitoring on 30 Mar.
-**Time wasted:** 2h 15min unplanned Meta session; 1 Apr spent on SEO/blog work outside Google Ads remit.
-**Appeared productive but low-impact:** Blog writing (1 Apr) — not Google Ads remit; Workflow discussion — no documented artifact produced.
-**Blockers not escalated:** Fine-tuning skip not rescheduled or flagged. 31 Mar and 2 Apr dark days not explained to management.
+
+**Where opportunity converted into high-value output:**
+- B&Q listing volume (28 listings) is the clearest tangible output of the week.
+- Supplemental feed exclusion (02/04) is a precise, measurable campaign hygiene action.
+- Meta root-cause identification on 30/03 (audience overlap) is valuable — if it had been actioned.
+
+**Where time was wasted:**
+- 30/03: 2h 15m unplanned Meta session (confirmed overrun in own EOD).
+- 02/04: ~1hr manual invoice-by-invoice B&Q YOY check.
+- 30/03: Finetuning skipped with no confirmed catch-up.
+
+**Tasks that appeared productive but were low-impact:**
+- Daily "full account analysis" blocks (1h Google + 1.5h Meta) repeated every day with no delta output or new action triggered. Monitoring loops without confirmed actions are time cost with unclear return.
+- "Clarity check" and "automation workflow coordination" on 31/03 — no measurable outcome documented.
+
+**Blockers not escalated early enough:**
+- Meta audience strategy failure: Identified 30/03, not formally escalated or resolved by 02/04. Four days of known structural issue without escalation.
+- Search AI Max requirements blocker: Noted 02/04, no revised completion estimate documented, no escalation to team lead evidenced.
+
+---
 
 ### 9. FORWARD RISK
-- **Company:** New Google Ads campaign in learning phase with no optimisation oversight. Germany channel has no documented oversight for large portions of the week.
-- **Career:** Pattern of missing EODs + role drift creates unreliability record. Justifying senior responsibility or autonomy becomes difficult.
+
+**Company risk if pattern continues:**
+- Meta ROAS instability continues unresolved → budget leakage across Sweden/Belgium campaigns accumulates.
+- Search AI Max stays incomplete → competitor captures first-mover advantage, budget sits in unoptimized structure.
+- B&Q manual reporting continues → 1hr/week of channel management time consumed on data entry.
+
+**Career risk if pattern continues:**
+- EODs that self-diagnose without self-correcting signal a low accountability ceiling. Limits trust expansion — particularly for the Germany channel ownership scope.
+- No daily ROAS reporting = no performance evidence trail = invisible output to leadership.
 
 ---
 
 ## SECTION B — NEXT WEEK TASK PIPE
 
-**Task 1: New Campaign Performance Audit (launched 30 Mar)**
-- Expected Outcome: First-week performance documented — CTR, search terms, spend pacing, conversion signals, next action defined.
-- Success Signal: Written summary with ≥3 specific next actions logged by EOD Monday.
+**Week:** 06/04 – 10/04/2026
 
-**Task 2: Fine-Tuning — Underperforming SKUs (Google Ads report-driven)**
-- Expected Outcome: 8–10 SKUs optimised (title, image, price) based on clicks-no-conversion data.
-- Success Signal: List of SKUs updated with before/after change log in EOD.
+---
 
-**Task 3: Germany Ads — Search Term Mining & Negative Keyword Update**
-- Expected Outcome: Germany campaigns cleaned; negative keyword list updated across all active Germany campaigns.
-- Success Signal: Minimum 10 new negatives added, documented with rationale; ROAS trend checked pre/post.
+**Task 1: Close the Meta Recovery Plan**
+- Expected Outcome: Documented and executed audience correction for Sweden/Belgium — new segmentation applied, learning phase restarted.
+- Success Signal: EOD Monday 06/04 includes specific changes made, new audience structure confirmed in Meta Ads Manager, and expected recovery timeline.
 
-**Task 4: Daily EOD Filed — All 5 Days**
-- Expected Outcome: Unbroken EOD record with Google Ads-specific outputs.
-- Success Signal: 5/5 EODs submitted before EOD. Zero missing.
+---
 
-**Task 5: Meta/Cross-Channel Time Boundary**
-- Expected Outcome: Any cross-channel support capped at 30 mins/day, only after core Google Ads tasks complete.
-- Success Signal: No day where Google Ads fine-tuning or monitoring is skipped due to cross-channel sessions.
+**Task 2: Complete and Launch Search AI Max Campaign**
+- Expected Outcome: Campaign fully configured with correct assets, signals, keyword intent mapping — live by Wednesday 08/04.
+- Success Signal: Campaign status = Active, first 24h impression and CPC data reported in EOD 08/04.
+
+---
+
+**Task 3: Daily ROAS Reporting — Both Channels (Non-Negotiable)**
+- Expected Outcome: Every EOD includes Google ROAS and Meta ROAS with a day-on-day delta. No exceptions.
+- Success Signal: All EODs Mon–Thu contain a ROAS table with two rows (Google, Meta) and delta column. One missing = failed.
+
+---
+
+**Task 4: Finetuning — Minimum 5 SKUs/Day from Clicks-No-Conversion Report**
+- Expected Outcome: 20 SKUs fine-tuned across the week. Titles, images, prices corrected using Google Ads performance data.
+- Success Signal: Each EOD lists specific SKU IDs worked, what changed, and which performance signal triggered the action.
+
+---
+
+**Task 5: B&Q YOY Reporting — Propose Automation or Delegation**
+- Expected Outcome: Written proposal to remove manual invoice-by-invoice process — CSV export, Apps Script, or delegation plan.
+- Success Signal: Proposal submitted to team lead by Wednesday 08/04 with one of: automation approach, delegation plan, or documented justification for manual continuation.
+
