@@ -1,60 +1,59 @@
-# Weekly Performance Audit — Ripson
-**Period:** Mon 30 Mar – Fri 03 Apr 2026
-**Audited:** Friday, 03 Apr 2026
-**Leave Days:** Thu 02 Apr (confirmed absent — no EOD)
-**Working Days Audited:** 3 (Mon 30, Tue 31, Wed 01)
+# Weekly Audit – Ripson | Week: 30 Mar – 03 Apr 2026
+**Audit Date:** 03/04/2026
+**EODs Available:** 30/03, 31/03, 01/04 (3 of 5)
+**Missing:** 02/04 – No EOD submitted | 03/04 – Approved Leave
 
 ---
 
-## A. WEEKLY AUDIT
+## A. WEEKLY PERFORMANCE AUDIT
 
 ### VALUE CREATED
-- Monitored Facebook Ads and TikTok Ads daily across all 3 working days
-- Replied to UK Facebook ad comments and customer inquiries (31 Mar)
-- UK campaign produced €1,150 in recorded sales (31 Mar) — only hard revenue figure in the week
-- Created new Facebook ad copy for lighting products (30 Mar)
-- Initiated retargeting strategy targeting Add to Cart audience (30 Mar, carried forward)
-- Canada campaign optimization actioned with adjustments (31 Mar)
+- Monitored and managed Meta Ads campaigns across UK and Canada markets (3 days of active oversight)
+- Identified and responded to UK Facebook ad comments and customer inquiries — direct revenue-touch activity
+- Recorded UK sales performance milestone: €1,150 on 31/03 — only concrete revenue figure in the week
+- Built and prepared a retargeting strategy targeting Add to Cart audience — forward pipeline work
+- Optimised Canada campaign with adjustments — active intervention, not passive monitoring
+- Created and tested new Facebook ad copy for lighting products — creative pipeline maintained
+- Planned and worked on new ad ideas across two consecutive days — continuity of creative development
 
 ### OPPORTUNITY WASTED (COMPANY)
-- **Retargeting campaign never confirmed launched.** "Prepared" on 30 Mar, still "prepared" on 01 Apr — two consecutive days, zero evidence of go-live. Every day it sat undeployed = warm audiences cooling. Estimated cost: Add to Cart audiences have a 1–3 day relevance window. 2-day delay = audience decay, wasted remarketing budget setup.
-- **Zero performance metrics reported across all 3 EODs.** No CTR, CPA, ROAS, spend, impressions, or conversion data cited on any day. Impossible to validate whether any campaign action created or destroyed value.
-- **TikTok Ads checked daily — zero insight extracted.** "Reviewed" and "analyzed" with no findings, no numbers, no action taken. Three days of TikTok monitoring produced nothing actionable.
-- **Canada campaign optimization: vague and unverified.** "Adjustments for better results" — no baseline, no change log, no expected outcome. Cannot assess whether this helped or hurt.
-- **New ad creatives mentioned but no evidence of upload, testing, or scheduling.** Copy "worked on" — not confirmed live or in review.
+- **No campaign launch confirmed.** Retargeting strategy was "prepared" on 30/03, "planned" on 01/04 — no EOD confirms it went live. Every day of delay on a warm Add to Cart audience bleeds audience freshness and conversion potential. **Estimated cost: audience cooling, lost retargeting window.**
+- **No performance data shared.** Zero CTR, ROAS, CPA, or spend figures across all 3 EODs. Management cannot make budget or scaling decisions on "campaigns are active." Blind spot for the whole week.
+- **TikTok Ads — no substantive update.** Checked and reviewed on 30/03 and 01/04 but zero output (no copy created, no audience built, no test launched). Monitoring without action is not value creation.
+- **02/04 EOD missing.** Thursday is a full working day. No EOD = no accountability trail for that day. Unknown what, if anything, was actioned.
+- **Canada campaign — no outcome stated.** Optimisation mentioned on 31/03 but no follow-up on 01/04. No signal on whether changes produced results.
 
 ### OPPORTUNITY WASTED (CAREER)
-- **EODs are near-identical across all 3 days** — same bullet structure, same language, copy-paste behavior visible. This signals task-ticking, not performance ownership. Destroys credibility with leadership.
-- **No numbers in any report.** A Meta Ads manager who can't report a single metric in a weekly summary looks like they don't understand the data — even if they do.
-- **No evidence of decision-making.** EODs list actions checked/monitored but zero evidence of a decision made, a hypothesis tested, or a finding acted upon. Invisible analytical value = unpromotable profile.
+- Reporting style is consistently vague — "campaigns under monitoring," "engagement observed," "optimization in progress." This pattern signals low ownership and makes it impossible for leadership to assess performance. Repeated over weeks, this erodes trust and promotion prospects.
+- No TikTok output despite two days of "reviewing" — this registers as effort theater, not skill development on a high-growth channel.
+- Missing Thursday EOD with no noted explanation damages reliability record. One leave day is approved; one missing EOD is not.
 
-### VALUE PER HOUR JUDGEMENT — **LOW**
-Three working days produced one revenue data point (€1,150 UK, passively observed), one retargeting strategy that never launched, and three days of TikTok monitoring with zero extracted insight. Ad copy was "worked on" — not shipped. Canada was "optimized" — not measured. The output visible on paper does not justify a full-time paid Meta Ads resource. No numbers, no decisions, no confirmed launches.
+### VALUE PER HOUR JUDGEMENT
+**Rating: LOW–MEDIUM**
+Three days of EODs produced one concrete revenue number (€1,150 UK), one retargeting strategy not confirmed live, and zero performance metrics. The work described is real — monitoring, replying, optimizing — but the output is reported at the activity level, not the results level. Without CTR, ROAS, or spend data, it is impossible to confirm whether the hours drove value or just motion. The one Canada optimization and UK sales figure prevent a full Low rating.
 
-### WEEKLY SCORE: **32 / 100**
-Deductions: no metrics reported (-25), retargeting not launched (-20), TikTok zero output (-10), duplicate EOD language (-8), no creative confirmed live (-5).
+### WEEKLY SCORE: **42 / 100**
+- Deductions: No data reported (−20), retargeting not confirmed launched (−15), TikTok zero output (−10), missing Thursday EOD (−8), no Canada follow-up (−5)
 
 ### ONE-SENTENCE VERDICT
-> "This week, Ripson was **Red** because three working days produced one passive revenue observation, a retargeting campaign that stayed on paper, and zero performance data in any report."
+"This week, Ripson was **Amber** because active campaign management was present but zero performance data was reported, the retargeting campaign was never confirmed live, and TikTok produced no actionable output across the full week."
 
 ---
 
 ### NEXT-WEEK CORRECTION
-- **STOP:** Writing EODs with zero numbers. Every EOD must include at minimum: spend, CTR, ROAS or CPA for the top active campaign.
-- **START:** Launching and logging. Every strategy "prepared" must have a confirmed go-live date and time in the same EOD.
-- **MEASURABLE OUTPUT TEST:** By Wednesday 08 Apr EOD — retargeting campaign must be live with confirmed launch screenshot, Day 1 spend, and Day 1 CTR reported.
+- **STOP:** Writing EODs that describe activity without numbers. Every EOD must include at least: spend, CTR, ROAS or CPA, and one decision made based on data.
+- **START:** Confirming campaign launches with a date/time stamp in EOD. "Retargeting launched 02/04 14:30, audience size X, budget €Y" — not "prepared."
+- **MEASURABLE OUTPUT TEST:** By end of next Friday, submit one performance report showing: UK Meta ROAS, Canada CPA before/after optimisation, and TikTok test result (even if negative). If not submitted, the week is automatically Red.
 
 ---
 
-## B. NEXT WEEK TASK PIPE
+## B. NEXT-WEEK TASK PIPE
 
 | # | Task | Expected Outcome | Success Signal |
 |---|------|-----------------|----------------|
-| 1 | **Launch Add to Cart retargeting campaign** — set live by Mon 06 Apr EOD | Warm audience re-engaged; incremental conversions captured | Campaign confirmed live, spend recorded, Day 1 CTR & reach reported in Monday EOD |
-| 2 | **Build a daily Meta Ads numbers dashboard** — minimum fields: spend, ROAS, CTR, CPA, conversions per campaign | Performance visible and reportable every day without effort | Dashboard shared with team by Tue 07 Apr; all EODs from that point include at least 3 metrics |
-| 3 | **TikTok Ads audit — extract one actionable finding per day** | TikTok effort produces a decision, not just a check | Each EOD from Wed onward contains one TikTok insight with a corresponding action taken |
-| 4 | **Canada campaign post-optimization report** — document what was changed, baseline vs. current CTR/CPA | Clarity on whether Canada changes helped or hurt | Written comparison (before vs. after) shared by Thu 09 Apr EOD |
-| 5 | **Ship and A/B test 2 ad copy variations for UK lighting** | Creative testing data collected; winning copy identified | Both variants live by Tue 07 Apr; performance comparison in Friday 10 Apr EOD |
+| 1 | **Launch Add to Cart retargeting campaign** (if not already live) — set audience, budget, creative, and confirm go-live in Monday EOD | Warm audience re-engaged, conversion pipeline activated | Campaign live with confirmed date/time, audience size, and opening CTR reported |
+| 2 | **Pull and report UK Meta performance data** — CTR, ROAS, CPA, spend for last 7 days | Management has decision-ready data to scale or pause | Numbers in Tuesday EOD; one scaling or pause decision made based on data |
+| 3 | **Launch one TikTok ad test** — single creative, defined audience, £/€ budget, clear hypothesis | TikTok channel moves from monitored to tested | Test live by Wednesday; initial impressions/CTR reported in Wednesday EOD |
+| 4 | **Canada campaign follow-up review** — compare KPIs before/after 31/03 optimisation | Confirm whether changes improved or worsened performance | Before/after table (CTR, CPA) in Thursday EOD with a clear next action |
+| 5 | **Produce a weekly paid media summary** (Meta + TikTok combined) for Muguntha — one page, key numbers, one risk, one opportunity | Leadership visibility; builds trust and career track record | Summary delivered to Muguntha by Friday EOD; no chase-up required |
 
----
-*Audit generated by Claude Audit Bot — 03 Apr 2026*
