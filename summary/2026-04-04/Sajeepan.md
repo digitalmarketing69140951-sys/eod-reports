@@ -1,81 +1,162 @@
-# Weekly Performance Audit — Sajeepan
-**Audit Date:** 2026-04-04 (Week: 30 Mar – 03 Apr 2026)
-**Role:** Google Ads Specialist
-**Working Days:** 4 (Wednesday 01/04 on leave)
+# WEEKLY PERFORMANCE AUDIT — SAJEEPAN
+**Week: 30/03/2026 – 04/04/2026 (4 working days — 01/04 On Leave)**
+**Audit Date: 04/04/2026**
 
 ---
 
-## A. VALUE CREATED
-
-- **Budget Scale-Up Executed (Thu 02/04):** SJ TOP 20 increased £19→£36 (+89%), P-MAX-KLARNA increased £19→£23 (+21%) based on prior ROAS data. This is the single most direct, confirmed revenue action of the week. If ROAS was profitable pre-scale, this has an immediate positive spend-to-revenue multiplier.
-- **Geographic Exclusions Applied (Mon 30/03):** Manchester and Antrim excluded from SJ Performance Max-25. Reduces geographic wasted spend on low-converting locations — small but clean, confirmed action.
-- **Competitor Brand Negative Keywords Identified (Mon 30/03):** poldina pro, zico lighting, fishpools lights, teckled flagged for removal. These are direct wasted-spend sources if left active — value is contingent on confirmed implementation (see below).
-- **DC Voltage New Product Listing Created (Tue 31/03 + Thu 02/04):** Product IDs 8475154022561 and others, plus 8477483761825 on Thursday, plus Easter Sale collection created. Expands shoppable inventory and promotional readiness ahead of Easter.
-- **Feed Optimisation — 27+ Products Across LEDSONE UK and DC Voltage (Fri 03/04):** 14 LEDSONE UK SKUs and 13 DC Voltage UK SKUs processed through feed and product optimisation. Directly improves Shopping ad eligibility, product matching quality, and PMax signal quality.
-- **DC_P-MAX Search Theme Preparation (Fri 03/04):** Asset Group 1 search themes structured around lighting, bulbs, fittings, chandeliers, outdoor lights. This is a necessary input to PMax learning — late in the week but executed.
-- **Google Business Profile Created — DC Voltage UK (Fri 03/04):** Foundation for local search signals and brand credibility. Incomplete (verification pending) but initiated.
+## SECTION A — PERFORMANCE AUDIT
 
 ---
 
-## B. OPPORTUNITY WASTED (COMPANY)
+### 1. VALUE CREATED
 
-- **Monday Was Almost Entirely "Review and Planning" — Zero Confirmed Changes Executed:** 9 tasks logged on 30/03. Concrete confirmed changes: 1 (geographic exclusions). Everything else — negative keyword review, audience signal review, asset group review, bid monitoring, feed check, action planning — were classified as reviews or planning. That is 6+ hours with one actionable outcome. The negative keywords for competitor brands (poldina pro, fishpools lights, etc.) were identified but NOT confirmed as added to any campaign. Those terms continued to consume budget for the rest of the week.
-- **Tuesday Was Mostly "Review" and "Support" Language With No Confirmed Campaign Changes:** Product category updates, feed classification review, campaign structure checks — all described as "reviewed", "worked on", "focused on", "supported." No confirmed before/after in campaign settings. The Besbet UK budget review on Tuesday was flagged but the actual budget change does not appear until a different task context on Thursday — suggesting the Tuesday review produced no immediate action.
-- **No Performance Metrics Referenced Anywhere in 4 Days of EOD Reports:** Not a single ROAS figure, CPA, CTR, conversion rate, impression share, or cost-per-click mentioned across the entire week. For a Google Ads specialist, this is a structural failure. Decisions about budget scaling, negative keywords, and asset optimisation should be anchored to performance data — without it, the work lacks a measurable direction and cannot be verified by management.
-- **Campaign Product Review Thursday Took 3 Hours 45 Minutes for 23 Products:** ~10 minutes per product. With no confirmed changes applied from this review, the output is an undocumented internal assessment with no traceable impact on campaign performance.
-- **Asset Group Optimisation (Thu 02/04) — Only 2 Assets Reviewed ("Asset 2", "Asset 3"):** Zero performance context given (CTR, quality score, ad strength). No confirmed asset swapped, paused, or improved. One hour logged.
-- **Google Business Profile Verification Not Completed (Fri 03/04):** Profile created but left unverified. Until verified, the profile has zero live SEO or local signal value. This is a half-finished task that should not be logged as completed.
-- **Old Product Campaign Creation Plan (Fri 03/04) — 30 Min on Planning, Not Executing:** A plan to make a plan. No campaign structure, no ad groups, no budget proposed, no launch date set. This is overhead dressed as output.
-- **Estimated Wasted Spend From Unconfirmed Negative Keywords:** If competitor brand terms (poldina pro, zico lighting, fishpools, teckled) were left active from Monday through Friday on a campaign spending ~£19–£36/day, even 5-10% of spend on irrelevant terms = £3–£5/day minimum = £15–£25 in preventable wasted spend this week alone.
-
----
-
-## C. OPPORTUNITY WASTED (CAREER)
-
-- **"Reviewed", "Worked On", "Supported", "Focused On" — This Language Hides Whether Anything Actually Changed:** Professional Google Ads output is measured in campaign changes made, not hours spent reviewing. Using this language consistently across 4 days makes it impossible for a team leader to verify output and actively erodes trust in reported work.
-- **No Metrics = No Accountability Signal:** A Google Ads specialist who cannot reference ROAS, CPA, or conversion data in their daily output is either not accessing the platform's performance view or not applying it to decisions. Either damages professional credibility.
-- **Planning Logged as Deliverable:** "Optimisation Action Planning", "Next-Step Review", "Follow-Up Review" — these are meeting prep, not professional outputs. Logging them as time blocks implies work was done when the actual deliverable (the executed action) wasn't.
-- **Incomplete Tasks Logged as Completed:** GBP verification pending, campaign plan not built — marking these complete signals poor quality control.
+- **Budget scaling executed Thursday with documented before/after figures:** SJ TOP 20 increased £19 → £36 (+89%), P-MAX-KLARNA-25-SJ increased £19 → £23 (+21%). Tied to previous month ROAS performance. Only concrete campaign-level decision with a quantified change this week.
+- **Geographic exclusions applied Monday (Manchester, Antrim)** — targeting cleaned, waste reduced at location level.
+- **4 competitor and irrelevant search terms identified for negative keyword action (Monday):** poldina pro table lamp, zico lighting, fishpools lights, teckled. Direct spend protection if actioned.
+- **DC Voltage new listing created Thursday (SKU: 8477483761825) with Easter Sale collection setup** — promotional readiness and product visibility expanded.
+- **27 LEDSONE UK and DC Voltage SKUs feed-optimised on Friday** — 14 LEDSONE, 13 DC Voltage — largest single-day concrete output of the week.
+- **DC Voltage PMax Asset Group 1 search themes prepared Friday** — covering lighting, bulbs, fittings, chandeliers, outdoor lights, electrical items — strengthens PMax intent signal structure.
+- **Google Business Profile created for DC Voltage UK (Friday)** — local visibility foundation established, pending verification.
 
 ---
 
-## D. VALUE PER HOUR JUDGEMENT
+### 2. OPPORTUNITY WASTED (COMPANY)
+
+- **Monday and Tuesday are almost entirely "review" and "planning" language with minimal confirmed system changes.** Across 10 tasks on Monday covering asset groups, audience signals, feed, bids, budgets, and negative keywords — the only confirmed system changes are 2 location exclusions and 4 terms marked for negative keyword review. 7.5 hours of described activity produced 2 documented outputs. The negative keywords identified on Monday have no confirmation of being added on any subsequent day.
+- **3 hours 45 minutes spent reviewing 23 SKUs in a product report on Thursday with no documented optimization changes to any of them.** This is the single largest time block of the week and it produced a review with no confirmed system output. At this rate per SKU, the 400+ product catalog cannot be managed at scale.
+- **Tuesday's product category and type updates across 12 products (two campaigns) have no documented system-level changes confirmed.** Language throughout is "reviewed," "focused on," "supported," "aligned" — none of these confirm that category or product type fields were actually changed in GMC or Shopify. If changes were made, they are not evidenced in the report.
+- **No ROAS, conversion, CPC, or spend data reported for any campaign on any day.** Four days of Google Ads management work with zero performance metrics cited. Without performance data, it is impossible to audit whether work direction was commercially correct or not. The budget scaling on Thursday is the sole exception — and that referenced "previous month ROAS" without stating the actual figure.
+- **Besbet UK budget review (Tuesday) and price change (Thursday) — no before/after figures, no performance rationale, no outcome documented.** These appear as completed tasks with no auditable evidence of what changed or why.
+- **Old product campaign plan (Friday) carried as "planning" with no build started.** Next step listed as "move from planning to campaign build" — meaning the entire Friday output for this item is a plan, not an execution. No timeline or owner for the build.
+
+---
+
+### 3. OPPORTUNITY WASTED (CAREER)
+
+- **The EOD report language across Monday and Tuesday is structured to describe activity, not outcomes.** "Worked on," "reviewed," "focused on," "supported," "prepared" — these are process words, not result words. A performance auditor reading these reports cannot determine whether any system was changed, any metric moved, or any campaign decision was made. This language pattern obscures accountability and reduces trust in reported output.
+- **Zero performance metrics self-reported across 4 working days.** An operator managing multiple PMax campaigns with no ROAS, conversion volume, or spend data in their weekly log is not operating with commercial visibility. This signals either that metrics are not being tracked daily, or that they are tracked but not surfaced — both are problematic.
+- **No team discussions reported on any day.** All work described as isolated individual activity. No coordination with other team members managing the same accounts or adjacent campaigns.
+- **Multiple tasks listed with "Daily task EOD SJ - Google Docs…" as the evidence reference** — meaning the actual evidence exists in an external doc that is not present in the EOD. From an audit perspective, a task with no inline evidence is a task with no proof. If that Google Doc disappears or is inaccessible, the week's work is unverifiable.
+
+---
+
+### 4. VALUE PER HOUR JUDGMENT
 
 **Rating: LOW–MEDIUM**
 
-Across 4 working days (~28–30 hours), confirmed high-value outputs are: one budget scale-up decision, geographic exclusions, one new product listing, one Easter collection, feed optimisation on 27+ SKUs, and search theme preparation. The feed and listing work on Thursday and Friday shows genuine execution. However, Monday's entire day and most of Tuesday are analytically hollow — reviews and plans with no confirmed campaign changes. The absence of any performance data in EOD reporting means it is impossible to calculate ROI on the week's work. Budget scaling without a stated ROAS baseline is a positive signal, but without knowing what ROAS was before and after, it cannot be quantified. Conservatively, ~40% of the week's hours produced traceable, confirmed outputs.
+Friday was a strong execution day — 27 SKUs feed-optimised, search themes built, GBP created, documentation consolidated. Thursday had the budget scaling decision which was the week's highest-leverage single action. However, Monday and Tuesday — representing half the working week — produced minimal confirmed system changes despite 10+ described tasks per day. The absence of any performance data means it is impossible to confirm that the direction of work was commercially sound. The 3h45m product report review on Thursday with no output is the week's clearest efficiency failure. Overall, described activity significantly exceeded confirmed output.
 
 ---
 
-## E. WEEKLY SCORE
+### 5. WEEKLY SCORE
 
-**Score: 42 / 100**
+**49 / 100**
 
-Deductions: No performance metrics cited (−20), Monday yielding one confirmed output in 6+ hours (−15), multiple tasks described as completed when unfinished (−10), planning tasks logged as work outputs (−8), no evidence provided on any task (−5).
-
----
-
-## F. ONE-SENTENCE VERDICT
-
-**Sajeepan was a Yellow-Red this week — execution existed but was buried under 2 full days of review-and-planning activity with no confirmed campaign changes, and the complete absence of performance data from any EOD entry makes the actual business impact of this week's work unverifiable.**
+| Category | Score | Rationale |
+|---|---|---|
+| Output Quality (40%) | 21/40 | Friday strong; Thursday budget scaling solid; Mon/Tue outputs thin and unverifiable; no performance data across the week |
+| Focus & Prioritisation (30%) | 14/30 | 3h45m review with no output; Mon/Tue heavily review-and-plan; negative keywords identified but not confirmed added |
+| Opportunity Stewardship (30%) | 14/30 | No ROAS tracking, no conversion monitoring, no campaign-level performance decisions beyond budget scaling |
 
 ---
 
-## G. NEXT-WEEK CORRECTION
+### 6. ONE-SENTENCE VERDICT
 
-- **STOP:** Logging "review", "check", and "planning" tasks as standalone EOD outputs. A review that does not result in a confirmed change is not a deliverable — it is preparation.
-- **START:** Beginning every EOD entry with the performance metric that justified today's action (e.g., "ROAS on SJ Performance Max-25 was X — therefore I made this specific change"). No metric, no task context.
-- **MEASURABLE OUTPUT TEST:** By end of next Friday, provide a documented negative keyword list with confirmed added/applied status in Google Ads UI, plus a before/after screenshot of at least one campaign's wasted spend metric (irrelevant search term %) showing measurable improvement.
+This week, Sajeepan was **Amber–Red** because the described volume of activity across 4 working days significantly exceeded the confirmed system-level outputs, no performance metrics were reported for any campaign on any day, the single largest time block (3h45m product review) produced no documented changes, and the negative keywords identified on Monday have no confirmation of being actioned by Friday.
 
 ---
 
-## H. NEXT-WEEK TASK PIPE (MAX 5 HIGH-VALUE DAILY TASKS)
+### 7. TOP 3 CORRECTIONS (MANDATORY)
 
-| # | Task | Owner | Expected Outcome | Success Signal |
-|---|------|-------|-----------------|----------------|
-| 1 | Implement all identified competitor/irrelevant negative keywords (poldina pro, zico lighting, fishpools lights, teckled + any new terms from search term report) into SJ Performance Max-25 shared negative list | Sajeepan | Reduce wasted spend on irrelevant queries; improve campaign relevance score | Confirmed added in Google Ads UI; screenshot attached to EOD; irrelevant impression share drops measurably |
-| 2 | Complete DC Voltage UK Google Business Profile verification and fully populate all profile sections (hours, description, categories, photos) | Sajeepan | GBP goes live with local search presence for DC Voltage UK | Profile status = "Verified & Published"; all key fields populated |
-| 3 | Pull and document SJ Performance Max-25 product-level ROAS and conversion data for the past 30 days; segment into Top/Mid/Low performers; exclude bottom performers from campaign | Sajeepan | Stops budget being diluted by low-performing SKUs; improves blended ROAS | Product exclusion list applied; SKU breakdown attached to EOD with before ROAS stated |
-| 4 | Build and launch the Ledsone Old Product Campaign (not plan it — build it): campaign structure, ad groups/asset groups, budget, bid strategy, product segmentation complete | Sajeepan | New campaign live and serving; expands coverage on older inventory with dedicated budget | Campaign status = Active in Google Ads; screenshot of structure in EOD |
-| 5 | Asset refresh for P-MAX-KLARNA-25-SJ: pull current asset performance (ad strength, CTR by asset), swap or replace any Low-rated assets with new headlines/descriptions/images | Sajeepan | Improves asset group ad strength from Low/Good to Good/Excellent; lifts CTR and conversion rate | Ad strength improvement confirmed; before/after asset strength status in EOD |
+1. **Every task that touches Google Ads or GMC must state the before and after system state — not the activity performed.** "Reviewed negative keywords" is not an output. "Added 4 negative keywords to SJ Performance Max-25: [list]" is an output. Starting Monday, every EOD task entry must answer: what specifically changed in the system as a result of this work? If nothing changed, the task must be listed as "analysis only — no system change" and the rationale for that must be stated.
 
+2. **Report at least 3 performance metrics per campaign per day — ROAS, spend, and conversions minimum.** Four days of Google Ads management with zero performance data is not auditable. From Monday, every EOD must include the current ROAS, daily spend, and conversion count for each active campaign being managed. This is not optional. Without it, there is no basis for determining whether work direction is correct or whether budget changes are producing returns.
+
+3. **Cap analysis and review tasks at 30 minutes per session with a mandatory output.** The 3h45m product report review with no documented SKU-level changes must not repeat. Any review session over 30 minutes must end with a written output: a list of products flagged, a change made, or an escalation filed. Time spent reviewing without producing is not billable optimisation work.
+
+---
+
+### 8. FAILURE ANALYSIS
+
+**Where did they convert opportunity into high-value output?**
+- Budget scaling Thursday with documented figures (SJ TOP 20: £19→£36, KLARNA: £19→£23) — the only campaign-level decision of the week with a clear before/after and a stated rationale. This is the model for every budget or bid change.
+- Friday's 27-SKU feed optimisation across two brands (LEDSONE UK and DC Voltage) — highest concrete production output of the week.
+- DC Voltage PMax search themes (Friday) — building intent signal structure for PMax is a high-leverage input that influences campaign learning quality.
+- Geographic exclusions Monday — small but concrete; location targeting cleaned with confirmed changes.
+
+**Where did they waste time?**
+- 3h45m reviewing 23 SKUs on Thursday with no confirmed changes — the largest single time block of the week and the lowest output-per-hour of any session.
+- Monday's 7 tasks across audience, asset, feed, bid, and budget "reviews" with no confirmed system changes resulting from any of them.
+- Tuesday's category and product type work described entirely in passive review language — if changes were made, they are not evidenced; if they were not made, the time was pure analysis.
+
+**Which tasks appeared productive but were low-impact?**
+- Optimisation action planning (Mon, Tue) — planning to optimise is not optimising. These sessions produced next-step lists, not system changes. If the plans were executed the following day, there is no link in the reports confirming it.
+- Besbet UK budget review (Tue) and price change (Thu) — listed as completed tasks but with no figures, no rationale, no before/after. Unverifiable as meaningful work.
+- Asset optimisation review on Thursday (Asset 2, Asset 3 under P-MAX-KLARNA-25-SJ) — "reviewed" with no asset changes confirmed.
+
+**Which blockers were not escalated early enough?**
+- Negative keywords identified Monday (poldina pro table lamp, zico lighting, fishpools lights, teckled) — no confirmation they were added on any of the remaining 3 working days. If a technical or access blocker prevented this, it was never stated.
+- DC Voltage Google Business Profile created Friday but pending verification — the verification step could have been initiated earlier in the day or week. No escalation or owner assigned for the verification completion.
+- Old product campaign planning completed Friday with "move to build" as the next step — no timeline, no owner, no week this is expected to be built.
+
+---
+
+### 9. FORWARD RISK
+
+**Company opportunity lost if pattern continues:**
+- Without daily performance monitoring (ROAS, spend, conversions), campaign budget decisions are made without feedback loops. The Thursday budget increases may be sound or may be scaling wasted spend — there is no data in the reports to confirm which.
+- Negative keywords identified but not actioned mean competitor and irrelevant terms continue consuming budget. Each week this gap persists is a compounding spend inefficiency.
+- Review-heavy, output-light working patterns mean a large product catalog (400+ SKUs) will never be fully optimised at the pace described. If 3h45m produces zero changes from a 23-SKU review, the timeline to optimise the full catalog is indefinitely long.
+
+**Career damage if pattern continues:**
+- EOD reports written in activity language rather than output language create an audit trail that cannot be defended in a performance review. "Reviewed," "supported," and "planned" are not achievements — they are descriptions of time spent.
+- Zero performance data in weekly logs means the operator cannot demonstrate commercial impact. In a revenue-focused team, inability to connect work to metrics is a credibility blocker for role progression.
+- An external auditor or manager reviewing this week's reports would be unable to determine what the campaigns' ROAS, spend, or conversion status is — making the operator's contribution to results invisible.
+
+---
+
+## SECTION B — NEXT WEEK TASK PIPE
+
+**Daily maximum: 5 tasks. Every task must have a confirmed system-level output. Performance metrics required daily.**
+
+---
+
+**MONDAY — Negative Keyword Implementation + Daily Performance Baseline**
+
+- Task: Add the 4 competitor/irrelevant terms identified on 30/03 (poldina pro table lamp, zico lighting, fishpools lights, teckled) to SJ Performance Max-25 as negatives. Confirm addition with screenshot. Pull ROAS, spend, and conversion count for all active campaigns and record as the week's performance baseline.
+- Expected Outcome: 4 negatives confirmed added. Performance baseline established for the week.
+- Success Signal: EOD lists each negative with confirmed "added" status. Performance table with ROAS/spend/conversions per campaign present in EOD. No "reviewed" language without a corresponding system change.
+
+---
+
+**TUESDAY — SJ Performance Max-25 SKU Prioritisation + Output Cap**
+
+- Task: From the 23 SKUs reviewed on 02/04, select the top 10 by impression or spend. For each: make one confirmed change (title, product type, or exclusion). Document before/after for every SKU touched. Maximum 10 SKUs, maximum 2.5 hours total.
+- Expected Outcome: 10 SKUs with confirmed before/after changes in GMC or Shopify. Review-to-action ratio improved.
+- Success Signal: 10 SKU change records in EOD with before/after field titles or product types. Time on task capped and stated. Zero SKUs listed as "reviewed" without a corresponding change.
+
+---
+
+**WEDNESDAY — DC Voltage GBP Verification + Feed Performance Check**
+
+- Task: Complete DC Voltage Google Business Profile verification. Pull performance data for DC Voltage feed items optimised on 03/04 — check if impressions or clicks changed post-optimisation. Report delta (before vs after where available). Add any new negatives identified from DC Voltage search terms.
+- Expected Outcome: GBP verification complete. Post-optimisation performance delta reported. Negative list updated.
+- Success Signal: GBP status confirmed as verified. At least one before/after performance metric cited for DC Voltage SKUs. Any new negatives documented with confirmation of addition.
+
+---
+
+**THURSDAY — Campaign Performance Decision Day**
+
+- Task: Pull weekly performance data for all active campaigns (SJ TOP 20, P-MAX-KLARNA-25-SJ, SJ Performance Max-25, DC_P-MAX, Besbet UK). For each: state current ROAS, spend this week, conversions this week, and one decision — scale / hold / fix / cut. Document rationale for each decision.
+- Expected Outcome: Written campaign performance table with data and decisions. At least one actionable change executed (bid, budget, exclusion, or structure) based on the data.
+- Success Signal: Performance table in EOD with all 5 fields per campaign. At least one system change confirmed with before/after. No campaign listed without a current ROAS figure.
+
+---
+
+**FRIDAY — Ledsone Old Product Campaign Build (Not Plan)**
+
+- Task: Move the old product campaign from the planning stage (completed 03/04) to active build in Google Ads. Set up campaign structure, add products, configure bids. Do not submit a planning document — submit a campaign that exists in Google Ads.
+- Expected Outcome: Ledsone old product campaign created in Google Ads (can be paused, but must exist with structure).
+- Success Signal: Campaign ID or screenshot confirming campaign exists in Google Ads. Product list, bid strategy, and budget documented in EOD. Status: built (not planned).
+
+---
