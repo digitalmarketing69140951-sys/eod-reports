@@ -54,7 +54,7 @@ Five working days (Wednesday half-day). A GSC optimization pipeline actioned end
 
 ---
 
-### 📊 WEEKLY SCORE: **68 / 100**
+### 📊 WEEKLY SCORE: **76 / 100**
 
 | Category | Score | Notes |
 |---|---|---|
