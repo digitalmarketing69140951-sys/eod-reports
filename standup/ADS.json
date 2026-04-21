@@ -10,7 +10,7 @@
     "daily_task": "hey",
     "business_impact": "hello",
     "completed": "yes",
-    "reason_if_missed": "",
+    "reason_if_missed": "no",
     "result_achieved": null,
     "reviews_date": "",
     "measurable_impact": "",
