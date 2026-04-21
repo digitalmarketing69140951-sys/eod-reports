@@ -11,7 +11,7 @@
     "business_impact": "PS C:\\Users\\PC\\OneDrive\\Desktop\\EOD> git commit -m \"Update\" [main 0836fdc] Update  1 file changed, 850 insertions(+)  create mode 100644 standup.html PS C:\\Users\\PC\\OneDrive\\Desktop\\EOD> git push Enumerating objects: 4, done. Counting objects: 100% (4/4), done. Delta compression using up to 8 threads Compressing objects: 100% (3/3), done. Writing objects: 100% (3/3), 14.00 KiB | 4.67 MiB/s, done. Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0) remote: Resolving deltas: 100% (1/1), completed with 1 local object. To https://github.com/digitalmarketing69140951-sys/eod-tool.git",
     "completed": "yes",
     "reason_if_missed": "",
-    "result_achieved": null,
+    "result_achieved": "yes",
     "reviews_date": "",
     "measurable_impact": "",
     "primary_failure_reason": "",
