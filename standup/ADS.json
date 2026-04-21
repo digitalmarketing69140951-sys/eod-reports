@@ -11,11 +11,11 @@
     "business_impact": "no sales",
     "completed": "yes",
     "reason_if_missed": "",
-    "result_achieved": null,
+    "result_achieved": "yes",
     "reviews_date": "2026-05-05",
     "measurable_impact": "",
     "primary_failure_reason": "",
-    "blocker": null,
+    "blocker": "no",
     "leader_pivot": ""
   },
   {
