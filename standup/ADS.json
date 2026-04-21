@@ -86,7 +86,7 @@
     "daily_task": "feed",
     "business_impact": "hey",
     "completed": null,
-    "reason_if_missed": "",
+    "reason_if_missed": "no",
     "result_achieved": null,
     "reviews_date": "",
     "measurable_impact": "",
