@@ -28,7 +28,7 @@
     "task_type": "Google Ads",
     "daily_task": "x",
     "business_impact": "x",
-    "completed": null,
+    "completed": "yes",
     "reason_if_missed": "",
     "result_achieved": null,
     "reviews_date": "",
