@@ -93,5 +93,24 @@
     "primary_failure_reason": "",
     "blocker": null,
     "leader_pivot": ""
+  },
+  {
+    "id": "1776764698540_5v1p",
+    "member": "Sonya",
+    "team": "ADS",
+    "date": "2026-04-21",
+    "review_due": "2026-05-05",
+    "submitted_at": "2026-04-21T09:44:58.540Z",
+    "task_type": "Google Ads",
+    "daily_task": "xc",
+    "business_impact": "s",
+    "completed": null,
+    "reason_if_missed": "",
+    "result_achieved": null,
+    "reviews_date": "",
+    "measurable_impact": "",
+    "primary_failure_reason": "",
+    "blocker": null,
+    "leader_pivot": ""
   }
 ]
