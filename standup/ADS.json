@@ -95,25 +95,6 @@
     "leader_pivot": ""
   },
   {
-    "id": "1776760762203_yx8d",
-    "member": "Sajeepan",
-    "team": "ADS",
-    "date": "2026-04-21",
-    "review_due": "2026-05-05",
-    "submitted_at": "2026-04-21T08:39:22.204Z",
-    "task_type": "",
-    "daily_task": "",
-    "business_impact": "",
-    "completed": null,
-    "reason_if_missed": "",
-    "result_achieved": null,
-    "reviews_date": "",
-    "measurable_impact": "",
-    "primary_failure_reason": "",
-    "blocker": null,
-    "leader_pivot": ""
-  },
-  {
     "id": "1776760845527_1_sd5v",
     "member": "Sajeepan",
     "team": "ADS",
