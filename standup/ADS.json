@@ -38,25 +38,6 @@
     "leader_pivot": ""
   },
   {
-    "id": "1776760704923_izmj",
-    "member": "Sonya",
-    "team": "ADS",
-    "date": "2026-04-21",
-    "review_due": "2026-05-05",
-    "submitted_at": "2026-04-21T08:38:24.924Z",
-    "task_type": "",
-    "daily_task": "",
-    "business_impact": "",
-    "completed": null,
-    "reason_if_missed": "",
-    "result_achieved": null,
-    "reviews_date": "",
-    "measurable_impact": "",
-    "primary_failure_reason": "",
-    "blocker": null,
-    "leader_pivot": ""
-  },
-  {
     "id": "1776760702748_nc40",
     "member": "Sonya",
     "team": "ADS",
