@@ -19,25 +19,6 @@
     "leader_pivot": ""
   },
   {
-    "id": "1776759382190_3_tmbi",
-    "member": "Sonya",
-    "team": "ADS",
-    "date": "2026-04-21",
-    "review_due": "2026-05-05",
-    "submitted_at": "2026-04-21T08:16:22.190Z",
-    "task_type": "Feed Optimisation",
-    "daily_task": "nope",
-    "business_impact": "good",
-    "completed": null,
-    "reason_if_missed": "",
-    "result_achieved": null,
-    "reviews_date": "",
-    "measurable_impact": "",
-    "primary_failure_reason": "",
-    "blocker": null,
-    "leader_pivot": ""
-  },
-  {
     "id": "1776760845527_1_sd5v",
     "member": "Sajeepan",
     "team": "ADS",
