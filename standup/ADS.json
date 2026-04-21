@@ -9,7 +9,7 @@
     "task_type": "Shopify",
     "daily_task": "find tuning",
     "business_impact": "sales",
-    "completed": null,
+    "completed": "no",
     "reason_if_missed": "",
     "result_achieved": null,
     "reviews_date": "",
