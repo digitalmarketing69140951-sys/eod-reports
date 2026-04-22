@@ -9,7 +9,7 @@
     "task_type": "s",
     "daily_task": "s",
     "business_impact": "s",
-    "completed": null,
+    "completed": "yes",
     "reason_if_missed": "",
     "result_achieved": null,
     "reviews_date": "",
