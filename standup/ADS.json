@@ -34,7 +34,7 @@
     "reviews_date": "",
     "measurable_impact": "c",
     "primary_failure_reason": "c",
-    "blocker": null,
+    "blocker": "yes",
     "leader_pivot": ""
   }
 ]
