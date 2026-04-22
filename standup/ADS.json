@@ -16,6 +16,6 @@
     "measurable_impact": "x",
     "primary_failure_reason": "cs",
     "blocker": "yes",
-    "leader_pivot": ""
+    "leader_pivot": "vs"
   }
 ]
