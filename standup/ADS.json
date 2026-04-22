@@ -10,7 +10,7 @@
     "daily_task": "s",
     "business_impact": "s",
     "completed": "yes",
-    "reason_if_missed": "",
+    "reason_if_missed": "s",
     "result_achieved": null,
     "reviews_date": "",
     "measurable_impact": "",
