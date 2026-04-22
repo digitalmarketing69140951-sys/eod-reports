@@ -28,7 +28,7 @@
     "task_type": "s",
     "daily_task": "c",
     "business_impact": "c",
-    "completed": null,
+    "completed": "yes",
     "reason_if_missed": "",
     "result_achieved": null,
     "reviews_date": "",
