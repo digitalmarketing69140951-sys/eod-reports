@@ -1,114 +1,105 @@
 # Weekly Performance Audit – Jakshan | 20–24 April 2026
 
-> ⚠️ CRITICAL DATA GAP: EOD files exist ONLY for Monday 20/04 and Tuesday 21/04.
-> Wednesday 22/04, Thursday 23/04, and Friday 24/04 have NO EOD submissions.
-> This audit is based solely on 2 days of documented output.
-> Missing EODs are treated as unverified work — not as completed tasks.
-
 ---
 
 ## VALUE CREATED
 
-- **FAQ Schema Deployed at Scale (48 product pages — Monday):** Competitor-based FAQ content restructured using UK-specific language, PAA targeting, funnel mapping, and commercial intent layering. JSON-LD schema deployed across 48 pages in a single session. Rich Results Test validation links logged in master sheet. The highest single-day structured data output of any team member this week across the entire SEO team.
-- **Review Snippet Schema Fixed and Validated (Monday):** Review schema debugged and confirmed valid via Rich Results Test with screenshot evidence. Review snippets now eligible for enhanced SERP features. Technical fix with measurable schema impact.
-- **PDP Ranking Drop — Redirection and Duplicate Content Fixed (Monday):** Identified and resolved a redirection issue and duplicate content problem affecting a live PDP's ranking signals. Indexing and relevance stabilized. Proactive monitoring that caught a live ranking problem.
-- **PPC → Organic Keyword Integration (5 product pages — Tuesday):** High-intent PPC conversion keywords mapped into product content (primary + secondary terms) on 5 product pages. Correct strategic move — PPC data as a shortcut to validated transactional keyword intent.
-- **Meta Title & Description Optimization (3 product pages — Tuesday):** Batch metadata update across 3/4 products. CTR-focused changes applied.
-- **CTA Segmentation Bulk Update (Tuesday):** Intent-based CTA restructuring applied across product pages — audience segmentation logic improved. Rare CRO-level contribution from an SEO specialist; shows broader conversion thinking.
-- **GSC Top Page Performance Review (Tuesday):** Identified a specific page drop risk (`/3-way-modern-black-ceiling-pendant-cluster-light-fitting-industrial-pendant-lampshade`) and a recovery case. Named pages with directional data — more actionable than generic "GSC reviewed" entries.
-- **GA4 Purchase Event Issue Escalated (Monday + Tuesday):** Tracking inconsistency identified, escalated to tech team both days. Persistent follow-up on a cross-team blocker shows ownership of a critical attribution problem.
+- **FAQ Schema Deployment at Scale — 48 Product Pages (Monday):** Competitor-analyzed, intent-mapped, UK-localized FAQ JSON-LD schema deployed across 48 PDPs in a single day. PAA targeting, funnel-stage mapping, and commercial intent layering applied. Rich Results Test validation links logged in master sheet. This is the highest-volume structured data deployment of any team member this week — and it addresses a measurable SERP feature gap (rich result eligibility).
+- **Review Snippet Schema Fix + Validation (Monday):** Identified and resolved a review structured data issue. Screenshot evidence provided. Fix confirmed valid via Rich Results Test. Direct path to star rating display in SERP — a CTR-lifting technical fix that most teams deprioritize.
+- **PDP Ranking Drop — Redirection + Duplicate Content Fix (Monday):** Identified a live redirection issue and duplicate content conflict affecting a specific PDP's ranking signals. Both resolved in the same session. Proactive monitoring that prevents ranking loss is higher-value than reactive fixes.
+- **PPC → Organic Keyword Integration — 5 Product Pages (Tuesday):** High-intent, conversion-proven PPC keywords mapped into organic product content. This is one of the most underused and highest-ROI SEO tactics available — PPC data eliminates keyword intent guesswork. Five pages executed with internal evidence noted.
+- **CTA Segmentation — Intent-Based Bulk Update (Tuesday):** CTA messaging restructured by audience intent grouping across product pages. Applied live. Correct CRO-SEO integration thinking; improved user journey clarity from informational to transactional stage.
+- **Internal Link Optimization — 12 Key Pages (Thursday):** Contextual internal links added/optimized across 12 priority pages. Authority distribution and crawl path logic improved. Executed day after return from leave.
+- **CRO Optimization — 24 Non-Performing Pages (Thursday):** Brand details, product information, and decision-making elements updated on 24 pages. Trust signal and conversion clarity improvements at scale.
+- **Comparison Table Implementation — 12 Product URLs (Friday):** Structured comparison tables deployed across 12 PDPs highlighting price, availability, and product differences. Collaboration with Piranav confirmed. Reduces cognitive load at the evaluation stage — a measurable CRO lever.
+- **Buyer Persona + Keyword Mapping — 50 URLs (Friday):** Intent-layered keyword architecture built for 50 zero-conversion URLs, mapping commercial and informational queries to buyer journey stages. Largest keyword research output of the week across the team.
+- **GA4 Purchase Event Tracking Issue — Identified and Escalated (Mon + Tue + Thu):** Organic conversion tracking failure identified, escalated to tech team, and followed up across multiple days. This is not a failed task — it is a correctly handled cross-team dependency. The impact of unresolved GA4 tracking is severe: without accurate conversion attribution, SEO performance cannot be properly measured or defended.
+- **GSC Monitoring — Named Drop Risk and Recovery Case (Tuesday):** Identified `/3-way-modern-black-ceiling-pendant-cluster-light-fitting` as a drop risk and named an industrial ribbed glass wall light as a recovery case. Specific, named pages — not generic monitoring.
+- **Sales Predictability Plan + Low-Hanging Fruit Identification (Thursday):** Prioritization framework built mapping low-performing but high-potential pages to CRO actions. Strategic planning output, not just execution.
 
 ---
 
 ## OPPORTUNITY WASTED (COMPANY)
 
-- **3 EOD reports missing (Wednesday, Thursday, Friday) — 3 full working days unaccounted for.** This is not an evidence gap — it is a complete absence of record. There is no basis to credit any work performed Wednesday through Friday. If work was done and not reported, it does not exist for audit, performance review, or team planning purposes. This is the single largest accountability failure across the entire team this week.
-- **Monday's 48-page FAQ deployment has no per-page screenshot evidence — only master sheet reference.** Validation links in a spreadsheet are low-visibility evidence. For a 48-page deployment, minimum 5–10 Tier A page screenshots were self-identified as necessary in the diagnostic. These were not captured. A bulk action of this scale without strong evidence is unverifiable at leadership level.
-- **Tuesday's meta optimization batch is 3/4 complete with no evidence URLs provided.** The 4th product is unlogged — no URL, no status, no reason. A partially completed batch with no completion plan is a loose end.
-- **Tuesday's GSC finding (page drop risk identified) triggered no immediate action.** The page drop was named, identified, and then left unactioned. "Shift from monitoring → immediate micro-action tagging" is written as a future intention, not an executed response. A named ranking-risk page requires same-day action, not a plan for the following day.
-- **Tuesday's AI SEO task (Search Query → CTA Mapping) not completed.** Planned, partially explored, deprioritized. Zero output. Noted in the EOD as not done — correct to flag, but the task should appear as carried forward in Wednesday's EOD. Wednesday has no EOD.
-- **GA4 purchase event tracking remains broken as of Tuesday.** Two days of escalation with no resolution, no structured GTM debug checklist produced, and no interim workaround proposed. Broken purchase tracking means conversion data from this week is unreliable — a compounding problem with each passing day.
-- **Zero blogs published all week.** Both days log "No blog writing tasks." Jakshan may have a different task scope, but two days without content output and three days without any EOD leaves a significant content contribution gap with no explanation.
-- **Zero backlinks — both recorded days.** No off-page activity on either Monday or Tuesday.
+- **Wednesday full-day leave — 1 of 5 working days lost.** No carry-forward tasks. No compensation strategy. Output on remaining days does not show an explicit attempt to close the gap.
+- **Zero blogs published all week.** Jakshan's scope clearly includes content strategy (buyer persona mapping, supporting content planning, keyword clustering) but not a single blog was published. Friday's "supporting content strategy" task is marked completed with "evidence: not provided" and no live URL — this is a content plan, not content. Zero live publishing output is a significant gap when the rest of the team averages 2–3 blogs per week.
+- **GA4 tracking issue unresolved for the third consecutive week across EODs.** Mon, Tue, Thu — all note the same blocker. The escalation is real and the tech dependency is legitimate, but three weeks of the same blocker with no resolution pressure, no deadline imposed, and no workaround proposed (e.g., UTM-based attribution, manual conversion logging) means the business has been flying blind on organic conversion data for weeks. This gap has direct revenue attribution consequences.
+- **Buyer persona + keyword mapping for 50 URLs (Friday) not connected to live page edits.** Self-identified in the reflection: "No immediate implementation into live pages." A 50-URL keyword map that is not applied to any page is a planning artifact, not an SEO output. Planning is only valuable when it triggers execution.
+- **3-month traffic drop analysis blocked without resolution (Friday).** Core update impact identified as a hypothesis but no confirmed root cause, no segment-level breakdown, and no competitor gain data cross-referenced. A 3-month traffic drop is a critical business issue. Logging it as "blocked" without a defined investigation path and deadline is insufficient.
+- **48-page FAQ implementation (Monday) — no per-page screenshot evidence for Tier A pages.** Self-identified gap. Rich Results Test links in a master sheet are not the same as timestamp-logged, per-page validation screenshots. For the largest single-day output of the week, the evidence trail is the weakest point.
+- **Internal link improvements (Thursday) — zero URL evidence.** 12 pages updated with no evidence URLs. This is the same gap seen across the team; in Jakshan's case it is more damaging because the overall evidence standard for this role should be higher.
+- **No backlinks built or attempted any day this week.** Zero off-page activity. Jakshan's scope appears to be SEO strategy + CRO + technical SEO — but if off-page is excluded from scope, this should be explicitly stated in the EOD. If it is in scope, the absence is a gap.
+- **GSC monitoring (Tuesday) produced two named observations but no immediate actions.** "Shift from monitoring → immediate micro-action tagging" is noted in the reflection but not executed. Observation without action is not a completed task.
 
 ---
 
 ## OPPORTUNITY WASTED (CAREER)
 
-- **Three missing EODs on the primary audit week is a severe professional failure.** It does not matter how strong Monday and Tuesday were — Wednesday through Friday are a blank. Leadership cannot defend, advocate for, or reward work that has no record. In a team environment where performance is evaluated weekly, going dark for 60% of the working week is the single fastest way to be deprioritized for growth, responsibility, and trust.
-- **The Monday output (48-page FAQ deployment + technical fix + ranking drop resolution) is genuinely high-value work that is effectively invisible without Friday's summary EOD.** The strongest day of work this week on the entire team has been buried under three days of silence. This is a career own-goal of the highest order.
-- **Self-identified evidence gap on Monday ("over-focus on implementation vs evidence documentation") is correct analysis — but it was not fixed by Tuesday.** Tuesday's evidence is equally thin. Knowing the gap and not closing it the next day signals pattern, not circumstance.
+- **The GA4 tracking issue has been an open blocker for multiple weeks.** At this level of scope, the expected response to a persistent cross-team blocker is not repeated escalation — it is a written proposal to leadership with a deadline, an owner, and an interim measurement workaround. Three weeks of "escalated, awaiting fix" in the EOD record makes the role look passive on a business-critical issue.
+- **Friday's 50-URL keyword map not connected to live edits is a strategic planning trap.** Jakshan's output this week skews heavily toward planning, strategy, and frameworks — persona maps, sales predictability plans, keyword clustering, CRO frameworks — with very few confirmed live changes outside Monday. At senior scope, plans that don't ship are not value; they are deferred value that ages quickly. Leadership looking at this week's output will see a lot of thinking and not enough doing.
+- **Zero blogs published while owning the content strategy layer.** If Jakshan is the person building the keyword architecture, persona maps, and topic clusters — and no content is being published against them — the strategy is running without an execution pipeline. This is a visible gap that raises questions about whether the strategy is actionable or theoretical.
+- **The comparison table implementation (Friday) is the strongest concrete deliverable of the week** — and it is buried at the bottom of a Friday EOD with the weakest evidence (screenshot attached, no URL). The most impactful live change of the week is the least documented. That is an inversion of how evidence should be prioritized.
 
 ---
 
-## VALUE PER HOUR JUDGEMENT: **Cannot be fully assessed — 3/5 days undocumented**
+## VALUE PER HOUR JUDGEMENT: **Medium-High**
 
-On the two days with EOD records, Jakshan's output is the highest-complexity work of the SEO team this week: 48-page schema deployment, a live ranking-drop fix, review snippet schema repair, PPC-to-organic keyword integration, and CRO-level CTA restructuring. If Monday and Tuesday output is indicative of the full week, this would be a High-value performer. But three undocumented days make it impossible to assign a fair weekly rating. The two documented days cannot be averaged across five — that would reward silence with credit that has not been earned.
+Effective working time was 4 days (Wednesday leave). Monday's 48-page FAQ schema deployment and review snippet fix alone represent the highest-leverage technical SEO output of the entire team this week. The PPC → organic keyword integration, CTA segmentation, internal linking at scale, CRO on 24 pages, and comparison table implementation are substantive, multi-pillar contributions that go beyond the standard on-page SEO execution of other team members. The strategic scope — buyer persona mapping, sales predictability planning, core update analysis — is operating at a level above the rest of the team. However, the absence of any published content, the 50-URL keyword map with no live implementation, the unresolved GA4 blocker now in its third week, and the consistent absence of URL-level evidence for major tasks prevent this from reaching High. The thinking is senior; the evidence trail is junior.
 
 ---
 
-## WEEKLY SCORE: **44 / 100**
-
-*(Score reflects 2 strong documented days against 3 completely missing EODs. Monday alone would score ~80. The missing days pull the weekly average down to below passing. Score would be revised upward immediately upon submission of Wednesday–Friday EODs.)*
+## WEEKLY SCORE: **66 / 100**
 
 ---
 
 ## ONE-SENTENCE VERDICT
 
-This week, Jakshan was **Red** — the strongest individual day output of the SEO team on Monday, completely undermined by three consecutive missing EODs that make Wednesday through Friday's work unauditable, unverifiable, and uncreditable.
+This week, Jakshan was **Yellow-leaning-Green** — the highest strategic SEO output and most technically complex work of the team (48-page schema deployment, PPC→organic integration, CRO at scale), but a persistent GA4 tracking blocker now in its third week without a proposed resolution, zero published content despite owning the content strategy layer, and a consistent evidence gap on major deliverables prevent a Green result.
 
 ---
 
 ## NEXT-WEEK CORRECTION
 
-- **STOP:** Going more than one working day without an EOD submission under any circumstances. If a day is particularly heavy with execution, a 5-bullet summary EOD is acceptable — silence is not.
-- **START:** Submitting EODs daily before end of working session — even if incomplete. An incomplete EOD with partial evidence is infinitely more valuable than no EOD.
-- **MEASURABLE OUTPUT TEST:** By Friday 01 May — 5 EODs submitted for 5 working days with zero missing. Each EOD must contain at least one live URL or screenshot as evidence. This is the only acceptable outcome given this week's failure.
-
----
-
-## IMMEDIATE ACTION REQUIRED (Before Monday)
-
-- Submit retroactive EODs for Wednesday 22/04, Thursday 23/04, and Friday 24/04 with whatever evidence is available — even partial. This is not optional; it is a minimum accountability requirement.
-- Provide status update on GA4 purchase event tracking issue — has it been resolved, escalated further, or is it still blocked?
-- Confirm whether the page drop risk identified Tuesday (`/3-way-modern-black-ceiling-pendant-cluster-light-fitting-industrial-pendant-lampshade`) was actioned this week.
+- **STOP:** Logging the GA4 tracking issue as "escalated, pending fix" without a deadline, an owner commitment, and an interim workaround. By Tuesday, submit a one-page written proposal to STL/Piranav: root cause hypothesis, proposed GTM fix, deadline for resolution, and interim attribution method (UTM tagging or manual conversion log) to bridge the gap until fixed.
+- **START:** Converting the 50-URL keyword map and buyer persona output into live page edits. Next week, minimum 10 of the 50 mapped URLs must have on-page changes applied and confirmed with evidence. A strategy that doesn't ship is not an output.
+- **MEASURABLE OUTPUT TEST:** By Friday 01 May — GA4 tracking proposal submitted in writing (not verbal), minimum 10 pages from Friday's keyword map updated with live evidence URLs, AND 1 blog published against the content strategy that has been built.
 
 ---
 
 ## NEXT-WEEK TASK PIPE (Max 5/day)
 
 ### Monday
-1. **Retroactive EOD submission** for Wed/Thu/Fri this week — with whatever evidence exists | **Signal:** 3 EOD files present in repo before 9am Monday
-2. **GA4 purchase event fix** — produce a structured GTM/GA4 debug checklist and deliver to tech team with deadline demand; if no response by EOD, escalate to STL | **Signal:** Debug checklist submitted; tech team ETA confirmed
-3. **Page drop triage** — action the `/3-way-modern-black-ceiling-pendant-cluster-light-fitting-industrial-pendant-lampshade` ranking drop identified Tuesday; audit, fix, document | **Signal:** Fix applied; GSC URL inspection run; result logged
-4. **FAQ schema validation screenshots** — capture Tier A screenshots for 10 of the 48 pages deployed Monday last week | **Signal:** 10 screenshots logged in master sheet with URL references
-5. **Complete Tuesday's 4th meta batch product** — close the open item; log URL evidence | **Signal:** 4/4 complete with URL in EOD
+1. **GA4 Fix Proposal** — Write and submit to STL/Piranav: root cause hypothesis, GTM dataLayer fix spec, resolution deadline (by whom, by when), and interim attribution workaround | **Signal:** Proposal document shared before EOD — not another "escalated, awaiting"
+2. **3-month traffic drop analysis** — Segment by page type (collection vs PDP vs blog), query intent cluster, and ranking loss magnitude; cross-reference with known Google update dates; produce a top-10 impact page list | **Signal:** Segmented loss list with named pages and hypotheses in EOD
+3. **Keyword map → live edits** — Apply Friday's persona-mapped keywords to first 5 priority URLs (highest revenue-impact PDPs) | **Signal:** 5 page URLs confirmed updated in EOD
+4. **48-page FAQ validation evidence** — Capture Rich Results Test screenshots for top 10 Tier A pages from Monday's deployment; log in master sheet with timestamps | **Signal:** 10 screenshots or timestamped validation links in master sheet
+5. **GSC drop risk follow-up** — `/3-way-modern-black-ceiling-pendant-cluster-light-fitting`: check current ranking position; if still dropping, execute meta title + internal link fix in same session | **Signal:** Current position logged; fix applied if needed
 
 ### Tuesday
-1. **EOD submitted by end of working day — non-negotiable** | **Signal:** File present in repo
-2. Batch meta title + description optimization — 10 product pages, GSC CTR-prioritized, with evidence URLs | **Signal:** 10 URLs confirmed in EOD
-3. Complete AI SEO task carried from last Tuesday (Search Query → CTA Mapping) — execution only, no more planning | **Signal:** Live page changes or documented output in EOD
-4. PPC → SEO keyword integration — 5 more product pages | **Signal:** 5 page edits confirmed
-5. GSC page drop risk — confirm recovery or escalate; document with data | **Signal:** GSC impression/click data for the flagged page in EOD
+1. **Keyword map → live edits** — Apply mapped keywords to next 5 priority URLs | **Signal:** 5 more page URLs confirmed updated
+2. **Comparison table behavioral tracking** — Set up click event tracking on comparison tables via GTM (or coordinate with Piranav); confirm event fires correctly | **Signal:** Event visible in GA4 debug view
+3. **PPC → organic integration** — Extend to next 5 product pages using same methodology as Tuesday's batch; use top-converting PPC keywords | **Signal:** 5 page URLs confirmed with evidence
+4. **Blog brief — write and submit** — Based on buyer persona map, identify top-priority blog topic targeting a zero-conversion page cluster; write brief (topic, keyword, target URLs to link to) | **Signal:** Brief submitted for review/approval
+5. **Internal link evidence gap close** — Confirm Thursday's 12-page internal link updates are documented with source → target → anchor table | **Signal:** Table present in EOD or master sheet
 
 ### Wednesday
-1. **EOD submitted by end of working day** | **Signal:** File in repo
-2. FAQ schema — next batch of 20 product pages with same competitor-analysis framework | **Signal:** 20 pages deployed; validation links in master sheet; min 5 screenshots captured same day
-3. Blog — write and publish (topic tied to top-performing FAQ cluster from Monday's deployment) | **Signal:** Live URL + GSC submission confirmed
-4. Review schema audit — confirm this week's review snippets are indexed and eligible in GSC | **Signal:** GSC rich results coverage report checked; status in EOD
-5. GA4 tracking — confirm fix status from tech team; if still blocked after 7 days, propose interim workaround (e.g., manual conversion tagging) | **Signal:** Status update with proposed path in EOD
+1. **Blog written and published** — First blog against the content strategy framework; minimum 1,200 words, live URL, immediate GSC submission, min 3 internal links to mapped PDPs | **Signal:** Live URL + GSC submission confirmed in EOD
+2. **CRO tracking setup** — For the 24 pages optimized Thursday, configure scroll depth + engagement time events in GTM to measure CRO impact | **Signal:** Events confirmed firing in GA4 debug
+3. **Keyword map → live edits** — Next 5 priority URLs | **Signal:** 5 URLs confirmed updated
+4. **Core update analysis — competitor gain mapping** — For top 5 pages showing traffic drop, identify which competitor domains gained clicks on the same queries | **Signal:** Named competitor gains logged per page
+5. **CTA A/B test setup** — For Tuesday's CTA segmentation, configure GA4 experiment or GTM variant tagging for one test URL | **Signal:** Variant tracking confirmed active
 
 ### Thursday
-1. **EOD submitted by end of working day** | **Signal:** File in repo
-2. CTA A/B tracking — add event tracking tags to CTA variants implemented last week for heatmap/GA4 event validation | **Signal:** Events confirmed firing in GA4 debug view
-3. PDP monitoring — review top 20 PDPs for ranking movement; flag any drops >5 positions; action minimum 1 flagged page | **Signal:** Monitoring log with named pages and action taken in EOD
-4. Meta optimization batch — 10 product pages | **Signal:** 10 URLs in EOD
-5. Backlink — 1 editorial or niche-relevant link; live URL evidence | **Signal:** URL confirmed live
+1. **GA4 fix coordination** — Chase Piranav for GTM dataLayer implementation status; if not resolved, escalate to STL with written proposal outcome and new deadline | **Signal:** Fix status confirmed in EOD; not "awaiting"
+2. **Keyword map → live edits** — Final 5 priority URLs (20 of 50 actioned by Thursday) | **Signal:** 20/50 total confirmed in running log
+3. **Comparison table — intent segmentation** — Identify 2–3 table variants needed for different intent clusters (commercial vs evaluation vs feature-comparison intent); build variant spec | **Signal:** Variant spec documented
+4. **Sales predictability plan → sprint tasks** — Convert Thursday's plan into a concrete execution list: page URL, proposed fix, expected outcome, owner, deadline | **Signal:** Sprint task list in EOD (not "plan completed")
+5. **Internal links — next batch** — 12 more pages with source → target → anchor documentation | **Signal:** Table in EOD
 
 ### Friday
-1. **EOD submitted by end of working day — this is the audit day** | **Signal:** Complete EOD with all sections filled; no cut-off
-2. GSC weekly review — segmented by PDPs, collections, blogs; with specific click/impression delta and a committed 3-page action list for next week | **Signal:** Data table + action list; no questions without proposed answers
-3. GA4 tracking full status — is purchase event now firing correctly? If yes, validate and close the ticket. If no, what is the new ETA and interim solution? | **Signal:** Binary status in EOD: Fixed or Escalated with deadline
-4. Schema coverage report — total pages with FAQ + Review schema confirmed valid this week | **Signal:** Running count in EOD
-5. Next week planning — top 5 priority tasks with rationale, submitted as part of Friday EOD | **Signal:** Priority list present in EOD
+1. **GSC weekly review** — ledsone.co.uk performance delta; specific click/impression data by page type; top 3 mover pages named; committed action list for next week | **Signal:** Data table + 3 named actions in EOD — no unanswered questions
+2. **Blog #2 brief or publish** — Either publish second blog or submit complete brief for next week; minimum 1 blog per week target established | **Signal:** Live URL or approved brief in EOD
+3. **GA4 tracking status** — Is the purchase event fix deployed? If yes, validate via test purchase flow; if no, log new deadline and escalation level | **Signal:** Binary status: fixed/not fixed, with next step in either case
+4. **Comparison table impact check** — Pull click/engagement data on comparison table pages (even 3-day window); report any signal movement | **Signal:** Data in EOD (even if inconclusive)
+5. **Evidence audit** — Self-review all this week's tasks: any missing URLs or validation screenshots? Retroactively document any that can still be retrieved | **Signal:** Clean evidence log with no "not provided" entries where URLs exist
 
