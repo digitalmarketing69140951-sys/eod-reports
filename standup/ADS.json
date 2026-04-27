@@ -74,5 +74,24 @@
     "primary_failure_reason": "",
     "blocker": null,
     "leader_pivot": ""
+  },
+  {
+    "id": "1777291256465_jaqt",
+    "member": "Mahima",
+    "team": "ADS",
+    "date": "2026-04-27",
+    "review_due": "2026-05-11",
+    "submitted_at": "2026-04-27T12:00:56.465Z",
+    "task_type": "Google ads",
+    "daily_task": "exclude products",
+    "business_impact": "cost management",
+    "completed": null,
+    "reason_if_missed": "",
+    "result_achieved": null,
+    "reviews_date": "",
+    "measurable_impact": "",
+    "primary_failure_reason": "",
+    "blocker": null,
+    "leader_pivot": ""
   }
 ]
