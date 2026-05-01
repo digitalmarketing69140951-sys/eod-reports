@@ -1,105 +1,92 @@
-# WEEKLY PERFORMANCE AUDIT — KAMSHI
-**Audit Period:** 27 March – 01 April 2026
-**Audited:** Friday, 01 April 2026
-**Auditor:** Claude Audit Bot
+# Weekly Performance Audit – Kamshi | Mar 27 – Apr 01, 2026
 
----
-
-## ⚠️ DATA AVAILABILITY WARNING
-EODs exist for only 3 of 5 working days: **30 March, 31 March, 01 April**.
-**27 March (Mon) and 28 March (Tue) have NO EOD filed.** Two full days are unaccounted for. This alone is a performance flag.
+## DATA COVERAGE NOTE
+- Mar 27, 28, 29: No EOD files found. Zero evidence of work for 3 out of 6 days.
+- Mar 30, 31, Apr 01: Files present. Audit based on these 3 days only.
 
 ---
 
 ## A. VALUE CREATED
 
-- **2 blog posts published (30 March):** Main page blog (New Arrivals) + Collection page blog. Both SEO-targeted. Combined effort: ~4 hours. No URLs provided — unverifiable.
-- **Blog optimization (31 March):** Existing blog improved with keyword usage, metadata, content structure. No URL = no verification.
-- **Internal links + FAQs added (31 March):** FAQs added to unspecified pages; internal links added. No pages identified. Cannot assess impact.
-- **New Listing Transfer — Ledsone UK (30 March):** Completed in 15 minutes. Operational task, minimal SEO value.
-- **Blog correction + internal links (01 April):** Corrected blog for accuracy and readability; added internal links to unspecified pages.
-- **Invoice upload (01 April):** Administrative. Zero SEO value.
+- **Mar 30 – 2x Blog Posts Published**: Main page (New Arrivals) and Collection Page blog. Both claimed as SEO-focused. No URLs provided; zero evidence of live publication.
+- **Mar 30 – New Listing Transfer (UK)**: Completed in 15 mins. Low-complexity operational task, minimal SEO impact.
+- **Mar 31 – Blog Optimization + Internal Links + FAQs**: On-page improvements claimed. No evidence, no URLs, no pages named.
+- **Apr 01 – Blog Correction + Internal Links**: Content corrected for SEO alignment. No URLs, no target keywords, no pages named.
+- **Apr 01 – Invoice Upload**: Admin task. Zero SEO value.
+- **Container Delivery Task (Mar 30)**: Listed under On-Page SEO. Is not an SEO task. Misclassified entirely.
 
-**Provable SEO outputs with business impact: 0.** Every task claimed as "Completed" has either no URL, no target keyword, no before/after state, or no measurable signal. Nothing can be validated.
+**Provable SEO outputs this week: 0. Everything is self-reported with no URLs, no keyword targets, no ranking data, and no traffic projections.**
 
 ---
 
 ## B. OPPORTUNITY WASTED (COMPANY)
 
-- **2 days with no EOD filed (Mon 27, Tue 28).** No visibility into what was worked on. If billable hours were logged, this is a trust and accountability failure.
-- **Container Delivery Task (30 March) logged under On-Page SEO Tasks.** This is a logistics/operations task. It consumed 2 hours and has zero SEO relevance. Misclassified and wasted on company SEO time.
-- **Zero evidence on any SEO task all week.** No URLs, no GSC screenshots, no before/after rankings, no keyword targets. If these pages were optimized, the company cannot verify it, cannot track improvement, and cannot build on the work.
-- **Blog topics unspecified (31 March).** A blog was written for an unknown topic, targeting an unknown keyword, on an unknown page. This cannot feed into any content cluster or ranking strategy.
-- **No technical SEO tasks, no keyword research, no backlinks, no collection page optimization across the full week.** These are core value-driving SEO activities — all skipped.
-- **Estimated lost opportunity:** If 3 properly evidenced, keyword-targeted collection or product pages had been optimized with verified internal links, projected ranking lift could drive +5–15% organic sessions on targeted pages within 60–90 days. Instead: zero attributable progress.
+- **3 working days (Mar 27–29) entirely unaccounted for.** No EOD reports filed. No work evidence. This is the single biggest failure of the week.
+- **"Container Delivery Task" filed under On-Page SEO.** This is an operations/logistics task. It has no SEO value and inflates the perceived workload in the wrong category.
+- **Zero backlink activity all week.** No off-page work executed or even attempted.
+- **No AI SEO tasks on Mar 30 and 31.** Section cut off in both files — incomplete EOD submissions.
+- **Blog posts written without target keywords, URLs, or traffic projections.** If these blogs exist, they cannot be tracked, measured, or credited. If they don't exist, this is fabrication.
+- **No GSC data referenced.** No ranking improvements cited. No impressions, clicks, or CTR changes mentioned for any page touched.
+- **Estimated lost opportunity**: 3 missing days × assumed 4 SEO tasks/day = 12 executable SEO tasks not done or not reported. At minimum, 12 product pages, collection pages, or blog posts left unoptimized.
 
 ---
 
 ## C. OPPORTUNITY WASTED (CAREER)
 
-- **No evidence = no proof of skill.** A week with zero URLs submitted means Kamshi's work is indistinguishable from fabrication. This destroys credibility with any STL or director reviewing output.
-- **Logistics task (Container Delivery) logged as SEO work.** This signals either confusion about role scope or willingness to pad task lists with non-SEO work. Neither is good.
-- **Missing EODs on Monday and Tuesday.** Consistent EOD filing is the baseline expectation of this role. Skipping two days in one week, with no explanation, signals disengagement or poor discipline.
-- **No questions asked to STL (01 April).** Repeated "None" on questions suggests either tasks are too shallow to generate genuine strategic questions, or the person is not thinking beyond execution.
+- Filing a logistics task ("Container Delivery") as an On-Page SEO task is either a misunderstanding of role scope or deliberate padding. Both are credibility-damaging.
+- Three days of missing EODs signals either disengagement, poor documentation discipline, or both. In a results-driven team, this creates immediate distrust with leadership.
+- Every task self-reported as "Completed" with "No evidence provided." This is a pattern, not an exception. It makes Kamshi's outputs unverifiable and therefore professionally worthless in any audit or review.
+- No questions raised about priorities, keywords, or strategy improvement — despite the EOD template prompting for it. Indicates passive execution with no ownership mentality.
 
 ---
 
-## D. VALUE PER HOUR JUDGEMENT
+## D. VALUE PER HOUR JUDGEMENT: **LOW**
 
-**Rating: LOW**
-
-Approximately 6+ hours were logged across 3 days (2 hrs blog writing, 2 hrs blog writing/collection, 2 hrs container delivery, remainder unquantified). Of these, 2 hours were on a non-SEO logistics task. The remaining hours produced blog content and internal links with zero URLs, zero keyword targets, and zero measurable outcomes. Two full days have no EOD. There is no week in which the hours logged here can be tied to a single organic traffic gain, ranking move, or crawlability improvement. This is the lowest-value SEO output profile possible while still technically submitting EODs.
+Three days are missing entirely. Of the three days present, work is described in vague, unverifiable terms with no URLs, no keyword targets, and no metrics. One task filed under SEO is a logistics delivery task. The blog posts and internal link additions may have been done but cannot be confirmed, measured, or attributed to any business outcome. Hours claimed (approx. 4–6 hrs across visible days) produced zero traceable SEO impact.
 
 ---
 
-## E. WEEKLY SCORE
+## E. WEEKLY SCORE: **18 / 100**
 
-**32 / 100**
-
-Breakdown:
-- Output quality: 5/25 (tasks completed but unverifiable)
-- Evidence & accountability: 2/20 (zero URLs across all tasks)
-- Focus on high-value SEO: 5/20 (non-SEO tasks logged; no technical/keyword work)
-- EOD discipline: 8/15 (2 of 5 days missing)
-- Strategic thinking: 4/10 (no questions, no initiative, no prioritization logic shown)
-- Improvement trajectory: 8/10 (lessons noted, but same mistakes repeated day-over-day)
+Points awarded only for having some structure in EOD format and completing administrative tasks (invoice upload, listing transfer). Deducted heavily for 3 missing days, zero evidence across all SEO claims, misclassified tasks, and no measurable output.
 
 ---
 
 ## F. ONE-SENTENCE VERDICT
 
-**This week, Kamshi was a Red because two days of work are invisible, every completed task is unverifiable, a logistics job was disguised as SEO, and not a single URL was submitted as evidence.**
+**Kamshi was a Red this week — three days unaccounted for, zero verifiable SEO outputs, and a logistics task filed as SEO work make this an unbillable week by any performance standard.**
 
 ---
 
 ## G. NEXT-WEEK CORRECTION
 
-**STOP:** Submitting tasks as "Completed" without a URL, keyword target, or before/after signal. If you cannot link to it, it did not happen for audit purposes.
-
-**START:** Filing every EOD with at minimum: (1) the URL of the page worked on, (2) the target keyword, (3) what the meta title was before and after.
-
-**MEASURABLE OUTPUT TEST:** By end of next Friday, submit 5 collection or product pages optimized with verified URLs, target keywords listed, and meta titles documented. At least 2 must include internal link maps showing which pages now point to them.
+- **STOP**: Filing tasks with "Evidence: Not provided." Every completed SEO task must have a URL. No URL = task not accepted.
+- **START**: Opening every working day by selecting 3–5 specific pages with target keywords and documenting them before starting work, then linking the live URL in the EOD.
+- **MEASURABLE OUTPUT TEST**: Publish 3 blog posts next week — each must include: live URL, primary target keyword, word count, and at least 2 internal links to collection or product pages. All 3 must be submitted in EOD by Friday.
 
 ---
 
-## H. NEXT-WEEK TASK PIPE (Max 5/day)
+## H. NEXT-WEEK TASK PIPE (Max 5/day, High-Value Only)
 
 ### Monday
-1. Pull GSC data — identify 5 collection pages with >100 impressions and <5 CTR. Document current meta titles. **Expected outcome:** Target list for optimization. **Success signal:** List delivered to STL by EOD with before-state documented.
-2. Optimize meta title + description for top 2 collection pages from GSC list. Submit URLs as evidence. **Expected outcome:** Improved CTR potential. **Success signal:** Updated titles visible in Shopify + submitted in EOD.
+1. Identify 10 collection pages with no or weak meta descriptions → optimize all 10 (Evidence: URLs + before/after meta copy)
+2. Publish Blog #1: Target a specific long-tail keyword identified from GSC (Expected: indexing within 48hrs, topical cluster signal)
 
 ### Tuesday
-3. Write 1 blog targeting a specific long-tail keyword (state the keyword in EOD). Minimum 600 words. Internal link to at least 2 collection pages. Submit URL. **Expected outcome:** New organic entry point. **Success signal:** Live URL + target keyword documented.
-4. Add FAQs to 3 product pages (high-impression, low-click from GSC list). Submit product URLs. **Expected outcome:** Rich snippet eligibility. **Success signal:** FAQs visible on live pages, URLs in EOD.
+3. Internal linking audit: map 5 blogs to their nearest collection pages, add links (Evidence: URLs of blogs edited)
+4. FAQ implementation on 3 high-impression product pages (Evidence: product URLs)
 
 ### Wednesday
-5. Internal link audit: map which blogs currently link to the top 5 revenue collection pages. Identify gaps. Submit the map as a table in EOD. **Expected outcome:** Internal link gap identified. **Success signal:** Link map table with current state vs. target state.
+5. Blog #2 published with target keyword, word count ≥ 600, internal links ≥ 2 (Evidence: live URL)
+6. GSC check: pull 10 pages with high impressions, low CTR → update meta titles for CTR improvement
 
 ### Thursday
-6. Fix internal link gaps identified Wednesday. Add links from at least 3 blogs to under-linked collection pages. Submit URLs of pages edited. **Expected outcome:** Crawl equity redistributed to priority pages. **Success signal:** 3+ pages updated, URLs submitted.
+7. Collection page optimization: 5 pages — meta title, description, H1 (Evidence: URLs)
+8. Blog #3 published (Evidence: live URL)
 
 ### Friday
-7. Full EOD with weekly evidence log: table of every page touched (URL | task | keyword | before meta title | after meta title). **Expected outcome:** Auditable week. **Success signal:** Zero tasks without URLs; table submitted in EOD.
+9. EOD self-audit: verify all URLs submitted this week are live and indexed in GSC
+10. Anchor text map: document a reusable internal linking map for the top 10 collections
 
----
-*Audit generated by Claude Audit Bot | 2026-04-01*
+**Success Signal**: 3 blogs live with URLs + 15 pages with updated metadata + all EODs filed with evidence by COB Friday.
+
