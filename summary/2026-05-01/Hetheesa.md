@@ -1,118 +1,129 @@
-# Weekly Performance Audit — Hetheesha
+# Weekly Performance Audit — Hetheesa
 **Period:** 27 April – 1 May 2026
 **Audited:** Friday 1 May 2026
-**Working Days:** Mon 27, Wed 29, Thu 30, Fri 1 (4 days) | Tue 28 = On Leave
-**Stores Covered:** ledsone.fr, electricalsone.co.uk, ledsone.uk (referenced via product IDs)
-**Note:** Leave day not penalised for output. Audit covers 4 active working days.
+**Working Days:** Mon 27, Wed 29, Thu 30, Fri 1 (4 days) | Tue 28 = On Leave (not penalised)
+**Stores Covered:** ledsone.fr, electricalsone.co.uk, DCVoltage
 
 ---
 
 ## A. VALUE CREATED
 
-- **Emergency triage — /collections/easy-fit-metal-shade (Mon):** Highest-value single action of the week. Declining collection page identified, audited, and fixed in the same session. Clicks +3 confirmed Monday, +2 more by Thursday = +5 clicks measurable recovery on a previously declining page. This is exactly what a practitioner should do — detect, diagnose, fix, monitor.
-- **Product SEO Batch — 14 SKUs optimised (Mon):** Largest single product batch of the week. Specific SKU IDs provided as evidence. Metadata and content relevance improved across priority GSC pages.
-- **FAQ Schema — 16+ pages across the week (Mon×7, Wed×4, Thu×5):** Consistent schema rollout with validation confirmed. Rich result eligibility expanded at scale. This is the highest schema volume in the team this week.
-- **Blog — Stylish Metal Lamp Shades, electricalsone.co.uk (Mon):** Live URL provided. Decorative lighting intent targeted. Long-tail traffic entry point and internal linking support.
-- **ledsone.fr product SEO batch — 5 SKUs + listing transfer (Wed):** French-market product optimisation. Titles, metadata, and listing relevance updated. Multilingual SEO execution — differentiating skill.
-- **ledsone.fr Collection Page — /plafonniers (Wed):** Meta title, content, internal links improved. Live URL provided. Commercial collection page with French search intent targeted.
-- **GSC CTR Optimisation — 5 pages (Wed):** Meta titles updated on 5 low-CTR pages. Conservative projected lift: +5–10% CTR per page over 60 days.
-- **Blog — Lustre Araignée chandelier guide, ledsone.fr (Wed):** Live URL provided, GSC submitted, 3 internal links confirmed. French-language informational blog targeting buyer intent. Strongest evidence quality of any blog this week — explicit internal link count confirmed.
-- **Content Gap Analysis + Blog Title Ideation (Wed):** Keyword gaps identified, future blog opportunities mapped. Semantic topic expansion for ledsone.fr content pipeline.
-- **ledsone.fr Product SEO — 6 SKUs + 2 listing transfers (Thu):** Meta data, content, listing coverage improved. SKUs specified.
-- **Collection Page — /applique-murale, ledsone.fr (Thu + Fri):** Optimised on both Thursday and Friday. Duplicate effort flagged below, but demonstrates consistent commercial page focus.
-- **ALT Text Batch — 10 product images (Thu):** 10 product IDs provided. Image SEO, accessibility, and keyword relevance improved. Rare task in this team — differentiates Hetheesha's technical breadth.
-- **Merchant Feed Optimisation — 5 feed IDs, negative keywords added (Thu):** Direct impact on PPC ad targeting efficiency. Negative keywords reduce irrelevant traffic spend. Cross-functional value — SEO work feeding into Ads performance.
-- **Internal Link Addition — existing ledsone.fr blog (Thu):** Crawl path improved on existing content. Efficient ROI — one hour to strengthen an already-indexed asset.
-- **Weekly GSC Review with WoW delta (Fri):** Hard numbers provided — Clicks +25.4% WoW, Impressions +7.2%, CTR +22%, Avg Position 13.4 → 11.8. This is the only practitioner on the SEO team this week who submitted quantified performance data. This alone separates Hetheesha from the rest of the team in terms of accountability and output proof.
-- **Seasonal blog — Comment bien éclairer son extérieur, ledsone.fr (Fri):** Live URL, GSC submitted, distributed on 1 external channel. Timely seasonal content targeting May 2026 outdoor LED intent.
-- **Semrush keyword validation for alt text and product relevance (Fri):** Tool-assisted optimization. Evidence of using data to drive decisions rather than intuition.
+- **Emergency triage — /collections/easy-fit-metal-shade (Mon):** Same-session fix on a declining collection page. +3 clicks confirmed same day. +2 additional clicks confirmed Thursday GSC check (total +5 click recovery). This is the week's highest-impact single action — proactive identification, same-session execution, and follow-up monitoring all completed correctly.
+- **Product SEO Batch — 14 SKUs (Mon):** Largest single-day product batch of the week. Metadata and content optimized across 14 priority GSC-flagged products. Evidence: specific SKU IDs provided. High ROI per hour — batch processing at scale.
+- **FAQ Schema — 7 pages validated (Mon):** Rich Results Test validation confirmed. 7 pages in one session is above-average schema output. Direct SERP enhancement eligibility improvement.
+- **Feed Optimization — 3 feed IDs (Mon):** Feed data quality improved. Supports Google Shopping ad performance — cross-channel impact beyond organic SEO.
+- **Blog published — Stylish Metal Lamp Shades, Electricalsone (Mon):** Live URL provided. Informational intent. Internal linking opportunities added.
+- **Product SEO Batch — 5 SKUs, ledsone.fr (Wed):** Titles, metadata, listing relevance optimized. SKU references provided.
+- **Collection Page Optimization — ledsone.fr/collections/plafonniers (Wed):** Meta, content, internal links improved. Live URL provided.
+- **GSC CTR Optimization — 5 low-CTR pages (Wed):** Meta titles updated for CTR improvement. Completed within broader SEO session.
+- **FAQ Schema — 4 pages (Wed, IDs: 1708, 1919, 1748, 1734):** Schema extended across additional product pages.
+- **Electricalsone product optimization — 4 products (Wed):** Content and SEO fields improved. SKUs provided.
+- **Blog published — Lustre Araignée (French), ledsone.fr (Wed):** Live URL provided, GSC submitted, minimum 3 internal links confirmed. French-market informational content targeting chandelier buyer intent. Multi-language content execution — above standard.
+- **Content gap analysis + blog title ideation (Wed):** Keyword gap work and semantic topic expansion completed. Future content pipeline built.
+- **Backlink outreach — niche directory + editorial (Wed):** Two French-market platforms targeted (annuairedecoration.fr, lightzoomlumiere.fr). Niche-relevant and market-appropriate — significantly better platform selection than team average.
+- **Product SEO Batch — 6 SKUs + 2 listing transfers, ledsone.fr (Thu):** Metadata, content, listing coverage improved. SKUs provided.
+- **Collection Page Optimization — ledsone.fr/collections/applique-murale (Thu):** Meta, description, content, internal SEO relevance improved. Live URL provided.
+- **ALT Text Batch — 10 product images (Thu, IDs provided):** Image SEO and keyword relevance improved across ledsone.fr and Electricalsone. Accessibility improvement as additional benefit.
+- **FAQ Schema — 5 pages validated (Thu):** Structured data coverage expanded. 3 page IDs provided.
+- **Merchant Feed Optimization — 5 feed IDs, negative keywords added (Thu):** Cross-channel impact. Cleaner feed = reduced wasted ad spend. This is the only team member this week contributing to paid channel efficiency from an SEO role.
+- **Internal link addition — existing ledsone.fr blog (Thu):** Crawl path and authority flow improved on live content.
+- **GSC recovery monitoring — easy-fit-metal-shade (Thu):** +2 click improvement confirmed. Follow-through on Monday's triage action. This closed the loop correctly.
+- **Multi-SKU product optimization — ledsone.fr (Fri):** Alt text, FAQ schema, meta titles, descriptions, product descriptions updated across 8+ SKU references. Semrush used for keyword validation.
+- **Collection page — applique-murale (Fri):** Continued optimization pass.
+- **Blog published — Outdoor LED Lighting, ledsone.fr French (Fri):** Live URL provided, GSC submitted, distributed on 1 external channel. Seasonal content targeting May 2026 outdoor lighting intent. Time-relevant publishing.
+- **Keyword validation via Semrush (Fri):** Tool-backed keyword alignment for alt text and product content. Evidence of data-driven execution.
+- **Weekly GSC review — WoW delta (Fri):** ledsone.fr + electricalsone.co.uk combined:
+  - Clicks: 406 → 509 (+25.4%)
+  - Impressions: 43.2K → 46.3K (+7.2%)
+  - CTR: 0.9% → 1.1% (+22%)
+  - Avg. Position: 13.4 → 11.8 (improved)
+  This is the only team member this week who submitted a quantified WoW performance table. This is what good looks like.
 
 ---
 
 ## B. OPPORTUNITY WASTED (COMPANY)
 
-- **Collection page /applique-murale optimised on both Thursday AND Friday:** Same URL appears in both days' EODs with the same completion status. Either the page was worked on twice without clear scope differentiation, or the Friday entry is a duplicate. If duplicate: one day's effort partially wasted. No incremental change described in the Friday entry to justify re-opening.
-- **Zero confirmed live backlinks the entire week:** Monday = outreach pending, Wednesday = directory submission + outreach sent, Thursday = no backlinks, Friday = "blog distributed on 1 external channel" (not a backlink). The outreach pipeline is real and niche-relevant (lighting-specific domains), but it produced zero acquired, verified backlinks in 4 working days. Domain authority is not growing from link activity this week.
-- **Backlink outreach with no follow-up loop closed:** Two editorial contacts initiated Monday (lyadesign.com, lightzoomlumiere.fr). No follow-up referenced Wednesday or Thursday. Outreach without a follow-up cadence has a near-zero conversion rate. The pipeline exists but is not being worked.
-- **GSC WoW data (Fri) not split by domain:** Clicks/impressions/CTR reported as a combined total across ledsone.fr + electricalsone.co.uk. Cannot attribute improvement to specific actions on specific stores. Dilutes the diagnostic value of the data.
-- **No backlink activity Wednesday or Thursday — the highest output days of the week.** Both days were heavily on-page. Backlinks require consistent daily time allocation. Two full days with zero link-building is a missed compounding opportunity.
-- **Content gap analysis (Wed) produced no documented blog briefs or keyword list.** Output stated as "identified future blog opportunities and semantic topic expansion" — no deliverable. Without a documented list, this analysis cannot be actioned by anyone else and is not verifiable.
+- **Zero confirmed live backlinks acquired all week.** Monday outreach was editorial follow-up (pending). Wednesday submissions were directory/outreach (pending external approval). Friday was "distributed on 1 external channel" — no URL, no DR, no confirmation of a live link. Four working days, zero confirmed referring domains added. Outreach pipeline is being built but no links are landing. Backlink velocity = 0 confirmed for the week.
+- **GSC WoW data not split by domain.** ledsone.fr and electricalsone.co.uk reported combined. Cannot determine which store is driving the gains or which needs intervention. Self-identified in Friday's diagnostic — not resolved this week.
+- **Friday collection page optimization (applique-murale) — duplicate of Thursday.** The same URL appears in both Thursday and Friday EODs with near-identical task descriptions. Either this is genuine continued work or a reporting duplication. No additional detail provided to distinguish. Time accountability is unclear.
+- **No backlinks on Thursday.** Thursday EOD explicitly states "No backlink building tasks completed today." Combined with Monday (pending), Wednesday (pending), Friday (no confirmed link), the backlink pipeline exists on paper but produces zero verified results.
+- **Blog on Monday (Electricalsone) — no internal link count specified.** Unlike the French blog Wednesday (which explicitly confirms ≥3 internal links), Monday's Electricalsone blog has no internal link evidence. Minimum linking standard compliance unverifiable.
+- **SKU evidence by ID only — no URLs.** Product IDs are provided consistently, but no product page URLs. This makes GSC verification, click tracking, or pre/post CTR comparison impossible without an ID-to-URL mapping sheet.
 
 ---
 
 ## C. OPPORTUNITY WASTED (CAREER)
 
-- **The GSC WoW data is a career asset that's being undersold.** +25.4% clicks and +22% CTR WoW is a strong result. But it's buried in an EOD report with no attribution to specific actions. Hetheesha cannot currently say "I drove this result because of these actions." Building that causal link — even estimated — would elevate this from a report to a proof of impact.
-- **Multilingual SEO (French) is a differentiating skill being executed without documentation.** French-market product SEO and blog content is specialist work. There is no running record of ledsone.fr keyword performance, indexed content count, or ranking trajectory. This skill is being spent without evidence of cumulative impact — which means it won't be credited in a performance review.
-- **Backlink outreach is being treated as a checkbox, not a pipeline.** Real editorial outreach requires follow-up sequences, prospect lists, and conversion tracking. As currently executed, it's one email per contact with no documented follow-through. At this conversion rate, the time investment in outreach is not justified by results.
+- **Backlink output is zero despite consistent daily effort logged.** Hetheesa is spending time on outreach and directory submissions every week, but no confirmed live links are appearing in EODs. This will not show up in domain authority metrics, will not be attributable to ranking improvements, and will not be defensible in a performance review. The approach needs to shift from outreach-heavy to placement-confirmed.
+- **The WoW GSC table on Friday is the single best reporting artifact on the SEO team this week.** If this becomes a consistent Friday deliverable with per-domain splits, Hetheesa establishes a clear differentiation from peers on strategic awareness and accountability. This capability is being underutilized — it should be expanded, not kept as a one-off.
+- **Multi-store execution (FR + UK + DC feeds) is a genuine differentiator.** No other SEO team member this week touched French-market content, feed optimization, or cross-channel merchant feed work. This breadth of contribution is not being highlighted or formalized. It should be captured in reporting explicitly to build the case for expanded responsibility.
 
 ---
 
 ## D. VALUE PER HOUR JUDGEMENT — **High**
 
-Four working days across three stores (ledsone.fr, electricalsone.co.uk, ledsone.uk), with multilingual execution, measurable recovery on a declining page, the highest schema volume on the team, feed optimisation crossing into PPC territory, and the only WoW GSC performance data submitted by any SEO team member this week. Evidence quality is consistently above team average — live URLs, SKU IDs, and actual click data provided. The deductions (zero confirmed backlinks, duplicate collection page work, unsplit GSC data) are process gaps, not execution failures. This is the strongest week on the SEO team for Apr 27–May 1.
+Four working days across four stores and two languages, 8 hours logged Thursday alone. Output volume is the highest on the SEO team this week: emergency triage with confirmed recovery, 25+ product pages touched, 3 blogs published, 16+ FAQ schema pages, feed optimization, image alt text batch, GSC WoW delta reporting. Evidence quality is the strongest on the team — live URLs, SKU IDs, validation confirmations, and a quantified performance table. The only meaningful gap is zero confirmed backlinks despite daily effort logged against the task. That is a strategy problem, not an execution problem.
 
 ---
 
-## E. WEEKLY SCORE: **74 / 100**
+## E. WEEKLY SCORE: **78 / 100**
 
 | Deduction | Points |
 |---|---|
-| Zero confirmed live backlinks acquired all week | -12 |
-| /applique-murale appears worked on twice with no incremental scope | -5 |
-| Backlink outreach not followed up — pipeline stalled | -4 |
-| GSC WoW data not split by domain — attribution lost | -3 |
-| Content gap analysis produced no documented deliverable | -2 |
+| Zero confirmed live backlinks acquired across 4 working days | -12 |
+| GSC WoW data not split by domain (self-identified, not resolved) | -5 |
+| Possible duplicate task reporting (applique-murale Thu + Fri) | -3 |
+| Monday blog — internal link count not confirmed | -2 |
 
 ---
 
 ## F. ONE-SENTENCE VERDICT
 
-**This week, Hetheesha was a Green — the highest-output, best-evidenced SEO practitioner of the week, with measurable page recovery, multilingual execution, and the only WoW performance data submitted, held back only by a zero-backlink week and an outreach pipeline that is being initiated but not converted.**
+**This week, Hetheesa was a Green — the highest output, evidence quality, and cross-store coverage on the SEO team, with one structural gap: a backlink pipeline that logs effort but produces zero confirmed live links.**
 
 ---
 
 ## G. NEXT-WEEK CORRECTION
 
-- **STOP:** Initiating outreach contacts without a documented follow-up date. Every outreach contact must have: date sent, follow-up due date, and status (sent / followed up / replied / acquired). No new outreach contacts until existing ones have been followed up.
-- **START:** Splitting GSC performance data by domain in every Friday report. Format: ledsone.fr | electricalsone.co.uk | separate rows. This makes your WoW data attributable and actionable.
-- **Measurable output test:** By Wednesday 6 May, acquire at least 1 confirmed live backlink (not pending, not submitted — live and crawlable). Log: platform + DR + live URL + anchor text + target page. If editorial outreach contacts from last week have not replied by Tuesday, send follow-up email #2.
+- **STOP:** Counting editorial outreach and directory submissions as completed backlink tasks. A backlink task is only "Done" when a live, crawlable link exists and can be verified. Pending submissions are pipeline items, not completions.
+- **START:** Splitting GSC reporting by domain (ledsone.fr separate from electricalsone.co.uk) every Friday. This is already being done — just needs domain-level segmentation to unlock actionable insight per store.
+- **Measurable output test:** By Wednesday 6 May, acquire and confirm 2 live backlinks with verifiable URLs — not submissions, not outreach sent, not pending approval. Live link, DR logged, anchor text documented. This is the minimum acceptable backlink evidence standard going forward.
 
 ---
 
 ## H. NEXT-WEEK TASK PIPE (Max 5/day)
 
 ### Monday 4 May
-1. **GSC triage — identify next declining collection or product page** — same-session fix if found | Success: page identified, fixes applied, URL + before metric logged
-2. **Product SEO batch — 10 SKUs, ledsone.fr** — Semrush-assisted keyword alignment | Success: SKUs listed with before/after title logged
-3. **Follow up outreach contacts from Mon 27 Apr (lyadesign + lightzoomlumiere)** — email #2 sent | Success: follow-up email sent, date logged, response deadline set
-4. **FAQ Schema — 5 pages validated** — Rich Results Test screenshot per page | Success: pass confirmed per URL
-5. **ALT text batch — 10 product images** — keyword-aligned per Semrush | Success: 10 product IDs logged with updated alt text
+1. **GSC CTR priority list — ledsone.fr top 10 high-impression / low-CTR pages** — pull from GSC, log URL + impressions + CTR + current title | Success: shared tracking sheet ready before noon
+2. **Product SEO batch — 10 SKUs (ledsone.fr), Semrush-validated** — meta + content + alt text | Success: SKU IDs + page URLs logged (not IDs only)
+3. **Backlink #1 — confirmed live placement only** — DR 20+, niche-relevant, live URL submitted in EOD | Success: crawlable link verified, not just "submitted"
+4. **FAQ Schema — 5 pages (ledsone.fr or electricalsone)** — Rich Results Test pass screenshot per page | Success: validation confirmed in EOD
+5. **GSC recovery check — easy-fit-metal-shade** — clicks, impressions, position this week vs last | Success: WoW delta logged
 
 ### Tuesday 5 May
-1. **Backlink #1 — confirmed live placement (not submission, not outreach — live URL)** — DR 20+ niche platform | Success: live URL + DR + anchor text logged in EOD
-2. **Collection page optimization — 1 FR + 1 UK** — meta + content + FAQ schema | Success: 2 live URLs + before/after meta logged
-3. **Blog publish — ledsone.fr, French informational intent (specific keyword)** — GSC submitted + 3 internal links confirmed | Success: live URL + keyword stated
-4. **GSC CTR optimization — 5 pages from committed action list** — meta rewrites with before/after CTR baseline | Success: tracking sheet updated
-5. **Content gap deliverable — documented list of 5 blog opportunities** — keyword, volume, difficulty, intent per row | Success: list submitted in EOD (not just "identified")
+1. **Execute ledsone.fr CTR priority list — top 5 pages from Monday** — before/after meta logged per page | Success: pre-optimization CTR recorded per URL
+2. **Collection page — electricalsone.co.uk underperforming page (from Fri committed list)** — meta + schema + alt text in one session | Success: live URL + before/after meta in EOD
+3. **Blog publish — ledsone.fr French informational (actual keyword required)** — GSC submitted + min 3 internal links confirmed | Success: live URL + keyword + link count in EOD
+4. **Backlink #2 — confirmed live placement** — DR 20+, anchor text + target URL documented | Success: live URL in EOD
+5. **Feed optimization — 5 feed IDs (negative keywords + title refresh)** — ad efficiency improvement | Success: feed IDs logged with changes made
 
 ### Wednesday 6 May
-1. **Backlink #2 — confirmed live placement** — DR 20+ | Success: live URL + DR logged
-2. **Product SEO batch — 5 SKUs electricalsone.co.uk** — GSC-prioritized low-CTR pages | Success: before/after meta logged
-3. **Blog publish — electricalsone.co.uk, English informational intent** — live URL + GSC submission + 3 internal links | Success: all 3 confirmed in EOD
-4. **Merchant feed review — add negative keywords batch #2** — 5 feed IDs minimum | Success: feed IDs + keywords added logged
-5. **Outreach pipeline update** — check replies from Mon follow-ups, log status per contact | Success: status table updated (sent / replied / acquired)
+1. **Execute CTR list — remaining 5 pages from Monday audit** — before/after logged | Success: all 10 pages from Monday's list completed by EOD
+2. **ledsone.fr high-impression product page (from Fri committed list)** — meta rewrite + CTR hook improvement | Success: before/after CTR logged
+3. **Backlink #3 — weekly 3/3 confirmed live by Wednesday** — all 3 with URL + DR + anchor | Success: backlink sheet fully updated
+4. **ALT text batch — 10 product images** — keyword-validated via Semrush | Success: product IDs + URLs logged
+5. **Content gap — 3 blog briefs for ledsone.fr French market** — keyword, intent, target URL, outline | Success: briefs ready for next week's publishing
 
 ### Thursday 7 May
-1. **GSC recovery check — easy-fit-metal-shade + applique-murale** — impressions + clicks logged | Success: WoW delta per page documented
-2. **FAQ Schema — 5 pages validated** — no unvalidated schemas from this week | Success: pass screenshot per URL
-3. **Backlink #3 — confirmed live placement** — weekly 3/3 complete by Thursday | Success: all 3 backlinks logged with URL + DR + anchor
-4. **Internal linking pass — 3 existing ledsone.fr blogs** — add links to recently optimized collection pages | Success: Source→Target→Anchor table submitted
-5. **Per-domain GSC snapshot** — ledsone.fr and electricalsone.co.uk reported separately | Success: separate rows in tracking sheet
+1. **GSC per-domain snapshot — ledsone.fr separate from electricalsone** — clicks, impressions, CTR, avg. position per store | Success: two separate domain tables in EOD
+2. **FAQ Schema expansion — 5 collection pages** — Rich Results Test validation per page | Success: pass confirmed per URL, no product pages — collections only
+3. **Product SEO batch — electricalsone.co.uk, 5 SKUs with page URLs (not IDs only)** | Success: URLs logged alongside SKU references
+4. **Internal linking audit — all blogs published this month** — anchor relevance + count check | Success: audit log with quality assessment, not just count
+5. **Merchant feed — negative keyword expansion + feed ID review** | Success: updated feed IDs logged with keyword changes
 
 ### Friday 8 May
-1. **Weekly GSC report — split by domain** — ledsone.fr and electricalsone.co.uk separate WoW deltas | Success: clicks, impressions, CTR, avg position per domain
-2. **Backlink pipeline audit** — all contacts this week logged with status + next action | Success: full table submitted, no contacts with "status unknown"
-3. **Committed action list for next week — 3 specific pages with GSC data pre-pulled** | Success: page URL + impressions + CTR + proposed action per row
-4. **Content freshness check — identify 2 older ledsone.fr blogs for optimization** — internal links + schema if missing | Success: 2 blog URLs flagged with specific gaps noted
-5. **SKU documentation template** — create reusable batch SEO checklist for product pages | Success: template exists and is used for Monday's batch
+1. **Weekly GSC review — per-domain WoW delta (FR + UK separate)** — clicks, impressions, CTR, avg. position per store | Success: two domain tables with WoW comparison
+2. **Backlink verification — all 3 links from this week confirmed crawlable** — GSC links report or Ahrefs | Success: indexed or flagged for follow-up
+3. **Easy-fit-metal-shade final recovery check** — 2-week post-fix position + click comparison | Success: trend confirmed improving or new action triggered
+4. **Next-week committed page list — 5 specific pages pre-identified from GSC** — URL + current CTR + proposed action per page | Success: list ready before EOD, no discovery needed Monday morning
+5. **SKU-to-URL mapping sheet update** — ensure all product IDs worked on this week have corresponding page URLs logged | Success: no orphan IDs without URLs in tracking sheet
