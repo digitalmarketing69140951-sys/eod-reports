@@ -1,7 +1,6 @@
 # WEEKLY PERFORMANCE AUDIT — THIVAJINI
 **Week:** 27 Apr – 1 May 2026 (Friday audit)
-**Account:** ZZ / Ledsone (PMax — TOPSELL, Best Seller, Imp_Click campaigns)
-**Note:** No Friday (May 1) EOD submitted. Audit covers Mon–Thu only.
+**Account:** Ledsone (PMax — TOPSELL / Imp_Click / Best Seller)
 **Auditor:** Claude Audit Bot
 
 ---
@@ -10,109 +9,111 @@
 
 ### 1. VALUE CREATED
 
-- **High CPC product exclusions from TOPSELL (Wed):** 3 SKUs excluded at >€1.50 CPC with zero conversions — direct cost efficiency action with named listing IDs and explicit rationale. Most commercially precise action of the week.
-- **tROAS reduction on Best Seller (Mon):** Reduced from 242% → 230% to unlock spend and improve algorithm learning. Immediately followed up with delivery monitoring (Tue) — early recovery signal confirmed (impressions and clicks increased). Shows intervention-then-validate behaviour.
-- **TOPSELL revenue documented (Wed):** €22.81 revenue reported — the only concrete revenue figure in the week. Confirms TOPSELL as the active revenue driver.
-- **Asset group paused in Imp_Click (Mon):** Non-click/underperforming asset group isolated and paused — structural fix, not a micro-adjustment.
-- **Spider Light asset group refreshed in TOPSELL (Thu):** 5 headlines updated, 2 long headlines and 2 descriptions added — full creative refresh on an underperforming segment.
-- **Consistent feed optimisation with evidence IDs across all four days:** Mon (11 IDs across TOPSELL focus, fine-tuning, new listings), Tue (7 IDs including landing pages and new listing), Wed (9 IDs including cable collection), Thu (9 IDs). All with named product types and specific change descriptions.
-- **Self-identified waste in EODs:** Mon identified "minor risk of over-optimization on low-volume SKUs." Wed identified "continued effort on new listings while core campaigns still have scaling issues." Thu repeated the same finding. This is the only operator on the team who consistently self-identifies where time was wasted — a genuine audit behaviour.
-- **Persistent escalation framing for Best Seller blocker:** All four days formally document the Best Seller campaign constraint as a gate-level blocker requiring Team Leader decision. Questions submitted to STL each day. Clear escalation trail.
+- **Week-over-week performance data reported on Friday — the only operator this week to do so.** ROAS: 5.67 → 3.34 (-41.1%). Spend: €80.64 → €75.21 (-6.7%). Conversion value: €457.09 → €251.18 (-45.0%). Waste reduced: €62.72 → €11.71 (-81.3%). This is real, auditable performance data — a baseline that enables decisions.
+- **Waste reduction of -81.3% (€62.72 → €11.71) confirmed.** The exclusion and negative keyword work across the week produced a quantified output. This is the most concrete commercial result in any EOD from any operator this week.
+- **High CPC outlier exclusion executed with threshold logic (Wed):** 3 SKUs with CPC >€1.50 and zero conversions excluded from TOPSELL — cost-efficiency control with a named decision criterion, not just a list of product IDs.
+- **TOPSELL identified and validated as primary revenue driver (Fri):** ROAS 4.82x, consistent conversion value, highest performing campaign. Winner identified and documented — prerequisite for scaling decisions.
+- **Imp_Click campaign transitioned to conversion-generating status (Fri):** ROAS 3.35x confirmed — previously zero-conversion campaign is now producing returns. Validated outcome from prior optimization work.
+- **Best Seller blocker consistently escalated across all five days.** Every EOD names Best Seller as a gate-level blocker, identifies the owner, documents the current status, and states the next required action. This is the correct escalation behavior — persistent, documented, structured.
+- **~30+ product IDs feed-optimized across the week with SKU-level specificity:** Titles, descriptions, images improved across Lamp Shades, Spider Lights, Pendant Lights, Wall Lights, Ceiling Roses, Cables. Evidence IDs provided daily.
+- **Landing page optimization executed on high-click/no-sale SKUs (Tue, Thu, Fri):** Conversion friction addressed at page level across multiple SKUs — full-funnel thinking applied consistently.
+- **New listings created with cable category expansion (Wed–Thu):** 7 new SKUs live across the week, including cable category depth (4 cable listings added).
+- **Price issue corrected in GMC (Fri):** Pricing inconsistency on Wall Light (7295168151627) fixed — eligibility and trust signal restored.
 
 ---
 
 ### 2. OPPORTUNITY WASTED (COMPANY)
 
-- **Best Seller campaign remained blocked all four days with no structural resolution.** Mon: tROAS reduced. Tue: slight delivery improvement observed. Wed: still severely limited (€0.29 spend, no conversions). Thu: €0.66 spend, still no conversions. The same question was submitted to the Team Leader every single day: "Should Best Seller restructure or move to Maximize Conversion Value?" Four days, same blocker, no decision received and no escalation beyond "pending Team Leader." This is four days of budget sitting undeployed.
-- **Imp_Click converting zero all week despite strong CTR.** Tue: ROAS 4.3x cited (then contradicted — "zero conversions" in same EOD). Wed: "conversion gap persists." Thu: "moderate spend €7.16, zero conversions." The post-click problem (landing page / intent mismatch) was identified on Monday, named again every day, and never resolved. 4-day identified problem with 0 interventions executed beyond qualitative landing page review.
-- **New listings created every day despite self-identified deprioritization.** Mon: 2 new listings. Tue: 1. Wed: 2. Thu: 2. Every EOD from Wednesday onward explicitly states "reduce effort on new listings and prioritize existing SKU performance" — yet new listings appear in every EOD regardless. The lesson is being written and ignored in the same document.
-- **No spend, ROAS, or revenue data reported for Best Seller or Imp_Click beyond the Thu spend snapshots.** TOPSELL €22.81 revenue cited once (Wed). Thu shows spend snapshots for Best Seller (€0.66) and Imp_Click (€7.16). No cumulative weekly spend, no ROAS% for any campaign on any day except the Tue Imp_Click 4.3x figure — which is then contradicted by "zero conversions" in the same EOD.
-- **Marketplace expansion (Wed) — zero specifics.** "Added products to new marketplace channel" — no channel named, no product IDs, no expected outcome, no success criteria. Cannot be audited.
-- **No Friday EOD submitted.** Full day of work unaccounted for. Whether this was a day off, a half-day, or an omission is not documented.
+- **Conversion value collapsed -45% week-over-week (€457 → €251) and no escalation action was taken.** This is the headline metric of the week. The WoW data is reported accurately on Friday — but there is no evidence of an intra-week trigger point where the drop was detected and escalated. Five days of incremental optimization while revenue was declining -45% is a prioritization failure.
+- **Best Seller campaign blocker unresolved for the entire week despite being escalated every single day.** Monday through Friday, Best Seller is flagged as: limited, constrained, gate-level blocker. The same questions are asked each day ("Should we move to Maximize Conversion Value?", "Should we restructure?"). No decision was made or received. Escalating a blocker daily without forcing a resolution is not escalation — it is documentation. This campaign cost spend (€0.29 Mon, €0.66 Thu) and produced zero conversions for the entire week.
+- **TOPSELL under-spending flagged every day — no budget lever pulled.** TOPSELL is identified as the revenue driver with the highest ROAS. It was under-spending all week. The correct response is a budget increase or tROAS reduction. Neither was applied. The question "Can TOPSELL budget be increased?" is asked three separate times across the week without an answer being forced.
+- **Continued new listing creation (7 SKUs) while core campaigns had scaling and efficiency crises.** Thivajini's own diagnostic reflections (Wed, Thu) identify this as wasted time: "continued effort on new listings while core campaigns still face scaling and efficiency issues." The behavior was self-identified as low-leverage — and continued anyway.
+- **Negative keyword additions capped at 5 per day (Mon, Wed, Fri: 3).** 5 terms per session is a minimal intervention. Thivajini's own Wed reflection notes: "limited negative keyword expansion (only 5 added) vs broader CPC problem." The constraint was identified — not acted on.
+- **Conversion tracking discrepancy flagged Thursday but not resolved or escalated urgently.** "TOPSELL: €14.48 corrected" on Thursday suggests a tracking adjustment was needed. "Conversion tracking accuracy is critical for decision-making" is listed as a lesson. If tracking is unreliable, every ROAS figure this week is potentially inaccurate — this is a P0 issue, not a lesson for next week.
 
 ---
 
 ### 3. OPPORTUNITY WASTED (CAREER)
 
-- **The Best Seller blocker was escalated but never pushed to resolution.** Submitting the same question to the Team Leader four days in a row without a decision is not escalation — it is passive waiting. At this stage, the operator should have forced a decision: presented a specific recommendation (e.g., "I recommend moving to Maximize Conversion Value — here is the rationale") and obtained a yes/no by Tuesday.
-- **Imp_Click post-click problem identified Monday and still open Thursday.** The landing page mismatch was correctly diagnosed. A qualitative review was completed Thursday. No actual landing page change was made. Diagnosing a conversion problem for four days without executing a fix is analysis paralysis.
-- **TOPSELL revenue figure (€22.81) cited once and never built upon.** This is the only revenue number in the week. It should have been the anchor for a scaling argument — "TOPSELL is generating €22.81 on X spend at Y ROAS, we should increase budget by Z%." Instead it was mentioned as an observation and dropped.
-- **Self-identified lessons are not converting into changed behaviour.** "Scaling requires fixing conversion leaks before expanding inventory" — written Wednesday and Thursday. New listings created Wednesday and Thursday. The gap between written insight and actual behaviour change is the single most important pattern to address.
+- **Blocker escalation pattern is correct in form but broken in outcome.** Every day, Best Seller is escalated to "Gate level: Team Leader." Every day, the status is "Not resolved." There is no evidence that the escalation produced a response, a decision, or even an acknowledgment. Escalating to a gate that never opens is not ownership — it is process compliance without results. Thivajini should be forcing a decision, not logging a pending one.
+- **Questions asked daily to STL/Team Leader but never answered in subsequent EODs.** "Should Best Seller move to Maximize Conversion Value?" is asked Monday and Tuesday. Wednesday asks "Should Best Seller be restarted or restructured?" Thursday and Friday repeat the same. These questions were never answered or actioned. Either they were never truly escalated beyond the EOD document, or the answers are not being recorded.
+- **Self-identified waste patterns continued after being named.** Wednesday EOD: "continued effort on new listings while core campaigns still have scaling and efficiency issues." Thursday EOD: same observation. Friday: new listings still created. Naming a waste behavior and then repeating it for three consecutive days is not self-awareness — it is a behavior pattern that self-awareness failed to change.
+- **Diagnostic reflection quality is the strongest on the team — but it is disconnected from next-day actions.** The "What will change tomorrow" section is well-written and accurate every day. However, comparing "what will change tomorrow" vs what actually changed the next day reveals consistent misalignment. Thursday: "Push stronger intervention for Best Seller." Friday: no structural change to Best Seller.
 
 ---
 
 ### 4. VALUE PER HOUR JUDGMENT
 
-**Rating: MEDIUM**
+**Rating: MEDIUM–HIGH**
 
-Thivajini is the most analytically structured operator audited this week. EODs follow a consistent framework, self-identify waste, submit real escalation questions, and include specific performance signals. The CPC exclusion logic, tROAS adjustment with follow-up validation, and consistent asset evidence are all sound. However, the four-day Best Seller deadlock, the un-executed Imp_Click fix, and the gap between written lessons and actual behaviour pull this below HIGH. The analysis quality is above the team average — the execution response to that analysis is not.
+Thivajini produces the best-structured EODs of any operator audited this week. The diagnostic reflection section is genuinely analytical — identifying what failed, where time was wasted, and what should change. Friday's WoW data is the only real performance report submitted by any operator this week. Waste reduction of -81.3% is a quantified commercial outcome. However, the -45% conversion value decline happened across the full week with no intra-week escalation trigger, the Best Seller blocker was never resolved despite five days of documentation, TOPSELL under-spending was never addressed with a budget lever, and self-identified waste behaviors continued after being named. The thinking is strong — the execution of corrective action is where value is lost.
 
 ---
 
-### 5. WEEKLY SCORE: **64 / 100**
+### 5. WEEKLY SCORE: **68 / 100**
 
 | Dimension | Weight | Score | Notes |
 |---|---|---|---|
-| Output quality | 40% | 27/40 | Best analytical structure on team; revenue figure cited; CPC exclusion precise; missing Friday EOD |
-| Focus & prioritization | 30% | 19/30 | New listings created despite self-identified deprioritization; Imp_Click fix deferred 4 days |
-| Opportunity stewardship | 30% | 18/30 | Best Seller blocker not forced to resolution; no cumulative spend/ROAS reporting; marketplace task unauditable |
+| Output quality | 40% | 28/40 | Best EOD structure on team; WoW data reported; waste quantified; conversion value -45% unaddressed intra-week |
+| Focus & prioritization | 30% | 21/30 | Correct winner identified; TOPSELL budget lever never pulled; new listings continued despite self-identified as low-leverage |
+| Opportunity stewardship | 30% | 19/30 | Best Seller blocker escalated but never resolved; tracking discrepancy not treated as P0; questions never answered |
 
 ---
 
 ### 6. ONE-SENTENCE VERDICT
 
-This week, **Thivajini was Amber** because the analytical quality and escalation structure were the strongest on the team, but four days of the same unresolved blocker, lessons written but not acted upon, and zero Imp_Click conversion intervention prevent a Green rating.
+This week, **Thivajini was Amber** because the analytical quality and EOD structure were the strongest on the team, but a -45% conversion value decline went unescalated intra-week, the Best Seller blocker was never resolved despite five days of documentation, and the identified scaling lever (TOPSELL budget) was never pulled.
 
 ---
 
 ### 7. TOP 3 CORRECTIONS (MANDATORY)
 
-1. **Force the Best Seller decision on Monday — submit a specific recommendation with data, not an open question.** "Should Best Seller move to Maximize Conversion Value?" is a question. "Based on 4-day data showing €0.66 spend and 0 conversions, I recommend moving Best Seller to Maximize Conversion Value for a 7-day learning window — approve or override by EOD Monday" is a forced decision. The difference is accountability. Do not submit the same open question a fifth day.
-2. **Execute one concrete Imp_Click landing page fix this week — not a review, an actual change.** The post-click problem has been diagnosed for four consecutive days. Pick the highest-traffic Imp_Click SKU, identify the specific friction point (pricing clarity, image, variant confusion), make the change, and record the before/after. A diagnosis with no action is not optimization.
-3. **Stop creating new listings until TOPSELL is scaling and Imp_Click is converting.** This lesson was written in the EOD on Wednesday and Thursday. It must translate into zero new listing creation tasks next week until the core campaign performance gaps are resolved. If new listings are created anyway, explain the specific commercial reason that overrides the priority.
+1. **Force a decision on Best Seller by Tuesday next week — do not log it as pending again.** This campaign has been a documented blocker for five consecutive days. On Monday, send a direct request for a decision to the Team Leader: pause, restructure, or continue with a defined change. If no response by Tuesday EOD, escalate to the next level. "Gate level: Team Leader / Status: Not resolved" for six consecutive days is not escalation — it is a log entry.
+2. **Pull the TOPSELL budget lever before Thursday next week.** TOPSELL was identified as the primary revenue driver with the highest ROAS and was under-spending all week. Either increase the daily budget or reduce tROAS further to unlock volume. Document the pre-change spend baseline, the adjustment made, and the 72-hour result. This is the highest-leverage action available and it was not taken this week.
+3. **Validate conversion tracking accuracy as a P0 task on Monday.** The Thursday EOD flagged a "tracking discrepancy" that required a correction (TOPSELL "€14.48 corrected"). If conversion data is unreliable, every ROAS figure and optimization decision this week may be built on inaccurate data. This must be confirmed resolved — with evidence — before any optimization or bidding decision next week.
 
 ---
 
 ### 8. FAILURE ANALYSIS
 
-- **Where they converted opportunity into high-value output:** High CPC exclusion from TOPSELL (Wed) — named SKUs, clear rationale, direct cost efficiency. tROAS adjustment on Best Seller with next-day delivery validation — the only complete intervention-plus-follow-up loop of the week. TOPSELL revenue documentation (€22.81, Wed) — the clearest revenue signal submitted by any operator this week.
-- **Where they wasted time:** New listing creation every day against self-stated priority. Qualitative landing page review for Imp_Click (Thu) — four days after the problem was identified, with no change executed. Marketplace expansion task (Wed) with zero auditable specifics.
-- **Which tasks appeared productive but were low-impact:** 5 negative keywords added Monday and 5 more Wednesday — small volume with no query-level data cited. Review imports (Mon, Tue) — 5 products each day, no before/after conversion rate data, no platform confirmed.
-- **Which blockers were not escalated early enough:** The Best Seller campaign was correctly flagged as a Team Leader gate from Day 1. But by Day 3, the absence of a decision should have triggered a harder escalation — a direct request for a synchronous decision, not another async question in the EOD. Four days of budget sitting idle on a campaign that needed a structural call is the biggest opportunity cost of the week.
+- **Where they converted opportunity into high-value output:** Waste reduction -81.3% is a quantified, auditable outcome. CPC outlier exclusion with a named threshold (>€1.50) is the strongest exclusion logic documented by any operator this week. WoW performance comparison on Friday is the only real performance report submitted across the team. Imp_Click transition to conversion-positive is a validated recovery outcome.
+- **Where they wasted time:** New listing creation (7 SKUs across the week) while core campaigns were underperforming — self-identified as low-leverage on Wednesday and Thursday, continued anyway. Daily Best Seller documentation without forcing a resolution. Negative keyword sessions capped at 5 when a broader sweep was warranted.
+- **Which tasks appeared productive but were low-impact:** Marketplace expansion (Wed) — one line, no platform named, no reach impact data. Customer review collection (Mon, Tue) — 5 products each day, no conversion impact evidence. Asset optimization on underperforming segment (Thu) without isolating whether the issue was traffic, product, or landing page.
+- **Which blockers were not escalated early enough:** Conversion tracking discrepancy (Thu) should have been a P0 escalation the moment it was detected — not a lesson learned at end of day. TOPSELL under-spending was flagged Monday through Friday with no budget lever applied — this required a decision by Tuesday at the latest, not ongoing documentation.
 
 ---
 
 ### 9. FORWARD RISK
 
-- **Company:** Best Seller campaign has been unscaled for the full week. If the structural decision (Maximize Conversion Value switch or rebuild) is not made in the first two days of next week, this becomes a budget allocation failure — money available but not deployed against a recoverable campaign. TOPSELL under-spending with a proven €22.81 daily revenue signal also means uncaptured revenue every day the budget ceiling is not addressed.
-- **Career:** Writing the same lesson in two consecutive EODs without changing the behaviour (new listing creation) signals a gap between analytical capability and execution discipline. Thivajini has the strongest EOD structure on the team — if this pattern continues, it will be perceived as knowing what to do but not doing it, which is more damaging to credibility than simply not knowing.
+- **Company:** TOPSELL, the identified primary revenue driver, was under-spending for the entire week with no corrective action applied. If this continues next week, the highest-ROAS campaign in the account will continue to leave conversion value on the table while Best Seller consumes budget with zero return. The -45% conversion value decline week-over-week will compound if the structural issues are not resolved within the next 5 business days.
+- **Career:** Thivajini has the strongest analytical framework on the team — the gap is not in thinking but in converting thinking into action and forcing decision resolution. If the pattern of "identified, documented, repeated" continues without a corresponding pattern of "escalated, decided, applied," the analytical quality will become decorative rather than operational. The risk is being recognized as a strong reporter rather than an effective operator.
 
 ---
 
 ## SECTION B — NEXT WEEK TASK PIPE
 
 **TASK 1**
-- **Task:** Submit a specific, data-backed recommendation for the Best Seller campaign to Team Leader by Monday EOD — format: "Recommended action: [specific change] | Rationale: [4-day data summary] | Expected outcome: [metric] | Decision required by: Monday EOD."
-- **Expected Outcome:** Best Seller blocker moves from 4-day open question to a decided and actioned structural change.
-- **Success Signal:** Decision received and action applied (in-platform change confirmed) by Tuesday EOD. No more open-question escalation on this campaign.
+- **Task:** Force a Best Seller campaign decision by Tuesday — send a direct written request to Team Leader with three options: (a) pause the campaign, (b) restructure with new bidding strategy, (c) continue with a defined change and timeline. Require a response by Tuesday EOD.
+- **Expected Outcome:** Best Seller blocker resolved or formally escalated beyond Team Leader gate after 6 days without resolution.
+- **Success Signal:** Written decision received and actioned by Tuesday EOD. If no response, escalation to next level documented in Wednesday EOD.
 
 **TASK 2**
-- **Task:** Execute one concrete landing page fix for the highest-traffic Imp_Click SKU — identify the specific friction point from the Thu qualitative review and make the change on the Shopify product page.
-- **Expected Outcome:** Closes the 4-day diagnosis loop with an actual intervention. Sets a measurable before/after reference point.
-- **Success Signal:** Named SKU | Specific change made | Before engagement metric | Review date set for 72h post-change. Submitted by Tuesday EOD.
+- **Task:** Apply a TOPSELL budget increase or tROAS reduction to unlock under-spending — record the pre-change daily spend baseline, make the adjustment, and pull 72-hour spend and conversion value data.
+- **Expected Outcome:** TOPSELL spend increases toward daily budget cap; conversion value begins recovery from -45% WoW decline.
+- **Success Signal:** Pre-change vs post-change spend comparison submitted by Thursday EOD — daily spend | conv. value | ROAS before and after adjustment.
 
 **TASK 3**
-- **Task:** Build a TOPSELL scaling case — pull 7-day spend, revenue, and ROAS data for TOPSELL and calculate how much additional revenue a 20% budget increase would generate at current ROAS efficiency.
-- **Expected Outcome:** Converts the "TOPSELL is the revenue driver" observation into an actionable budget reallocation argument backed by data.
-- **Success Signal:** One-paragraph scaling case with formula submitted to Team Leader by Wednesday EOD: Current spend | Current ROAS | Revenue at +20% budget | Recommended allocation.
+- **Task:** Validate conversion tracking accuracy for TOPSELL — confirm the "€14.48 corrected" figure from Thursday was a one-time adjustment or an ongoing tracking gap. Check GA4 vs Google Ads conversion alignment and document the discrepancy source.
+- **Expected Outcome:** Confidence in conversion data restored or tracking issue formally flagged for technical fix.
+- **Success Signal:** Tracking validation report submitted by Monday EOD — GA4 conv. value vs Google Ads conv. value for the past 7 days, with explanation of any gap.
 
 **TASK 4**
-- **Task:** Zero new product listings this week — all listing effort redirected to optimising the 5 highest-spend, zero-conversion SKUs in Imp_Click (title, description, image, landing page alignment).
-- **Expected Outcome:** Core campaign efficiency prioritised over catalog expansion, consistent with the lesson written in Wed and Thu EODs.
-- **Success Signal:** Zero new listing IDs in any EOD this week. 5 Imp_Click SKUs with documented before/after optimisation changes by Thursday.
+- **Task:** Conduct a broad negative keyword expansion sweep across all three campaigns — target minimum 20 new terms based on the full search term report, not the 5-term daily cap applied this week.
+- **Expected Outcome:** Traffic quality improvement across all campaigns; wasted spend reduction beyond the current baseline.
+- **Success Signal:** 20+ new negative keywords added with search term source data cited; before/after irrelevant query rate documented by Wednesday EOD.
 
 **TASK 5**
-- **Task:** Submit a Friday May 8 EOD — document what happened on May 1 (was it a leave day, half day, or an omission) and ensure no missing EODs occur next week.
-- **Expected Outcome:** Full 5-day audit trail for the week. Accountability for the missing Friday log.
-- **Success Signal:** All 5 EODs submitted by their respective EODs. May 1 status clarified in Monday's EOD opening note.
+- **Task:** Stop new listing creation for the first three days of next week (Mon–Wed) — redirect that time to conversion path analysis on the top 5 high-click/no-sale SKUs across TOPSELL and Imp_Click.
+- **Expected Outcome:** Conversion bottleneck identified at SKU level with a specific corrective action per product (landing page, price, image, or title change).
+- **Success Signal:** Analysis submitted by Wednesday EOD — SKU | clicks | conversions | identified friction point | action taken.
 
