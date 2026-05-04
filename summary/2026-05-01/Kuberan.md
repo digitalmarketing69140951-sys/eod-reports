@@ -1,85 +1,86 @@
-# Weekly Performance Audit — Kuberan | 27 Apr – 01 May 2026
-
----
+# Weekly Performance Audit — Kuberan | 2026-05-01
 
 ## SECTION A — EXECUTION AUDIT
 
 ### VALUE CREATED
 
-- Rebuilt collection page product visibility logic using AJAX dynamic loading — eliminated layout gaps from hidden sold-out products; shipped to live collection pages [Mon]
-- Fixed PDP description HTML conflict on Ledsone.co.uk caused by Google Ads class collision — restored stable PDP rendering [Mon]
-- Shipped FAQ schema model in blog tool with structured input fields and HTML schema output for Shopify blog integration [Tue]
-- Implemented FAQ schema via meta fields on Ledsone.us PDP with slider/button trigger — structured data live on product pages [Tue]
-- Built dynamic colour filter (dropdown-based) for collection pages — live filtering logic deployed [Tue]
-- Fixed homepage offer percentage calculation error — accurate discount logic now live on homepage [Tue]
-- Fixed Clarity tracking installation error on Vintage Lite — session recording and heatmap tracking restored; UX fixes applied from session data [Wed]
-- Shipped full Vintage Lite collection page UI revamp including mobile responsiveness, sticky header, and mega menu [Wed]
-- Added alt text input field to blog tool image component + fixed layout gap rendering — SEO accessibility improvement shipped [Thu]
-- Removed homepage popup on Ledsone.de — reduced load interruption and UX friction [Thu]
-- Developed and deployed homepage outdoor collection section — new category entry point live [Thu]
-- Fixed collection page product visibility by reverting unstable custom section to default Shopify section — full product display restored [Thu]
+- **Collection page AJAX rebuild shipped (Ledsone)** — fixed missing products, eliminated layout gaps, in-stock-only display live [Evidence: 2026-04-27, Status: Completed]
+- **FAQ schema generator feature shipped in Blog Tool** — structured input fields, HTML schema output, reusable for all blog content [Evidence: 2026-04-28, Status: Completed]
+- **FAQ schema + slider UI live on Ledsone.us PDP** — meta field connected to frontend; structured FAQ data now indexable [Evidence: 2026-04-28, Status: Completed]
+- **Dynamic colour filter shipped on collection pages** — dropdown-based filtering, page-wise logic, improved product discovery [Evidence: 2026-04-28, Status: Completed]
+- **Vintage Lite collection page UI revamp + sticky header + mega menu shipped** — full mobile responsiveness resolved, navigation usability improved [Evidence: 2026-04-29, Status: Completed]
+- **Clarity tracking fixed and reinstalled; UX fixes applied from session recordings** — real behavior data feeding live fixes [Evidence: 2026-04-29, Status: Completed]
+- **Homepage outdoor collection section developed and live (Ledsone.de)** — new product category surfaced from homepage [Evidence: 2026-04-30, Status: Completed]
+- **Blog Tool extended: alt text field, layout spacing fix, row select/delete** — SEO accessibility and content management improvements shipped [Evidence: 2026-04-29, 2026-04-30, Status: Completed]
+- **Ledsone.de popup removed + page load check completed** — reduced user friction and load interruption [Evidence: 2026-04-30, Status: Completed]
+
+---
 
 ### OPPORTUNITY WASTED (COMPANY)
 
-- 404 error audit on Ledsone.us completed Wednesday but no redirects or fixes implemented — broken URLs remain live and are actively harming crawl budget and ranking signals → estimated continued SEO loss per day of inaction
-- Push notification feasibility consumed development time with no shippable output due to Shopify platform limitation that should have been identified before deep development → ~partial day wasted on a blocked path
-- FAQ schema not validated against Google Rich Results Test as of end of week — schema is live but eligibility unconfirmed; rich result benefit unrealized until validated
-- Zero proof signals (PR#, deploy URLs, metric deltas) across all 5 days — audit cannot verify production impact of any task
+- **404 error audit completed on Ledsone.us but zero redirects or fixes implemented** → identified broken URLs sit unresolved; every day without redirects = continued crawl waste and lost link equity → estimated 2–5 days of SEO recovery delay
+- **FAQ schema not validated via Google Rich Results Test** → schema may be malformed or ineligible for rich results; shipped feature has unconfirmed SEO value until validated
+- **Push notification feasibility explored and custom dashboard built, then abandoned** → time spent on a solution that Shopify's permission model blocks natively; no output with production value [Evidence: 2026-04-30]
+- **No PR numbers, commit hashes, or Shopify theme version references on any task across the entire week** → zero audit trail; no rollback capability verified
+- **No EOD filed for 2026-05-01 (Friday)** → final day of the week unaccounted for; unknown output
+
+---
 
 ### OPPORTUNITY WASTED (CAREER)
 
-- All 5 EOD logs submitted with "Evidence: N/A" across every task — no commit hash, no deploy link, no before/after metric; week of work is unverifiable and effectively undocumentable in a performance record
-- 404 error audit completed but not actioned — ownership stopped at analysis; a technical owner is expected to ship the fix, not just log the finding
-- Push notification path pursued without platform validation first — signals weak pre-build scoping discipline
-- Clarity was not tracking correctly and was only discovered during active use, not during initial setup validation — reactive debugging rather than proactive verification
+- Built and tested a push notification dashboard that could never ship due to a known Shopify platform limitation — platform constraints should be validated before development begins, not after
+- 404 audit completed but ownership stopped at identification; fixing broken URLs is a 30-minute redirect task that was not actioned
+- FAQ schema shipped without Rich Results Test validation — shipping unverified structured data is a half-done task; it will not appear in SERPs until confirmed eligible
+- No Friday EOD — final day of week missing entirely from the record
+
+---
 
 ### VALUE PER HOUR
 
-**High** — Volume of shipped features this week is above average: AJAX collection rebuild, FAQ schema (blog + PDP), colour filter, multiple live UI fixes across 3+ stores, Clarity fix and behavior-driven UX improvements. The output density is strong for a single technical contributor across 4 working days. Score is capped by total absence of proof signals and one unactioned audit (404 errors), which leaves measurable SEO opportunity on the table.
+**Label: High**
 
-### WEEKLY SCORE
+This is Kuberan's strongest week in the provided record. The volume of shipped features is high and covers multiple surface areas: Liquid/AJAX collection logic, a reusable Blog Tool with three new features, PDP FAQ schema with frontend integration, collection filtering, mobile UI revamp, and homepage merchandising. The primary drag is a small cluster of tasks that stopped one step before full closure (404 fixes not actioned, schema not validated, push notification dead-end). If those gaps are closed next week, output-to-effort ratio is strong.
 
-**72 / 100**
+---
+
+### WEEKLY SCORE: **74 / 100**
+
+---
 
 ### ONE-SENTENCE VERDICT
 
-This week, Kuberan was **Amber** because output volume was high and multiple features shipped to production, but zero proof signals exist for any task and an identified 404 error issue was logged and not fixed, leaving a known SEO problem unresolved.
+This week, **Kuberan was Green** because multiple features shipped across collection, PDP, blog tool, and homepage surfaces, but the score is capped by unvalidated schema, unactioned 404 fixes, a wasted push notification exploration, and a missing Friday EOD.
+
+---
 
 ### NEXT-WEEK CORRECTION (SINGLE-THREAD FOCUS)
 
-- **STOP:** Submitting EODs with "Evidence: N/A" — every shipped task must include a deploy link, commit reference, or before/after screenshot
-- **START:** Actioning audit findings on the same day or next day — identify → fix → verify, not identify → log → move on
-- **TEST:** By next Friday, all identified Ledsone.us 404 errors are resolved with redirects implemented and re-submitted in Google Search Console, AND FAQ schema passes Google Rich Results Test — proof: GSC coverage report showing 0 identified 404s from this audit + Rich Results Test pass screenshot
+- **STOP:** Exploring custom solutions before validating platform constraints — push notification investigation burned hours on a blocked path
+- **START:** Closing each shipped feature with one verification step before moving on (Rich Results Test for schema, redirect implementation for 404s, GA4/Search Console re-fetch)
+- **TEST:** By Friday 2026-05-08 — all Ledsone.us 404 errors mapped and redirects implemented (Search Console Coverage report showing <previous count of 404s as proof) AND FAQ schema on ≥1 PDP passing Google Rich Results Test (screenshot as proof)
 
 ---
 
 ## SECTION B — FORCED EXECUTION PIPE
 
-**Primary failure: audit findings not actioned (404 errors unresolved, schema unvalidated)**
+**Single failure axis: Features shipped without closure verification**
 
----
+- **Task 1:** Implement redirects for all broken URLs identified in the Ledsone.us 404 audit
+  - Expected Outcome: Broken URLs return 301 to correct destination; crawl errors drop in Search Console
+  - Success Signal: Search Console Coverage report showing 404 count reduced; Shopify URL redirect list updated
 
-**Task 1**
-- Task: Fix all Ledsone.us 404 errors identified in GSC audit — map to correct URLs and implement 301 redirects
-- Expected Outcome: Broken URLs return correct pages; crawl budget waste eliminated; ranking signal recovery begins
-- Success Signal: GSC Coverage report shows 0 remaining 404s from audited URL set; redirects verified in browser
+- **Task 2:** Validate FAQ schema on Ledsone.us PDP using Google Rich Results Test
+  - Expected Outcome: Schema confirmed eligible for FAQ rich result in SERPs
+  - Success Signal: Rich Results Test screenshot showing "Valid" status for ≥1 PDP URL
 
-**Task 2**
-- Task: Validate FAQ schema (blog tool + Ledsone.us PDP) using Google Rich Results Test and GSC Enhancements report
-- Expected Outcome: Schema confirmed eligible for rich result display; any structural errors identified and fixed
-- Success Signal: Google Rich Results Test shows "Valid" for FAQ schema on minimum 1 PDP and 1 blog page; screenshot logged as evidence
+- **Task 3:** Roll out FAQ schema to ≥3 additional PDPs or collection pages across stores
+  - Expected Outcome: Structured FAQ data indexable on multiple pages; SEO surface area expanded
+  - Success Signal: Rich Results Test passing for each additional URL; Search Console re-fetch requested
 
-**Task 3**
-- Task: Ship 404 redirect implementation — submit fixed URLs for re-indexing via GSC URL Inspection / sitemap resubmit
-- Expected Outcome: Google begins re-crawling corrected URLs; deindex signal removed from broken paths
-- Success Signal: GSC shows submitted URLs as "URL is on Google" within inspection tool post-fix
+- **Task 4:** Extend dynamic colour filter to multi-select and/or add second filter dimension (e.g., type or price)
+  - Expected Outcome: Customers can combine filters; product discovery significantly improved
+  - Success Signal: Live on collection page, tested across mobile and desktop, no JS errors in console
 
-**Task 4**
-- Task: Build and ship Clarity setup verification checklist — automate or document mandatory post-install validation steps for all stores
-- Expected Outcome: No store goes live with broken Clarity tracking; reactive debugging time eliminated
-- Success Signal: Checklist document published internally; applied to minimum 1 store validation this week with pass/fail logged
-
-**Task 5**
-- Task: Add evidence field enforcement to EOD template — every task must include deploy URL, commit ref, or GSC/analytics metric delta before EOD is submitted
-- Expected Outcome: All future tasks are independently verifiable; audit quality improves to 100% traceable
-- Success Signal: Next Friday's EOD contains zero "Evidence: N/A" entries across all tasks
+- **Task 5:** Standardize Clarity tracking setup checklist and verify Clarity is firing correctly across all active stores
+  - Expected Outcome: No store has a missing or broken Clarity installation; session data available for all properties
+  - Success Signal: Clarity dashboard showing active sessions for each store; checklist published in internal doc
