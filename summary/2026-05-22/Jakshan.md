@@ -2,124 +2,121 @@
 **Period:** 18 May – 22 May 2026
 **Audited:** Friday 22 May 2026
 **Store:** ledsone.co.uk
-**Note:** Monday 18 May = On Leave. Friday 22 May = On Leave (audit day). Effective working days: Tuesday, Wednesday, Thursday only (3 days). Both leave days approved — no penalty. However, Friday leave means closing deliverables must be submitted Thursday. They were not.
+**Note:** Monday 18 May = On Leave (approved). Friday 22 May = On Leave (approved). Effective working days: Tuesday, Wednesday, Thursday only (3 days). Leave is not penalised — but the absence of both the first and last working days materially reduces the output ceiling and eliminates any Friday deliverables.
+**CRITICAL NOTE on Wednesday EOD:** Wednesday's team discussions state "Deliverables were finalized and closed within Friday EOD reporting to avoid pending execution gaps." Friday is a leave day. No Friday EOD was submitted. The promised advance deliverable closure did not happen.
 
 ---
 
 ## A. VALUE CREATED
 
-- **Tier 1 CTR Performance Validation Table — CREATED (Tue):** Screenshot evidence attached. GSC performance comparison data (clicks, impressions, CTR, ranking positions) used to identify optimisation candidates and validate metadata performance trends. This is the most significant single deliverable of the week. Required since the 1 May audit — overdue for six weeks — and now finally produced. The table's existence closes the primary corrective that has appeared in every audit since 1 May.
-- **Dead page recovery — Wood Deck Tiles (Tue):** Live URL provided. GSC keyword enrichment added for ranking recovery and dead page stabilisation. Semantic targeting improved for the affected product page.
-- **Longtail keyword optimisation — Ceramic E27 Lamp Holder (Tue):** Live URL provided. Longtail keyword variations added for query matching, semantic coverage, and organic discoverability. Correct continuation of the URL restructure work started weeks earlier.
-- **Sales page monitoring + CRO review (Tue):** Sales-performing URLs reviewed. Conversion-supporting elements validated. CRO-driven behavioural patterns monitored for retention.
-- **Junction Box TOFU blog published (Tue):** Blog published and confirmed. TOFU-stage informational content expanding keyword footprint and topical authority for the junction box cluster. This is the TOFU blog that was deferred for four consecutive weeks in the prior audit period — now live.
-- **Backlink — Instructables confirmed live (Tue):** Live URL: instructables.com/Easy-Weekend-Makeover-How-to-Install-Interlocking-/ This is the first confirmed live backlink from the outreach campaign that has been running since the week of 4 May. Six weeks of outreach has now produced one verifiable live link. The platform (Instructables) is a legitimate DIY/home improvement community — niche-adjacent to the Wood Deck Tiles and home improvement product range. DR ~90. This is the highest-quality individual backlink placement in the entire SEO team this audit cycle.
-- **Guest post submitted — electriciansforums.net (Tue):** Submitted for approval. Niche-relevant electrical trade forum. If approved, this will be the highest-niche-relevance backlink placed by any team member this cycle. Pending external moderation.
-- **content.ratedpeople.com backlink — awaiting confirmation (Tue):** Tradesperson/contractor directory. Niche-adjacent. Pending confirmation.
-- **Comparison table deployment — final batch, 50 URLs completed (Wed):** Final deployment batch confirmed. Comparison table initiative that began in week 1 of the audit cycle is now fully deployed across all 50 planned URLs. This is a genuine initiative closure — prototype → test → deployment → production → scale, completed over 6 weeks. Direct CRO impact on product decision pages.
-- **Non-branded keyword development — Group 2 Tier 1 pages (Wed):** Non-branded keyword targeting expanded across Group 2 top pages after observing conversion signals from prior optimisation groups. Screenshot evidence attached.
-- **ALT tag optimisation — Group 2 Tier 1 top 5 pages (Wed):** Primary keyword-focused ALT tags added/refined for Group 2 top 5 Tier 1 pages. Image relevance, accessibility, and image-search keyword association improved.
-- **Blog UI styling — Group 1 (Wed):** Visual hierarchy, section spacing, content block styling, and presentation consistency improved across Group 1 blog pages. Screenshot evidence attached.
-- **WoW performance monitoring validation — Group 1 (Wed):** GSC week-over-week comparison tracking for Group 1 optimisation performance. Visibility retention and stability validated post-implementation.
-- **Buyer journey optimisation — Group 2 Tier 1 (20 pages) (Thu):** Buyer-flow alignment improved across top PDPs using search-intent matching, CTA positioning logic, and conversion-focused content adjustments across 20 Tier 1 pages.
-- **Optimisation monitoring — 2 optimised pages received clicks for targeted keywords (Thu):** Screenshot evidence attached. Two optimised pages generated clicks for the same targeted keywords validating CTA alignment and search intent capture. This is the third instance in the audit cycle where Jakshan has logged a measurable near-immediate click response to a specific on-page change. The pattern of CRO-attributed conversions is now consistent and evidenced.
-- **Intent audit — 5 lost-ranking PDP pages (Thu):** Intent mismatch identified and corrected across 5 PDPs experiencing ranking or visibility loss. Topical mismatch reduced.
-- **Contextual internal linking — 12 Group 1 Tier 1 pages (Thu):** Cross-linking between related PDPs expanded. Crawl paths, semantic association, and navigation depth improved.
-- **Helpful content / Google ranking filter audit + EEAT escalation (Thu):** Audit conducted and escalated to Piranav and Tech Team Leader. Sitewide EEAT trust reinforcement implemented through organisational schema improvements. Helpful content filter risk areas documented and escalated for technical handling. This is the correct cross-functional behaviour — identifying a sitewide risk, documenting it, and escalating it to the technical team for resolution.
-- **Organisational schema trust improvement — sitewide (Thu):** Schema enhancements deployed. Trust consistency, entity clarity, and EEAT reinforcement improved across safe content sections and PDP ecosystem.
-- **Blog UI styling — Wall Light Shades (Thu):** Live URL: ledsone.co.uk/blogs/new/discover-stylish-and-functional-wall-light-shades-for-your-home. Visual hierarchy, spacing, table styling, and readability improved. Screenshot evidence attached.
-- **Blog published — Discover Stylish and Functional Wall Light Shades (Thu):** Same URL. Readability, section hierarchy, EEAT presentation, content engagement structure, and visual UX consistency improved.
+- **Tier 1 CTR Performance Validation Table — created (Tue):** The primary corrective deliverable from the 1 May audit, required for three consecutive cycles, is now produced. GSC performance comparison data used — clicks, impressions, CTR, and ranking positions compared across Tier 1 pages to identify optimisation candidates and validate metadata trends. Screenshot evidence referenced. This is the most important single delivery of the week — and of the past month. Three weeks late, but it exists.
+- **Dead page / lost ranking recovery — Wood Deck Tiles (Tue):** Target URL: ledsone.co.uk/products/wood-deck-tiles. GSC keyword enrichment and relevance reinforcement applied. Ranking recovery and dead page stabilisation targeted.
+- **Longtail keyword optimisation — Ceramic E27 Lamp Holder (Tue):** Target URL: ledsone.co.uk/products/ceramic-e27-lamp-holder. Longtail keyword variations added for improved query matching and semantic coverage.
+- **Sales page monitoring + CRO-derived review (Tue):** Sales-performing URLs reviewed. Conversion-supporting elements identified. CRO retention monitoring after prior optimisations — correct ongoing discipline.
+- **Junction Box TOFU blog published (Tue):** Blog published. TOFU-focused informational content targeting awareness-stage queries. Informational keyword footprint and topical authority expanded.
+- **Instructables backlink — confirmed live (Tue):** Live URL: instructables.com/Easy-Weekend-Makeover-How-to-Install-Interlocking-/. First confirmed live backlink in the entire audit cycle with a publicly verifiable URL. DR ~86 (Instructables). Home improvement/DIY niche — moderate relevance to lighting/electrical. This is a meaningful step — the first genuine live link acquisition across six weeks.
+- **Guest post submitted — electriciansforums.net (Tue):** Platform is directly niche-relevant (UK electrical trade forum). Submission in progress. Pending moderation. Not confirmed live — correctly marked Blocked. Niche relevance is the highest-quality outreach target in the audit cycle.
+- **Content.ratedpeople.com backlink — awaiting confirmation (Tue):** Submission pending. Ratedpeople is UK trade services — relevant to electrical/lighting. Not confirmed live.
+- **Comparison table final batch — all 50 planned URLs deployed (Wed):** The comparison table initiative launched three weeks ago is now complete. All 50 planned URLs received dynamic comparison table modules. The initiative moved from prototype → single page → 20 → 50 in systematic scaling. CRO impact across the full product catalogue.
+- **Non-branded keyword scaling — Group 2 Tier 1 pages (Wed):** Non-branded keyword targeting expanded across Group 2 top-performing pages within the 20 Tier-1 set. Broader search-intent capture and conversion-aligned keyword positioning implemented.
+- **ALT tag optimisation — Group 2 Tier 1, top 5 pages (Wed):** Primary keyword-focused ALT tags added/refined for image relevance, accessibility, and image-search keyword association.
+- **Blog UI styling — Group 1 (Wed):** Visual readability improvements, section spacing refinements, highlighted content block styling implemented. Reusable component approach.
+- **WoW performance monitoring — Group 1 validation (Wed):** Week-over-week comparison tracking of Group 1 optimisation performance. Impressions, clicks, and ranking retention monitored after SEO/UI scaling.
+- **Top Products Buyer Journey Optimisation — Group 2 Tier 1, 20 pages (Thu):** Buyer-flow alignment improved across top PDPs using search-intent matching, CTA positioning logic, and conversion-focused content. 20 pages in one session — significant scale.
+- **Optimisation monitoring — 2 pages received clicks for targeted keywords (Thu):** Two optimised pages generated clicks for the same targeted keywords post-optimisation. Screenshot evidence referenced. This is measurable validation — the same pattern that produced 3 confirmed CRO sales in earlier weeks.
+- **Intent audit — lost pages, 5 PDP URLs (Thu):** Search intent mismatches identified and corrected on 5 PDPs experiencing ranking or visibility loss. Intent correction applied same-day.
+- **Contextual internal links — 12 Group 1 Tier 1 pages (Thu):** Contextual cross-linking added between related PDPs. Crawl paths, semantic association, and navigation depth improved across 12 top Group 1 pages.
+- **Google Helpful Content / ranking filter SEO audit (Thu):** Helpful content filter risk areas documented and escalated to Piranav and Tech Team Leader. Sitewide EEAT trust reinforcement implemented.
+- **Organisational schema trust improvement — sitewide (Thu):** Organisational schema enhancements deployed sitewide. Trust consistency, entity clarity, and EEAT reinforcement improved. This is the second sitewide schema deployment in the audit cycle — the first was the YMYL/author schema from week of 18 May. Escalated to technical team for broader implementation.
+- **Blog UI styling — Wall Light Shades blog (Thu):** Live URL provided: ledsone.co.uk/blogs/new/discover-stylish-and-functional-wall-light-shades-for-your-home. Visual hierarchy, spacing, content readability, table styling improved.
+- **Blog published — Discover Stylish and Functional Wall Light Shades for Your Home (Thu):** Styled, evidenced, and published. Live URL and screenshots referenced.
 
 ---
 
 ## B. OPPORTUNITY WASTED (COMPANY)
 
-- **Friday 22 May on leave — zero closing deliverables submitted on Thursday.** The audit day closes with no GSC WoW snapshot, no confirmed backlink acquisition summary, and no next-week priority list from Jakshan. Monday 18 May was also on leave. This gives the team leader a 3-day working week with no bookend deliverables — no Monday context and no Friday summary. The team discussions section on Wednesday explicitly notes: "Monday leave communicated in advance. Deliverables were finalized and closed within Friday EOD reporting." But Friday was also on leave, and no advance Friday deliverables were submitted on Thursday. The commitment made in Wednesday's EOD was not honoured.
-- **Tier 1 CTR table — produced but the actual table data is not visible in the EOD.** Evidence: "Attached CTR validation spreadsheet screenshot." Screenshots of spreadsheets are referenced but the actual data (page URL, position, impressions, CTR before, CTR after, delta) does not appear in the EOD text. The table exists — this is confirmed and credited — but the audit cannot read its contents. For a deliverable that has been required for six consecutive weeks, the data needs to be visible in the EOD, not only in an attached screenshot. What pages were in the table? What was the before vs after? What was the delta on the pages that received the zero-click optimisation in week 1?
-- **Zero confirmed new backlinks acquired this week beyond the one already logged Tuesday.** Guest post to electriciansforums.net: pending approval. content.ratedpeople.com: awaiting confirmation. The Instructables link is confirmed live — that is the week's sole acquisition. For 3 working days with a weekly target of 3 confirmed links, 1 live link is below target. The pipeline is materially improved (electriciansforums.net and ratedpeople.com are niche-relevant pending placements) but they are not yet confirmed.
-- **No blogs published with new content on Wednesday.** Tuesday has the Junction Box TOFU blog. Thursday has the Wall Light Shades blog. Wednesday has zero new blog output. With only 3 working days, two blogs is a reasonable weekly count — but the pipeline still has no content published on Wednesday across three of the last four audit weeks.
-- **No GSC weekly snapshot submitted any day this week.** No WoW clicks, impressions, CTR, or avg position table appears for ledsone.co.uk in any EOD across the 3 working days. The team leader cannot read the site's performance direction this week from Jakshan's EODs.
-- **Evidence quality inconsistent across high-complexity tasks.** Buyer journey optimisation (20 pages), organisational schema sitewide deployment, and comparison table 50-URL finalisation are claimed as completed without live URLs or verifiable page-level confirmation. "Execution confirmed," "screenshot attached," and "internal validation completed" appear across multiple tasks. For the most advanced SEO practitioner on the team, this evidence standard is below what the work's complexity warrants.
+- **Wednesday EOD promised advance Friday deliverables — none were submitted.** Wednesday's team discussions explicitly state: "Deliverables were finalized and closed within Friday EOD reporting to avoid pending execution gaps." Friday 22 May is a leave day. No Friday EOD exists. The GSC WoW snapshot, the backlink acquisition table, the outreach pipeline status, and the next-week priority list — all standard Friday deliverables — are absent. The promise of advance closure was made and not executed. This is the same gap as the week of 8 May (Friday leave with no advance deliverables) — repeated.
+- **Tier 1 CTR table produced — but 12-row format with all six columns not confirmed in EOD.** The table exists ("spreadsheet screenshot attached"). But the specific format required since 6 May — Page URL | Position | Weekly Impressions | CTR before fix | CTR current | Delta — for all 12 Tier 1 pages — is not documented inline in the EOD. The screenshot is referenced but not readable in the report. Whether all 12 Tier 1 pages are represented or a partial subset is unknown. A spreadsheet screenshot is closer to correct evidence than prior weeks, but it is still not the inline table the audit specified.
+- **No GSC WoW snapshot submitted — three-working-day week closed with zero performance data.** Three days of advanced SEO work (comparison tables, buyer journey optimisation, Tier 1 analysis, sitewide schema) with zero aggregate performance summary. The team leader cannot see ledsone.co.uk's direction this week.
+- **Zero confirmed live backlinks from the outreach campaign across all three working days.** Tuesday's Instructables link is confirmed live. The guest post (electriciansforums.net) and the ratedpeople.com link are both pending. Net confirmed acquisition for the week: 1 (Instructables). The weekly target of 3 is not met. However — Instructables is the first live link with a publicly verifiable URL in six weeks, and electriciansforums.net is the highest niche-relevant outreach target in the cycle. The pipeline is materially improving.
+- **No new content published Wednesday.** Three working days: Tuesday had the TOFU blog and the Wall Light Shades blog publication process. Thursday had the Wall Light Shades blog published. Wednesday had zero blog output. The comparison table deployment and keyword scaling are high-value CRO/SEO tasks — but no organic content entry point was created Wednesday.
+- **Junction Box TOFU blog — no live URL in EOD.** "Blog publication confirmed" with no URL. This is the third TOFU blog reference in the audit cycle (deferred Apr 28, deferred May 5, now "published" May 19 without a URL). The URL must appear in the EOD for the publication to be verified.
+- **Comparison table completion — no URL list or validation log submitted.** "Final deployment batch confirmed for planned 50 URLs" with no list of the URLs deployed, no screenshot of the comparison module live on a sample page, and no validation count by store section. 50 URLs is a significant scale deployment — without at least a sample URL and a count by category, it cannot be verified.
 
 ---
 
 ## C. OPPORTUNITY WASTED (CAREER)
 
-- **The Tier 1 CTR table is finally produced — this closes a six-week overdue deliverable.** This is genuine progress and is credited. The table was the primary corrective from the 1 May audit, re-issued in every subsequent audit. Its production on Tuesday 19 May is the single most important individual deliverable in this week's report. The career observation: the data produced in the table needs to be surfaced in the EOD body — a screenshot reference does not allow the team leader to evaluate whether the zero-click optimisation from six weeks ago actually worked or failed. If it failed, that finding is equally important to report.
-- **Wednesday's Team Discussions section states closing deliverables would be finalised before Friday leave — this commitment was not kept.** This is a trust issue, not a scheduling issue. Stating in writing that advance deliverables would be submitted and then not submitting them is more damaging to credibility than not having stated it at all. The next time Jakshan makes a commitment in the Team Discussions section, the team leader will factor in this precedent.
-- **The outreach campaign has now produced its first confirmed live backlink after six weeks.** Instructables is a genuine, quality placement — niche-adjacent, high DR, contextually relevant. The career move is to now surface the full outreach funnel transparently: how many contacts sent, how many responses, how many pending placements, what is the expected conversion rate, and what is the monthly referring domain target. Moving from a count of emails sent to a conversion funnel is the difference between reporting activity and managing an outreach programme.
+- **Wednesday's promise of advance Friday deliverables that were not delivered is a pattern, not a one-off.** The week of 8 May had the same structure: Friday leave, no advance deliverables. Wednesday's EOD this week stated the closure explicitly. It did not happen. Two consecutive Fridays on leave with zero advance closure submissions. At senior level, pre-submitting closing deliverables before a leave day is a basic professional discipline — especially when the team leader depends on Friday reporting.
+- **The Tier 1 CTR table — finally produced — is the single most important corrective delivered this cycle.** Its existence closes a three-week accountability gap. The fact that it is a screenshot rather than an inline table is a secondary gap that can be corrected. What matters most is that the analysis now exists and can be referenced, validated, and built on. This is genuine progress.
+- **Instructables as a first confirmed live link is meaningful — and the electriciansforums.net guest post is the highest-quality outreach target in the cycle.** Niche-relevant UK electrical trade forum + DIY home improvement platform = a genuine backlink strategy, not bulk directory submissions. If electriciansforums.net approves the guest post, this week's outreach will have produced more domain authority value than the preceding six weeks combined. The pipeline is improving materially.
+- **The comparison table initiative — from concept to 50 URLs deployed across the product catalogue — is a complete strategic initiative.** It was planned, prototyped, scaled in batches, and finalised this week. That is the full arc of a senior SEO initiative. The evidence submission needs to match the scale of the work — a URL list and a before/after engagement comparison would make this a portfolio-grade deliverable.
 
 ---
 
-## D. VALUE PER HOUR JUDGEMENT — **HIGH**
+## D. VALUE PER HOUR JUDGEMENT — **HIGH (3-day week)**
 
-Three working days with the most strategically sophisticated output on the team this week. The Tier 1 CTR table finally produced — closing a six-week corrective deliverable. The comparison table initiative completed across all 50 planned URLs — a multi-week project reaching full production scale. The Instructables backlink confirmed live — the first acquisition from six weeks of outreach. EEAT audit escalated to Piranav with sitewide organisational schema deployed. Buyer journey optimisation across 20 Tier 1 PDPs. Contextual internal linking across 12 Group 1 pages. Two CRO-validated click responses from optimised pages. Dead page recovery and longtail optimisation with live URLs. The quality and architectural scope of the work is the highest on the team. The deductions — no GSC snapshot, no advance Thursday Friday deliverables despite commitment, Tier 1 table data not visible in EOD body, and 1 confirmed backlink against a 3-link target — are real but do not outweigh the weight of the week's closures. High rating earned on a 3-day working week.
+Three working days with the highest-complexity, highest-scale output in the team this week. The Tier 1 CTR table — finally built. Comparison tables deployed across all 50 planned URLs — initiative complete. 20-page buyer journey optimisation. 12-page contextual internal linking. Sitewide EEAT organisational schema escalated to technical team. Intent audit on 5 lost PDPs. Two blogs published. The Instructables backlink is the first live niche-adjacent link with a public URL in the audit cycle. The electriciansforums.net guest post is the highest-quality outreach target attempted. The WoW validation on Wednesday confirms Group 1 stability. The optimisation monitoring on Thursday confirms clicks from targeted keywords. For a three-day working week, this is the highest-quality output per working day on the team. Rating is High on a 3-day basis — the full-week ceiling is pulled down by no Friday deliverables and a missing GSC snapshot.
 
 ---
 
-## E. WEEKLY SCORE: **74 / 100**
+## E. WEEKLY SCORE: **68 / 100**
 
 | Deduction | Points |
 |---|---|
-| Friday on leave — no advance closing deliverables on Thursday despite explicit Wednesday commitment | -10 |
-| Tier 1 CTR table — produced but data not visible in EOD (screenshot only, contents unreadable) | -8 |
-| No GSC WoW snapshot submitted any day this week | -5 |
-| Backlinks: 1 confirmed live (Instructables) vs 3-link weekly target | -3 |
+| Friday on leave — advance deliverables promised Wednesday, not submitted — second consecutive leave-Friday with no advance closure | -12 |
+| Tier 1 CTR table exists but format not confirmed inline — screenshot reference only, 12-page completeness unverifiable | -8 |
+| No GSC WoW snapshot for the week | -6 |
+| Backlink target: 1 confirmed live (Instructables) vs 3 — 2 pending approval | -4 |
+| Junction Box TOFU blog — no live URL | -2 |
 
 ---
 
 ## F. ONE-SENTENCE VERDICT
 
-**This week, Jakshan was a Green — a genuine three-day output with the six-week-overdue Tier 1 CTR table finally produced, the comparison table initiative completed across all 50 planned URLs, the first confirmed live backlink from six weeks of outreach placed on a high-quality niche-adjacent platform, and a sitewide EEAT audit escalated and resolved, held back by a Friday leave day with no advance Thursday closing deliverables despite an explicit Wednesday commitment, and the CTR table's data not visible in the EOD body.**
+**This week, Jakshan was a Green-Yellow — three working days of the most sophisticated SEO output in the team (Tier 1 CTR table finally produced, 50-URL comparison table initiative completed, sitewide EEAT schema escalated, Instructables live link acquired, electriciansforums.net guest post submitted), undermined by a second consecutive leave-Friday with advance deliverables promised but not submitted, and the Tier 1 CTR table existing as a screenshot rather than the specified inline 12-row format.**
 
 ---
 
 ## G. NEXT-WEEK CORRECTION
 
-**STOP:** Making commitments in the Team Discussions section that are not honoured. Wednesday's EOD stated: "Deliverables were finalized and closed within Friday EOD reporting." Friday was leave. The advance deliverables were not submitted Thursday. A stated commitment that is not kept is more damaging to credibility than not having made the commitment. From next week: if Friday leave is planned, advance deliverables are submitted in Thursday's EOD — not promised in Wednesday's.
+**STOP:** Promising advance Friday deliverables in Wednesday's EOD and then not submitting them. This has now happened on two consecutive leave-Fridays (8 May and 22 May). The correct behaviour is: if Friday is leave, submit all closing deliverables in **Thursday's EOD** — not Wednesday's team discussions section. Thursday is the last working day; Thursday EOD is when the advance submission happens.
 
-**START:** Surfacing the Tier 1 CTR table data directly in the EOD text. The table exists — the screenshot proves it. But the audit cannot read a screenshot. The data must be in the EOD body: Page URL | Position | Weekly Impressions | CTR before fix | CTR current | Delta — for all 12 Tier 1 pages. Submit this in Monday's EOD as the first task of the week.
+**START:** Submitting the Tier 1 CTR table in its specified inline format in Monday's EOD — one final time. The table exists as a screenshot. The audit requires it as inline text: Page URL | Position | Weekly Impressions | CTR before zero-click fix | CTR current | Delta — 12 rows. Copy the values from the spreadsheet, paste them into the EOD. This takes 10 minutes. It closes the audit's primary corrective deliverable permanently.
 
-**Mandatory deliverables — all due Monday 25 May:**
-1. **Tier 1 CTR table data in EOD body:** 12 rows, 6 columns, typed into Monday's EOD. What did the zero-click optimisation produce? What is the before vs current CTR for each page? This data must be readable without a screenshot.
-2. **Advance Friday deliverables for any planned leave day:** If Friday 29 May is at risk, the GSC snapshot, backlink summary, and next-week priority list must be submitted in Thursday 28 May's EOD.
-3. **Outreach funnel status:** Emails sent (cumulative) | Responses | Live links (Instructables) | Pending confirmations (electriciansforums.net, ratedpeople.com) — submitted in Monday's EOD.
+**Mandatory outputs — all due Thursday 28 May (last working day before any Friday risk):**
+1. **Tier 1 CTR table inline** — 12 rows, 6 columns — in Monday 25 May EOD. No further deferral. Screenshot is not the deliverable.
+2. **Electriciansforums.net status** — follow up Tuesday 26 May. If approved, live URL + DR + anchor + target page logged immediately. If rejected, next editorial platform identified same day.
+3. **GSC WoW snapshot** — submitted in Thursday's EOD — regardless of Friday leave status.
 
 ---
 
 ## H. NEXT-WEEK TASK PIPE (Max 5/day)
 
-### Monday 25 May
-1. **Tier 1 CTR table — data in EOD body (first task, non-negotiable)** | Expected: Six-week corrective deliverable made fully readable | Success signal: 12-row table in Monday EOD: URL | Position | Impressions | CTR before | CTR current | Delta — typed, not a screenshot reference
-2. **Outreach funnel update — Monday EOD** | Expected: Campaign accountability for week 4 of outreach | Success signal: Emails sent (cumulative) | Responses | Live links confirmed | Pending (electriciansforums, ratedpeople) — four fields in EOD
-3. **GSC WoW snapshot — ledsone.co.uk (inline in EOD, not narrative)** | Expected: Site-level performance visible to team leader | Success signal: Clicks, impressions, CTR, avg position WoW — actual numbers in EOD body
-4. **Bookmarklet deployment — scale to 50 URLs (prototype to team asset)** | Expected: Tool built weeks ago reaches production | Success signal: 50 URLs scored, output documented, before/after tracking established
-5. **New blog published — informational cluster (live URL in EOD before Completed)** | Expected: Content pipeline momentum continued | Success signal: Live URL + keyword + GSC submission + ≥3 internal links to commercial pages
+### Tuesday 25 May (Monday is bank holiday — UK)
+1. **Tier 1 CTR table — inline format — FIRST TASK (overdue since 6 May)** | Expected: Three-week corrective permanently closed | Success signal: 12-row table in Tuesday EOD: Page URL | Position | Impressions | CTR before | CTR current | Delta — typed into EOD body, not a screenshot reference
+2. **Electriciansforums.net follow-up — status check on guest post submission** | Expected: Pipeline conversion or pivot | Success signal: If approved — live URL + DR + anchor + target page logged. If rejected — next niche-relevant platform identified and submission initiated same day
+3. **Ratedpeople.com follow-up — status check** | Expected: Second pipeline conversion | Success signal: Live URL + DR + anchor + target page if confirmed, or alternative platform initiated if rejected
+4. **Comparison table validation — submit URL list and sample screenshots** | Expected: 50-URL deployment verified | Success signal: List of deployed URLs by category + screenshot of comparison module live on at least 3 representative pages — in Tuesday EOD
+5. **Junction Box TOFU blog — confirm live URL in Tuesday EOD** | Expected: Blog existence verified | Success signal: Live URL in Tuesday EOD — if not published, acknowledge and publish immediately
 
-### Tuesday 26 May
-1. **Follow-up — electriciansforums.net guest post status** | Expected: Niche-relevant guest post confirmed or alternative identified | Success signal: Approval confirmed (live URL) or rejection noted with alternative submission initiated
-2. **follow-up — content.ratedpeople.com confirmation** | Expected: Pending backlink resolved | Success signal: Live URL + DR + anchor text confirmed or submission repeated on alternative platform
-3. **Backlink #2 — confirmed live link (new platform, niche-relevant, DR 20+)** | Expected: Second referring domain this week | Success signal: Platform + DR + live URL + anchor text + target page — all five fields
-4. **Tier 1 CTR follow-up — top 3 pages with highest impression-to-click gap from Monday's table** | Expected: Second-pass optimisation on pages most needing intervention | Success signal: 3 URLs + before CTR (from table) + new meta applied + GSC resubmission confirmed
-5. **Buyer journey optimisation — next batch beyond Group 2 (if Tier 2 pages exist)** | Expected: Optimisation framework scaled further | Success signal: Page URLs + changes documented + click monitoring timeline set
+### Wednesday 26 May
+1. **Backlink #2 — confirmed live link (new platform if pending approvals unresolved)** | Expected: Second confirmed referring domain this week | Success signal: Platform + DR + live public URL + anchor text + target page — all five fields
+2. **Buyer journey optimisation — next Group 3 Tier 1 batch** | Expected: Optimisation framework scaled beyond Group 2 | Success signal: Page URLs + intent changes applied + CTA positioning documented
+3. **Non-branded keyword scaling — next Tier 1 batch** | Expected: Broader search-intent capture continued | Success signal: URLs + before/after keyword targeting documented
+4. **Blog published — informational or TOFU (live URL in EOD before Completed marked)** | Expected: New organic entry point | Success signal: Live URL + keyword + GSC submission + ≥3 internal links to commercial pages
+5. **WoW performance monitoring — Group 2 validation (week after non-branded keyword scaling)** | Expected: First measurable signal from Wednesday's non-branded expansion | Success signal: Before/after impression and click comparison per page group — screenshot or inline data
 
-### Wednesday 27 May
-1. **Backlink #3 — confirmed live link (3/3 weekly target by Wednesday)** | Expected: Full weekly target met for second consecutive week | Success signal: Platform + DR + live URL + anchor text + target page
-2. **GSC WoW snapshot — Wednesday submission if Friday leave is planned** | Expected: Performance data visible regardless of Friday status | Success signal: Inline table in EOD — clicks, impressions, CTR, avg position WoW — actual numbers
-3. **New blog published — second of the week (live URL in EOD)** | Expected: Content velocity maintained | Success signal: Live URL + keyword + GSC submission + ≥3 internal links
-4. **Non-branded keyword development — Tier 2 pages (scaling from Group 2 results)** | Expected: Broader organic reach beyond Tier 1 | Success signal: Page URLs + keyword additions documented
-5. **Pre-leave Friday advance deliverables — if Friday is at risk, submit today** | Expected: No repeat of missed commitment | Success signal: GSC snapshot + backlink summary + next-week priority list in Wednesday EOD if Friday leave is planned
-
-### Thursday 28 May
-1. **EEAT follow-up — technical actions from Piranav (sitewide helpful content review)** | Expected: Cross-functional escalation produces technical outputs | Success signal: Status from Piranav documented — actions taken or timeline confirmed
-2. **Schema audit — all pages treated this week** | Expected: No invalid structured data before weekend | Success signal: Rich Results Test pass/fail per URL — failures fixed same day
-3. **Intent audit — next 5 lost-ranking PDPs** | Expected: Ranking recovery pipeline progressing | Success signal: 5 URLs + intent mismatch identified + corrective applied
-4. **Advance Friday deliverables — SUBMIT TODAY if Friday is leave** | Expected: No fourth consecutive Friday with missing closing data | Success signal: GSC WoW snapshot + backlink acquisition table + next-week priority list submitted in Thursday EOD
-5. **Contextual internal linking — next batch beyond Group 1** | Expected: Crawl structure and semantic clustering continued | Success signal: URLs + anchor text + target pages documented
+### Thursday 28 May — ADVANCE FRIDAY DELIVERABLES SUBMITTED TODAY
+1. **GSC WoW snapshot — submitted in Thursday EOD (not deferred to Friday)** | Expected: Weekly performance data visible to team leader regardless of Friday status | Success signal: Clicks, impressions, CTR, avg position WoW — inline in Thursday EOD as actual numbers
+2. **Backlink acquisition table — all confirmed links this week (platform + DR + live URL + anchor + target)** | Expected: Accurate weekly backlink record before Friday | Success signal: Table in Thursday EOD — all confirmed links with all five fields — no pending entries
+3. **Next-week priority list — 5 execution tasks with named URLs** | Expected: Monday starts with a live page change in the first hour | Success signal: 5 tasks with URL + specific action + expected output — submitted in Thursday EOD before leave
+4. **Outreach pipeline status — all submissions this week (Emails | Replies | Live links | Cumulative)** | Expected: Outreach campaign accountability for week 4 | Success signal: Four-field table in Thursday EOD
+5. **EEAT sitewide schema — validation and Piranav follow-up status** | Expected: Technical escalation tracked to completion | Success signal: Schema validation pass/fail per template type + technical team response logged
 
 ### Friday 29 May (if working)
-1. **EOD date verified before submission** | Expected: No repeat of wrong-date or duplicate submissions | Success signal: Date field reads "29 May 2026" — verified before sending
-2. **GSC WoW snapshot — inline in EOD (if not submitted Wed/Thu)** | Expected: Weekly performance closure | Success signal: Clicks, impressions, CTR, avg position WoW — actual numbers in EOD body
-3. **Backlink acquisition summary — all confirmed links this week** | Expected: Accurate weekly outreach record | Success signal: Emails sent | Live links confirmed | Pending | Platform + DR + URL + anchor for confirmed links
-4. **Outreach pivot assessment — is the funnel converting or needs adjustment?** | Expected: Strategic accountability for outreach programme | Success signal: Conversion rate (live links / total outreach) stated + one specific change if conversion is below 5%
-5. **Next-week priority list — 5 execution tasks with named URLs** | Expected: Monday starts with a live page change in the first hour | Success signal: 5 tasks with URL + specific action + expected output — no analysis-only entries
+1. **GSC snapshot (if not submitted Thursday)** | Success signal: WoW table in Friday EOD — inline, actual numbers
+2. **Backlink table (if not submitted Thursday)** | Success signal: All confirmed links with five fields per row
+3. **Bookmarklet deployment — scale to 50 URLs** | Success signal: 50 URLs scored, output documented, validation tracking set up
+4. **Intent audit — next 5 lost PDPs** | Success signal: 5 URLs + mismatch identified + correction applied
+5. **CRO attribution update — which pages have now generated confirmed sales** | Success signal: Revenue attribution table updated with new confirmed conversions since last entry
