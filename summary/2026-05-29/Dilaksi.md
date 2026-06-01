@@ -1,5 +1,6 @@
 # WEEKLY PERFORMANCE AUDIT — DILAKSI
-**Week:** 26–29 May 2026 (Mon leave, Fri no EOD filed = ~3 effective working days: Tue/Wed/Thu)
+**Week:** 26–29 May 2026 (Mon leave = 4 effective working days: Tue–Fri)
+**Domains:** LEDSone UK, DCVoltage
 **Audit Date:** Friday, 29 May 2026
 **Auditor:** Claude Audit Bot
 
@@ -11,112 +12,122 @@
 
 ### 1. VALUE CREATED
 
-- **GEO Implementation Action Plan Created (Tue 26):** Structured plan built from AI visibility findings and prompt tracking analysis. Establishes implementation framework for AI search visibility and GEO readiness. Strategic planning output — no live deployment yet but foundational.
-- **Collection Page Optimised — Vintage Fittings for Pendant Lights (Tue 26):** On-page SEO elements, content, and internal commercial targeting updated. Direct crawlability and relevance improvement for a commercial collection page.
-- **Blog Internal Linking — Summer House Lighting Ideas 2026 (Tue 26):** 5 contextual internal links added from informational content to commercial pages. Authority flow improvement toward revenue pages.
-- **SEO Success Story Performance Analysis Document (Tue 26):** Detailed case study using Shopify + GSC + SEMrush data. 3 hours of analytical output for strategic reporting. Useful for executive reporting and future SEO positioning.
-- **Collection Page Optimisation + Blog Published — Commercial Lighting for Restaurants UK (Wed 27):** Combined SEO content enhancement and supporting blog published to strengthen topical relevance and internal linking for a commercial category.
-- **Priority Organic SEO List — Excluded Google Ads Products (Wed 27):** 4 product IDs (2909, 1242, 6414, 6584) identified and prioritised for organic SEO workflow. Organic recovery strategy for products blocked from paid channels.
-- **DCVoltage Product SEO — 4 Products (Wed 27) + 2 More (Thu 28):** 6 total DCVoltage product IDs optimised across two days with keyword mapping via SEMrush, before/after meta documented on Thu. Systematic product SEO execution.
-- **Blog Published — E27 vs B22 vs GU10 (Thu 28, DCVoltage):** Live URL confirmed. Educational comparison blog targeting high-intent bulb fitting queries. Informational traffic opportunity.
-- **New Product Listing Created — DCVoltage (Thu 28):** Live URL confirmed at dcvoltage.co.uk. New inventory SEO asset created.
-- **GEO Task 1 — Robots.txt Audit + AI Brand Baseline (Thu 28):** First tangible GEO implementation step executed. Baseline captured and progress documented.
-- **FAQ Schema Tracking Updated — 4 Product IDs (Thu 28):** Schema implementation confirmed and tracked for IDs 2909, 1242, 6414, 6584.
-- **GSC Indexing Check + Internal Linking Audit — Weekly Blogs (Thu 28):** Indexing validated via spreadsheet and internal link quality reviewed for all blogs published this week.
-- **Cylex USA Backlink Submission (Wed 27):** 1 citation/directory listing added for LEDSone USA authority building.
+- **GEO Implementation Action Plan Created (Tue 26):** Structured plan built from AI visibility findings and prompt tracking analysis. Implementation framework for AI search visibility and GEO readiness established. Directionally sound foundational work.
+- **Organic Revenue Recovery Plan — Excluded Google Ads Products (Tue 26):** SEO-focused recovery strategy created targeting products excluded from paid channels (IDs 2909, 1242, 6414, 6584). Identifies real organic opportunity from paid-search gaps.
+- **Collection Page Optimised — Vintage Fittings for Pendant Lights (Tue 26):** SEO content, crawlability, and internal commercial targeting updated. Live collection page improvement.
+- **5 Internal Links Added — Summer House Lighting Ideas 2026 (Tue 26):** Contextual authority flow from informational to commercial pages strengthened.
+- **SEO Success Story Performance Analysis (Tue 26):** 3-hour Shopify + GSC + SEMrush analytical output. Strategic reporting asset created.
+- **GSC WoW Snapshot — Collection Pages (Wed 27):** Weekly performance tracking across impressions, CTR, and clicks (Weeks 11–20 comparison) completed.
+- **Collection Page Optimisation + Blog Published — Commercial Lighting for Restaurants UK (Wed 27):** SEO content enhancements and supporting blog published together. Combined execution, not staged.
+- **Priority Organic SEO List — Excluded Google Ads Products (Wed 27):** IDs 2909, 1242, 6414, 6584 documented and prioritised for organic recovery workflow.
+- **DCVoltage Product SEO — 4 Products (Wed 27):** IDs 1123, 1020, 1161, 1083 — SEMrush keyword mapping, metadata refinement, and on-page improvements applied.
+- **Cylex USA Backlink Submission (Wed 27):** 1 business listing/citation added for LEDSone USA authority.
+- **FAQ Schema Tracking — 4 Product IDs (Thu 28):** IDs 2909, 1242, 6414, 6584 confirmed and tracked.
+- **GSC Indexing Check — Weekly Published Blogs (Thu 28):** All week's blogs confirmed indexed via spreadsheet validation.
+- **Internal Linking Quality Audit — Weekly Blogs (Thu 28):** Crawl paths and contextual relevance reviewed and strengthened.
+- **DCVoltage Product Optimisation — 2 Products (Thu 28):** IDs 1033 and 1157 — before/after meta logged per product.
+- **New Product Listing Created — DCVoltage (Thu 28):** Live URL confirmed at dcvoltage.co.uk/products/e27-round-lamp-shade-decorative-lighting-fixture.
+- **Blog Published — E27 vs B22 vs GU10 (Thu 28, DCVoltage):** Live URL confirmed. Educational comparison blog targeting high-intent bulb fitting queries.
+- **GEO Task 1 — Robots.txt Audit + AI Brand Baseline (Thu 28):** First tangible GEO execution step completed. Progress documented.
+- **Success Story Implementation Guide — Urgent Request (Thu 28):** Urgent team leader request completed same day.
+- **Weekly GSC Snapshot — LEDSone UK WoW (Fri 29):** Significant impression declines identified: /wall-light (−6,663 impressions), /plugin-lighting (−1,977), /conduit-lighting (−668). CTR drops on 4 of 6 tracked URLs. Performance degradation correctly captured and documented.
+- **Priority Product SEO — LEDSone UK (Fri 29):** IDs 2246, 4107, 2839 optimised with on-page content and metadata updates.
+- **Schema Coverage Confirmation (Fri 29):** IDs 2909, 1242, 6414, 6584 confirmed, total schema coverage beyond 56 pages tracked.
+- **Blog Published — "How to Light a Home Office to Reduce Eye Strain" (Fri 29):** LEDSone UK educational blog live. Internal SEO value for related lighting collections.
+- **GEO Action Plan for Next Week (Fri 29):** Three structured GEO implementation tasks defined with target URLs and expected outcomes.
+- **GEO Brand Knowledge Baseline Audit — Gemini, ChatGPT, Perplexity, Claude (Fri 29):** AI visibility baseline documented across 4 AI systems. Benchmarking foundation for future GEO tracking established.
 
 ---
 
 ### 2. OPPORTUNITY WASTED — COMPANY
 
-- **No Backlinks on Tuesday or Thursday:** Backlinks were explicitly listed as "No links acquired" on Tuesday and Thursday. With 3 working days available, backlink acquisition was only attempted on Wednesday — and that single link was a Cylex USA directory submission. Two out of three available days had zero backlink activity. This is consistent weak execution in link building across the team.
-- **Cylex USA Directory Submission as the Sole Backlink:** A citation directory listing is a foundational activity, not a growth-stage link building action. For a senior-level SEO role, logging a Cylex directory submission as the week's backlink output signals either a pipeline problem or deliberate low-effort compliance. Zero niche-relevant editorial links acquired this week. Estimated authority impact: negligible.
-- **GEO Action Plan Created Tuesday — No Implementation Until Thursday:** The GEO plan was produced on Tuesday. Two full days elapsed before even the first implementation task (robots.txt audit + baseline) was executed on Thursday. A 48-hour gap between planning and execution on a time-sensitive GEO rollout is avoidable delay. This is a prioritisation failure.
-- **Organic Revenue Recovery Plan Created (Tue) — Not Acted On This Week:** The excluded Google Ads product list and SEO recovery strategy were produced on Tuesday and Wednesday but no live optimisation was deployed by week end for those products. The plan was built; execution did not follow within the same week.
-- **Wednesday EOD Filed as "28 May" (Thursday's Date):** The Wednesday 27 May EOD is date-stamped "28 May 2026" in the report header. This creates confusion in tracking and suggests the report may have been filed late or backdated. Minor but notable for documentation integrity.
-- **No Friday EOD Filed:** No EOD report exists for Friday 29 May. Either Dilaksi was on leave (no file in the repo confirming this) or the report was not submitted. Based on available data: no credit can be given for Friday output. This is the second week-end absence in the same month.
+- **Wall Light and Plugin Lighting Impression Crashes — No Recovery Action Taken Same Day:** Friday's GSC snapshot reveals /collections/wall-light lost 6,663 impressions WoW and /collections/plugin-lighting lost 1,977 impressions WoW. These are not small fluctuations — a 6,663-impression drop on a single collection URL is a significant visibility event. The correct response is an immediate investigation: check for deindexing, crawl errors, algorithm movement, or cannibalisation. Instead the Friday EOD notes it as "tracked" with a question asking if blog support should be prioritised next week. No investigation launched, no STL escalation, no root-cause hypothesis. This is the second week in a row where Dilaksi captures performance decline data correctly and then does nothing with it urgently.
+- **Zero Backlinks Tuesday, Thursday, and Friday:** 3 out of 4 available working days had no backlink activity. The only link built was a Cylex USA directory citation on Wednesday — a foundational listing, not a growth-stage acquisition. No niche-relevant editorial links acquired across the entire week for either LEDSone UK or DCVoltage.
+- **Organic Recovery Plan Built Tuesday — Live Optimisation Not Executed Until Wednesday/Thursday at Earliest:** The excluded Google Ads product list was created Tuesday. The products were prioritised Wednesday. Actual product-level meta optimisation for those 4 IDs was not confirmed live until Thursday's schema tracking update. A 2–3 day gap between plan creation and execution on an identified organic revenue opportunity is a recurring pattern this week.
+- **GEO Plan Created Tuesday — First Execution Task Not Until Thursday:** 48-hour planning-to-execution gap on GEO. Plan built Tuesday, robots.txt audit and baseline not executed until Thursday. On a time-sensitive AI visibility rollout, this delay is avoidable.
+- **Friday's Biggest Impression Losers Left Without Metadata Investigation:** /collections/wall-light (−6,663 impressions, 0% CTR change) and /collections/plugin-lighting (−1,977 impressions, −0.8% CTR) closed the week with no metadata audit, no content review, and no action committed. These are among the highest-impression collection pages on the site — leaving them unaddressed going into the weekend means another week of potential ranking regression.
+- **No Backlinks Friday 29 Despite Available Time:** Friday is a full working day based on the EOD filed. Yet backlinks are listed as "No backlink building activities completed today." Given 3 other working days also produced zero links, the weekly backlink output this week is 1 directory citation. For a site trying to build domain authority, this is a structural gap.
 
 ---
 
 ### 3. OPPORTUNITY WASTED — CAREER
 
-- **Planning without execution this week is the dominant pattern.** GEO action plan on Tuesday — no GEO execution until Thursday. Organic revenue recovery plan on Tuesday — no live product optimisations that week. SEO success story analysis on Tuesday — no evidence of delivery/action triggered. Dilaksi is producing strategic documents that are not converting into measurable SEO moves within the same week cycle. In a results-measured environment, planning documents that do not translate to ranked pages or traffic movement within the week are soft value.
-- **Directory submissions logged as backlink activity** at this experience level signals either task padding or an absence of genuine link-building strategy. Any senior review of the backlink log will raise concerns about the quality of link-building judgement.
-- **Missing Friday EOD with no leave filing** damages operational credibility. Consistent EOD compliance is a non-negotiable baseline for trust at a senior level — gaps signal accountability problems, regardless of actual work done.
+- **Correctly identifying a 6,663-impression drop and logging it as "tracked" without escalation or investigation** is the most damaging signal in this week's EODs. This kind of data point should trigger an immediate diagnostic response — not a question mark in the reflections. The pattern across all 4 days is identical: problem identified → noted → question deferred to STL. At senior level, the expectation is identify → investigate → hypothesise → recommend → execute. Dilaksi consistently stops at step 1.
+- **GEO planning without same-week execution completion** is a recurring credibility risk. Two weeks in a row the GEO implementation plan is created but only partially executed. By Friday, Task 1 (robots.txt audit) is done from Thursday — Tasks 2 and 3 are deferred to next week. A GEO plan with a 3-task scope that takes 2+ weeks to execute suggests either the tasks are not properly sized or the execution cadence is too slow.
+- **Cylex USA as the week's sole backlink** will stand out negatively in any authority-building review. The absence of any niche-relevant editorial link across 4 working days is a persistent gap that is accumulating week-over-week.
 
 ---
 
 ### 4. VALUE PER HOUR JUDGEMENT: **MEDIUM-HIGH**
 
-Across 3 working days, Dilaksi delivered multi-site outputs (LEDSone UK + DCVoltage), spanning collection page SEO, product optimisations, two published blogs, GEO baseline execution, schema tracking, indexing checks, and a strategic success story document. The breadth of output is commendable and demonstrates senior-level ownership across multiple workstreams. However, the consistent gap between planning and same-week live execution, the near-zero backlink contribution, and the missing Friday EOD prevent this from scoring at the top tier. Volume is high; impact verifiability is partial.
+Across 4 full working days, Dilaksi delivered multi-site outputs spanning LEDSone UK and DCVoltage: 2 blogs published, 1 new product listing, 6 DCVoltage product optimisations (across 2 days), 1 collection page optimised, 1 collection + blog combined, GSC snapshots twice (Wed and Fri), GEO baseline audit across 4 AI systems, FAQ schema tracking, internal linking audit, and indexing validation. Friday's EOD is notably stronger than last week — blog published, GEO baseline completed, product SEO done, schema confirmed, and a real GSC diagnostic delivered. The improvement in EOD completeness and Friday execution is real. However, the persistent backlink absence, the planning-before-execution loop, and the passive response to major impression losses prevent a High rating. Volume and quality of operational execution is improving; strategic response to performance signals is still lagging.
 
 ---
 
-### 5. WEEKLY SCORE: **64 / 100**
+### 5. WEEKLY SCORE: **67 / 100**
 
 | Deduction | Points |
 |---|---|
-| No backlinks Tue or Thu; only Cylex directory on Wed | -10 |
-| GEO plan created Tue but not executed until Thu (48hr gap) | -8 |
-| Organic recovery plan built but no live product SEO deployed | -7 |
-| No Friday EOD filed | -6 |
-| Wednesday EOD date-stamped incorrectly (filed as 28 May) | -3 |
-| Cylex directory as sole backlink — no niche-relevant link | -2 |
+| /wall-light −6,663 impressions WoW — no investigation or escalation | -12 |
+| Zero niche-relevant editorial backlinks (only 1 Cylex citation all week) | -10 |
+| GEO plan Tue — first execution task not until Thu (48hr gap) | -5 |
+| Organic recovery plan Tue — live optimisation gap until Wed/Thu | -4 |
+| Friday's impression losers left unaddressed at week close | -2 |
 
 ---
 
 ### 6. ONE-SENTENCE VERDICT
 
-**This week, Dilaksi was a Yellow because she produced strong multi-site SEO output across 3 days but repeatedly planned without executing within the same week cycle, delivered near-zero genuine backlink value, and failed to file a Friday EOD with no leave record to justify the absence.**
+**This week, Dilaksi was a Yellow-Green because she delivered stronger output across all 4 days including a complete Friday EOD with GEO baseline and blog execution, but allowed a 6,663-impression crash on /collections/wall-light to close the week without investigation or escalation, produced zero niche-relevant editorial backlinks across 4 working days, and continued her pattern of building plans 24–48 hours before executing them.**
 
 ---
 
 ### 7. NEXT-WEEK CORRECTIONS
 
-**STOP:** Building strategy documents and action plans without scheduling the first execution task in the same work session. If a plan is created on Tuesday, the first implementation step must happen Tuesday or Wednesday — not Thursday.
+**STOP:** Logging major impression drops (>500 WoW on any tracked URL) as "tracked" without running a same-session diagnostic. If a collection loses 6,000+ impressions in a week, the next action is investigation — not a question to the STL.
 
-**START:** Acquiring at minimum 1 niche-relevant editorial backlink per day (LEDSone UK or DCVoltage) — not directory submissions. Target DR25+ placements on lighting, electrical, or home improvement content sites.
+**START:** Executing the first GEO implementation task in the same session the plan is created. If the plan is written Tuesday, Task 1 runs Tuesday — not Thursday.
 
-**MEASURABLE SEO OUTPUT TEST:** Deploy live on-page SEO optimisations for the 4 excluded Google Ads product IDs (2909, 1242, 6414, 6584) identified this week, extract their current GSC impressions and CTR as a baseline, and submit before/after documentation by Wednesday 3 June EOD. Success signal: 4 product pages optimised, baseline CTR captured, and 2 niche-relevant editorial backlinks acquired by Friday.
+**MEASURABLE SEO OUTPUT TEST:** By Wednesday 4 June EOD: (1) complete root-cause investigation on /collections/wall-light and /collections/plugin-lighting impression crashes — deliver a documented hypothesis with proposed fix, (2) execute GEO Tasks 2 and 3 from Friday's plan, and (3) acquire 1 niche-relevant DR25+ editorial backlink for LEDSone UK. Success signal: Investigation report submitted, GEO Tasks 2+3 evidenced, 1 qualifying link live.
 
 ---
 
 ## SECTION B — NEXT WEEK TASK PIPE (MAX 5/DAY)
 
 ### Monday 2 June 2026
-1. **Execute organic SEO optimisation — excluded Google Ads products IDs 2909, 1242, 6414, 6584** (keyword mapping, metadata update, GSC resubmission). Expected outcome: 4 previously untapped organic product pages with improved SERP targeting. Success signal: Before/after meta documented + GSC resubmission confirmed.
-2. **GEO Task 2 — Next implementation phase** (following Task 1 robots.txt audit completion on Thu). Expected outcome: GEO implementation progresses to next checkpoint. Success signal: Task 2 completed and logged with evidence.
-3. **Niche-relevant backlink acquisition — 1 DR25+ LEDSone UK** (no directories). Expected outcome: New referring domain in lighting/electrical niche. Success signal: Live URL confirmed, niche-relevant, DR25+.
-4. **Collection page CTR audit — identify 3 low-CTR/high-impression pages from GSC** (action from Wed 27 reflection). Expected outcome: Prioritised list of collection pages ready for immediate metadata optimisation. Success signal: 3 URLs identified with GSC data, not just listed — optimised same day.
-5. **DCVoltage product optimisation — 3 new product IDs** with mandatory before/after meta snapshots. Expected outcome: 3 products with improved keyword targeting. Success signal: Before/after documented + live.
+1. **Emergency investigation — /collections/wall-light (−6,663 impressions) and /collections/plugin-lighting (−1,977 impressions):** Pull page-level GSC data (queries, devices, dates), check for crawl errors, deindexing, or cannibalisation. Expected outcome: Root-cause hypothesis documented. Success signal: Report with identified cause + proposed fix submitted to STL by EOD.
+2. **GEO Task 2 — Entity-focused FAQ content for /collections/commercial-lighting-for-restaurants-uk** (from Friday's action plan). Expected outcome: AI answer extraction and semantic relevance improved. Success signal: Content live, schema aligned, evidenced.
+3. **Live on-page SEO optimisation — excluded Google Ads products IDs 2909, 1242, 6414, 6584** (execute the plan built Tuesday this week). Expected outcome: 4 organic recovery product pages with improved metadata. Success signal: Before/after meta documented + GSC resubmitted.
+4. **1 DR25+ niche-relevant editorial backlink — LEDSone UK** (lighting, electrical, or home improvement domain, no directories). Success signal: Live URL + DR25+ + dofollow confirmed.
+5. **Collection CTR audit — top 5 impression losers from Friday snapshot** (/wall-light, /plugin-lighting, /conduit-lighting, /conduit-lightings, /conduit-lamp-holder) — metadata review and rewrites in same session. Success signal: 5 URLs updated, no audit-without-action.
 
 ### Tuesday 3 June 2026
-1. **Collection page metadata optimisation — 3 pages from Monday audit** (execute same-day, no audit-only loops). Success signal: 3 URLs updated + GSC resubmitted.
-2. **Blog publish — LEDSone UK (informational or commercial)** with GSC submission and internal linking same session. Success signal: Live URL + indexed + 3 internal links confirmed.
-3. **GEO Task 3 — Continue implementation checklist**. Success signal: Task 3 completed and evidenced.
-4. **Niche-relevant backlink — 1 DR25+ DCVoltage**. Success signal: Live URL, niche-relevant, DR25+.
-5. **FAQ schema — 3 product pages** (next batch beyond this week's 4). Success signal: Rich Results Test pass on all 3.
+1. **GEO Task 3 — Structured brand knowledge snippets on Homepage + key collections** (from Friday's plan). Success signal: Task 3 evidenced with before/after content documentation.
+2. **DCVoltage product optimisation — 5 new product IDs** with before-CTR logging. Success signal: 5 products live with before/after documented.
+3. **Blog publish — LEDSone UK** with GSC submission, internal links, and indexing check same session. Success signal: Live URL + indexed + 3 internal links confirmed.
+4. **1 DR25+ niche backlink — DCVoltage**. Success signal: Live URL + DR25+ confirmed.
+5. **Collection page CTR optimisation — 3 pages from Monday's audit backlog**. Success signal: 3 URLs updated same day, no deferred execution.
 
 ### Wednesday 4 June 2026
-1. **Excluded product organic SEO — GSC CTR baseline pull** for all 4 IDs optimised Monday + validate impressions change. Success signal: Before/after CTR table submitted.
-2. **Blog publish — DCVoltage** with indexing check same session. Success signal: Live + indexed confirmed same day.
-3. **Internal linking audit — 5 older blogs (LEDSone UK)** for orphan pages and weak anchor chains. Success signal: All 5 have minimum 3 internal links to commercial pages.
-4. **Niche-relevant backlink — 1 DR25+ LEDSone UK**. Success signal: Live placement confirmed.
-5. **GEO progress report** — consolidated status of Tasks 1–3, next priority, and measurable KPI baseline. Success signal: Report submitted to STL with evidence.
+1. **Wall-light + plugin-lighting recovery execution** — deploy metadata and content fixes based on Monday's investigation. Success signal: Fixes live + GSC resubmission confirmed.
+2. **GEO Task — AI-crawlable informational support blocks on product + collection pages** (Task 3 from Friday plan). Success signal: Blocks live on priority pages with schema alignment.
+3. **GSC CTR baseline pull — all May optimisations** (collection pages, excluded product IDs). Expected outcome: First verifiable ROI measurement for May optimisation programme. Success signal: Before/after CTR table submitted.
+4. **1 DR25+ niche backlink — LEDSone UK**. Success signal: Live URL confirmed.
+5. **DCVoltage blog publish** with indexing check same session. Success signal: Live + indexed same day.
 
 ### Thursday 5 June 2026
-1. **GSC indexing check — all content published this week**. Success signal: All URLs indexed or flagged for resubmission.
-2. **DCVoltage product optimisation — 3 more product IDs**. Success signal: Before/after documented + live.
-3. **Schema audit — all schemas implemented this week**. Success signal: Rich Results Test pass, zero errors.
-4. **Niche-relevant backlink — 1 DR25+**. Success signal: Live URL, DR25+, anchor confirmed.
-5. **Weekly performance snapshot (GSC)** — impressions, CTR, clicks WoW for priority collection pages. Success signal: Comparison table submitted.
+1. **GSC indexing check — all content published this week**. Success signal: All URLs indexed or flagged.
+2. **DCVoltage product optimisation — 3 more IDs** with mandatory before/after. Success signal: Live with evidence.
+3. **Schema batch — 5 LEDSone UK product pages** (implement + validate same session). Success signal: Rich Results Test pass ×5, no errors.
+4. **1 DR25+ niche backlink**. Success signal: Live URL + anchor logged.
+5. **Internal linking audit — 5 blogs published in May** (check for orphan pages). Success signal: All 5 confirmed with minimum 3 commercial internal links.
 
 ### Friday 6 June 2026
-1. **EOD report filed before end of day** — non-negotiable. Success signal: Filed by 5PM.
-2. **Weekly wrap-up: GEO implementation progress log** — tasks completed, blockers, next phase. Success signal: Submitted to STL.
-3. **Collection page optimisation — 2 pages** (ensure no audit-only carryover from the week). Success signal: 2 URLs updated with evidence.
-4. **Backlink weekly review** — confirm 5 qualifying links acquired across the week (no directories). Success signal: 5 DR25+ niche-relevant links logged.
-5. **Next week content pipeline** — 2 blog briefs (1 LEDSone UK, 1 DCVoltage) with target keywords and search volumes confirmed. Success signal: Topics submitted with keyword data.
+1. **Weekly GSC snapshot — LEDSone UK WoW** with specific focus on /wall-light and /plugin-lighting recovery tracking. Success signal: Impression comparison vs last Friday submitted. Any continued crash triggers same-day escalation.
+2. **GEO weekly progress report** — Tasks 1–3+ status, AI visibility baseline comparison, next phase. Success signal: Submitted to STL.
+3. **Collection optimisation — 2 pages** (close week with zero audit-without-action carryover). Success signal: 2 URLs updated with evidence.
+4. **Backlink weekly review — confirm minimum 3 DR25+ niche-relevant links for the week**. Success signal: 3 links in log, all niche-editorial, no directories.
+5. **Next week plan — 2 blog briefs + GEO next-phase tasks** with keyword volumes confirmed. Success signal: Submitted before EOD.
 
 ---
 *Audit generated by Claude Audit Bot — 2026-05-29*
